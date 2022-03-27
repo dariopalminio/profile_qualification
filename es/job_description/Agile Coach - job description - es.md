@@ -8,17 +8,17 @@ Agile Coach (EN), Entrenador Ágil, Facilitador Ágil de Equipo, Treinador Ágil
 
 Prepara o adiestra a profesionales y equipos en el marco Agile, marcos de trabajo y metodologías ágiles. Profesional que ayuda entrenado a mejorar y desarrollar el rol laboral de profesionales y equipos de manera más efectiva y eficiente, relacionado con su área de experticia y bajo un sistema de trabajo ágil.
 
-## Formación académica
+## Formación principal y académica
 
 Profesional del área TI (para el ámbito de desarrollo de software), titulado de carreras como: Ingeniero de Sistemas, Ingeniería Informática, Carreras a fin.
 
 ## Formación secundaria
 
-Postgrado, diplomados o certificaciones como: Profesional Scrum Master (PSM), Profesional Scrum Fundations (PSF), Certified Scrum Master (SCM), Profesional Scrum Product Owner (PSPO I, PSPO II), Certified Scrum Product Owner (CSPO), SAFe Product Owner/Product Manager
+Postgrado, diplomados o certificaciones como: Certificación de Agile Coaching (ICP-ACC, ICAgile), Agile Team Facilitation (ICP-ATF, ICAgile), Agile fundamentals (ICP ICAgile), Profesional Scrum Master (PSM), Profesional Scrum Fundations (PSF), Certified Scrum Master (SCM), Profesional Scrum Product Owner (PSPO I, PSPO II), Certified Scrum Product Owner (CSPO), SAFe Product Owner/Product Manager
 
 ## Supervisión o liderazgo
 
-No cuenta con personal a su cargo. Facilita a equipos.
+No cuenta con personal a su cargo. Facilita y lidera metodológicamente a equipos.
 
 ## Conocimientos y competencias
 
