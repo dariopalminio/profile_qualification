@@ -38,9 +38,10 @@ No cuenta con personal a su cargo. Facilita a equipos.
 
 ## Responsabilidades y funciones
 
-Realizar capacitaciones y workshop dirigido a equipos.
-Ayuda a los equipos a comprender la teoría, las prácticas, las reglas y los valores del marco de trabajo en adopción bajo el paradigma ágil. 
-Oficia de líder servidor de Equipos en pos de un trabajo ágil. 
-Ayuda a quienes están fuera del equipo de desarrollo a comprender cuáles de sus interacciones útiles y cuáles no con el equipo. 
-Audita, evalúa y guía a equipos en su desarrollo bajo algún modelo de madurez. 
-Ayuda a todos los miembros de los equipos a su tutela a cambiar y mejorar las interacciones de las personas para maximizar el valor que entrega el equipo.
+1. Realizar capacitaciones y workshop dirigido a equipos.
+2. Ayuda a los equipos a comprender la teoría, las prácticas, las reglas y los valores del marco de trabajo en adopción bajo el paradigma ágil. 
+3. Oficia de líder servidor de Equipos en pos de un trabajo ágil. 
+4. Ayuda a quienes están fuera del equipo de desarrollo a comprender cuáles de sus interacciones útiles y cuáles no con el equipo. 
+5. Audita, evalúa y guía a equipos en su desarrollo bajo algún modelo de madurez. 
+6. Ayuda a todos los miembros de los equipos a su tutela a cambiar y mejorar las interacciones de las personas para maximizar el valor que entrega el equipo.
+
