@@ -26,16 +26,15 @@ No cuenta con personal a su cargo. Facilita a equipos.
 2. Marcos o metodologías livianas de desarrollo de sistemas (ágiles) como: Scrum, Kanban, XP.
 3. Conocimiento en framework de escalado ágil: Nexus, SAFe, LeSS, etc.
 4. Conocimientos en Lean Thinking y Lean Manufacturing.
-5. En el ámbito de desarrollo de software necesita conocimientos técnicos y de ingeniería de software,
-6. informática y la industria TI. Esto es importante si el equipo que lidera desarrolla software.
-7. Capacidad de enseñanza (teaching) y mentoreo (mentoring); capacidades de docencia (trainer/teacher) para un grupo de personas.
-8. Conocimientos administrativos básicos y de gestión (Management 3.0).
-9. Habilidades de facilitación y moderación de reuniones efectivas y sesiones de trabajo con dinámicas
-10. conducentes a resultados efectivos y eficientes.
-11. Capacidades de coaching y de ayudar mediante la indagación tanto a miembros de equipos como a equipos completos.
-12. Capacidad de Liderazgo, de construcción de equipo (Team Building), mentoreo y coaching.
-13. Conocimientos de negocio (KPIs) y de desarrollo de productos.
-14. Conocimientos en Transformación Digital, Gestión del Cambio, Adopción ágil y Transformación Organizacional.
+5. En el ámbito de desarrollo de software necesita conocimientos técnicos y de ingeniería de software,informática y la industria TI. Esto es importante si el equipo que lidera desarrolla software.
+6. Capacidad de enseñanza (teaching) y mentoreo (mentoring); capacidades de docencia (trainer/teacher) para un grupo de personas.
+7. Conocimientos administrativos básicos y de gestión (Management 3.0).
+8. Habilidades de facilitación y moderación de reuniones efectivas y sesiones de trabajo con dinámicas
+9. conducentes a resultados efectivos y eficientes.
+10. Capacidades de coaching y de ayudar mediante la indagación tanto a miembros de equipos como a equipos completos.
+11. Capacidad de Liderazgo, de construcción de equipo (Team Building), mentoreo y coaching.
+12. Conocimientos de negocio (KPIs) y de desarrollo de productos.
+13. Conocimientos en Transformación Digital, Gestión del Cambio, Adopción ágil y Transformación Organizacional.
 
 ## Responsabilidades y funciones
 
