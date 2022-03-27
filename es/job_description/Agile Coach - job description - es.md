@@ -50,3 +50,8 @@ No cuenta con personal a su cargo. Facilita y lidera metodológicamente a equipo
 8. Ayuda a los equipos a mejorar técnicamente y a que se transformen en equipos de alto desempeño.
 9. Entrena, coachea y/o mentorea a diferentes roles dentro de un equipo ágil (Scrum Master, Product Owner, etc.).
 
+## Tecnologías
+
+- Manejo avanzado de herramientas de gestión ágil como: Jira de Atlassian. 
+- Manejo de herramientas de ofimática como Google Workspace o Microsoft 365 (manejo tableros kanban en Planner). 
+- Manejo de herramientas colaborativas (como: Miro, Mural, Scrumblr, IdeaBoardz, Sketchboard, etc.). 
