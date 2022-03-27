@@ -1,5 +1,6 @@
 Nombre: Agile Coach
-Otros Nombres: Agile Coach, Entrenador Ágil, Facilitador Ágil de Equipo o Especialista en Agilidad
+
+Otros Nombres: Agile Coach (EN), Entrenador Ágil, Facilitador Ágil de Equipo, Treinador Ágil (BR, PT) o Especialista en Agilidad
 
 Descripción
 
