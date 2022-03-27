@@ -4,7 +4,7 @@
 
 Agile Coach (EN), Entrenador Ágil, Facilitador Ágil de Equipo, Treinador Ágil (BR, PT) o Especialista en Agilidad
 
-Descripción
+## Descripción
 
 Prepara o adiestra a profesionales y equipos en el marco Agile, marcos de trabajo y metodologías ágiles. Profesional que ayuda entrenado a mejorar y desarrollar el rol laboral de profesionales y equipos de manera más efectiva y eficiente, relacionado con su área de experticia y bajo un sistema de trabajo ágil.
 
