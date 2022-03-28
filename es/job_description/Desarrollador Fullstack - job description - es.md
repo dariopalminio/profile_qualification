@@ -2,7 +2,7 @@
 
 ## Otros Nombres
 
-Fullstack Developer, Desarrollador Full Stack o Desenvolvedor de Software Fullstack (BR, PT)
+Fullstack Developer (EN), Desarrollador Full Stack o Desenvolvedor de Software Fullstack (BR, PT)
 
 ## Descripción
 
