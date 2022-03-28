@@ -39,7 +39,8 @@ Uso o programación de kits de sistemas de diseño UI para frontend.
 12. Conocimientos en securización, autorización y autenticación.
 13. Manejo de bibliotecas de desarrollo.
 14. Manejo de servicios web (APIs, REST, etc.).
-15. Capacidad de aprendizaje, investigación, análisis y diseño de sistemas informáticos, autonomía en sus tareas, proactivo, analítico, responsable, puntual con los compromisos y coordinación para trabajo en equipo
+15. Conocimientos en sistemas de mensajería y programación orientada a eventos.
+16. Capacidad de aprendizaje, investigación, análisis y diseño de sistemas informáticos, autonomía en sus tareas, proactivo, analítico, responsable, puntual con los compromisos y coordinación para trabajo en equipo
 
 ## Responsabilidades y funciones
 
@@ -57,5 +58,10 @@ Identificar problemas y riesgos de desarrollo de software y gestionarlos y escal
 11. Estimar esfuerzo de desarrollo de componentes y tareas además de colaborar con la planificación de trabajo. 
 
 ## Tecnologías
-Debe manejar al menos un Stack tecnológico completo: Stack MERN | MEAN | MEVN | J2EE | Java SpringBoot | .NET | LAPP | LAMP | LEMP | XAMPP | WAMP | AMPPS | Python-Django | iOS Mobile | Android Mobile | ReactJS Cross-Platform Mobile | Laravel & React | Laravel & VueJS | Wordpress | Drupal | AWS DevOps | Open DevOps | Azure DevOps | ELK Stack | etc. 
 
+La tecnología dependerá de los requisitos del puesto. La tecnología general relacionada es:
+- Debe manejar al menos un Stack tecnológico completo: Stack MERN | MEAN | MEVN | J2EE | Java SpringBoot | .NET | LAPP | LAMP | LEMP | XAMPP | WAMP | AMPPS | Python-Django | iOS Mobile | Android Mobile | ReactJS Cross-Platform Mobile | Laravel & React | Laravel & VueJS | Wordpress | Drupal | AWS DevOps | Open DevOps | Azure DevOps | ELK Stack | etc. 
+- Version control: github, gitlab, bitbucket, git, SVN, CVS, etc.
+- Base de datos relacional (SQL): Oracle, MariaDB, MySQL, PostgreSQL, etc.
+- Base de datos no relacional (NoSQL): MongoDB, Redis, Cassandra, HBase, etc.
+- Event & messaging systems: Kafka, RabbitMQ, etc. 

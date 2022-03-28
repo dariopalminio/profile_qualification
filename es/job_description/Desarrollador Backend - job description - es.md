@@ -60,4 +60,6 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 11. Estimar esfuerzo de desarrollo de componentes y tareas además de colaborar con la planificación de trabajo. 
 
 ## Tecnologías
+
+La tecnología dependerá de los requisitos del puesto. La tecnología general relacionada es:
 - Manejo de tecnología Back-end de un stack tecnológico, como por ejemplo: Manejo de NodeJS, Express/NestJS y Mongo en stack MERN | Manejo de NodeJS, Express y Mongo en stack MEAN | Manejo de NodeJS y Mongo en stack MEVN | Manejo de Java en stack J2EE |.NET | PHP en stack LAPP | PHP en stack LAMP | PHP en stack LEMP | PHP y Perl en stack XAMPP | WAMP | AMPPS | Python-Django | iOS Mobile | Android Mobile | ReactJS Cross-Platform Mobile | Laravel & React | Laravel & VueJS | PHP & Wordpress | PHP & Drupal |  

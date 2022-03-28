@@ -52,6 +52,7 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 
 ## Tecnologías
 
+La tecnología dependerá de los requisitos del puesto. La tecnología general relacionada es:
 - Base de datos relacional (SQL): Oracle, MariaDB, MySQL, PostgreSQL, etc.
 - Base de datos no relacional (NoSQL): MongoDB, Redis, Cassandra, HBase, etc.
 - Big Data querying tools: Pig, Hive, Impala, etc.

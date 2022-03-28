@@ -58,5 +58,6 @@ Manejo y configuración de IDEs de programación según lenguajes de programaci�
 
 ## Tecnologías
 
+La tecnología dependerá de los requisitos del puesto. La tecnología general relacionada es:
 - Debe saber CSS, HTML y Javascript.
 - Además, manejo de tecnología Front-end de un stack tecnológico, por ejemplo: Manejo de ReactJS en stack MERN | Manejo de Angular en stack MEAN | Manejo de VueJS en stack MEVN | Manejo de JSP, JSF, PrimeFace (Rich-face) y swing en stack J2EE | ASP .NET | PHP en stack LAPP | PHP en stack LAMP | PHP en stack LEMP | PHP y Perl en stack XAMPP | WAMP | AMPPS | Python-Django | iOS Mobile | Android Mobile | ReactJS Cross-Platform Mobile | Laravel & React | Laravel & VueJS | PHP & Wordpress | PHP & Drupal |  
