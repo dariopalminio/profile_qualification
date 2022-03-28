@@ -49,6 +49,7 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 5. Encadenar las rutinas y los procesos a través de redes de pipelines para automatizar su principal tarea: ETL (Extract, Transform, Load). 
 6. Garantizar la accesibilidad, precisión y seguridad de los datos. 
 7. Apoyar y facilitar el trabajo a analistas y científicos de datos, así como a negocio. 
+8. Estimar esfuerzo de desarrollo de componentes y tareas además de colaborar con la planificación de trabajo.
 
 ## Tecnologías
 
