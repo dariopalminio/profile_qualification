@@ -44,10 +44,10 @@ No cuenta con personal a su cargo. Facilita y lidera metodológicamente a equipo
 1. Realizar capacitaciones y workshop dirigido a equipos.
 2. Comunicar la metodología Agile e inculcar las mejores prácticas.
 3. Ayudar a los equipos a comprender la teoría, las prácticas, las reglas y los valores del marco de trabajo en adopción bajo el paradigma ágil: Scrum. Kanban y/o XP. 
-4. Oficia de líder servidor de equipos en pos de un trabajo ágil. 
-5. Ayudra a interesados o quienes están fuera del equipo de desarrollo a comprender cuáles de sus interacciones son útiles y cuáles no con el equipo. 
+4. Oficiar de líder servidor de equipos en pos de un trabajo ágil. 
+5. Ayudar a interesados o quienes están fuera del equipo de desarrollo a comprender cuáles de sus interacciones son útiles y cuáles no con el equipo. 
 6. Ayudar a interesados o quienes están fuera del equipo a entender el marco de trabajo ágil. 
-7. Audita, evalúa y guía a equipos en su desarrollo bajo algún modelo de madurez o playbook. 
+7. Auditar, evalúar y guía a equipos en su desarrollo bajo algún modelo de madurez o playbook. 
 8. Ayudar a todos los miembros de los equipos a su tutela a cambiar y mejorar las interacciones de las personas para maximizar el valor que entrega el equipo.
 9. Promover y defender una cultura de mejora continua, estableciendo objetivos e hitos y siendo responsable de ellos.
 10. Ayudar a los equipos a mejorar técnicamente y a que se transformen en equipos de alto desempeño.

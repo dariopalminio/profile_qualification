@@ -49,7 +49,7 @@ Lecto-comprensión y elementos de redacción en inglés.
 8. Solucionar los problemas técnicos y arquitecturales de una solución software a medida que surgen en su desarrollo. 
 9. Analizar el impacto comercial que ciertas opciones técnicas pueden tener en los procesos comerciales  o de negocio. 
 10. Proporcionar especificaciones según las cuales se define, gestiona y entrega la solución. 
-11. Investiga continuamente tecnologías emergentes y propone cambios a la arquitectura existente para reducir deuda técnica y mejorar la solución. 
+11. Investigar continuamente tecnologías emergentes y propone cambios a la arquitectura existente para reducir deuda técnica y mejorar la solución. 
 12. Asegurar el cumplimiento de requerimientos no funcionales y calidad del software: medir la performance de la aplicación y conducir pruebas en relación a la performance, seguridad, etc. 
 13. Liderazgo técnico: Supervisar, liderar y/o guiar al o los equipos de desarrollo. Realizar coaching y mentoring sobre problemas técnicos, ayudando a la evolución profesional del equipo de programadores.
 
