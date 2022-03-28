@@ -22,6 +22,8 @@ No tiene personal a cargo.
 
 ## Conocimientos y competencias
 
+Debe tener los siguientes conocimientos y competencias con la profundidad dependiente del nivel de seniority requerido:
+
 1. Conocer fundamentos de programación, estructura de datos, desarrollo Web y/o ingeniería de software.
 2. Conocer y saber codificar en HTML (HTML5), CSS (CSS3) y JavaScript. 
 Manejo y configuración de IDEs de programación según lenguajes de programación requerido. 

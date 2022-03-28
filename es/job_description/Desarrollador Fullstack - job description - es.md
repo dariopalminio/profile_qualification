@@ -22,6 +22,8 @@ No cuenta con personal a su cargo.
 
 ## Conocimientos y competencias
 
+Debe tener los siguientes conocimientos y competencias con la profundidad dependiente del nivel de seniority requerido:
+
 1. Conocer y saber codificar en algún lenguaje de programación tanto para front-end como para back-end. Es menester que sepa al menos HTML/CSS y javascript. 
 2. Conocer fundamentos de programación (algoritmos y estructura de datos).  
 3. Conocer fundamentos de desarrollo Web. 
