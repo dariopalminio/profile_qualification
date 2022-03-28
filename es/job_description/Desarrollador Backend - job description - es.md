@@ -22,6 +22,8 @@ No tiene personal a cargo.
 
 ## Conocimientos y competencias
 
+Debe tener los siguientes conocimientos y competencias con la profundidad dependiente del nivel de seniority requerido:
+
 1. Conocer fundamentos de programación (algoritmos y estructura de datos).  
 2. Conocer fundamentos de desarrollo Web. 
 3. Conocimientos en arquitecturas cliente-servido, microservicios y/o aplicaciones distribuidas. 
