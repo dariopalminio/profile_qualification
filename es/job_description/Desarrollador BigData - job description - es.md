@@ -2,7 +2,7 @@
 
 ## Otros Nombres
 
-Data Engineer (EN), Ingeniero de Datos, Desarrollador Big Data, Engenheiro de dados (PT, BR)
+Data Engineer (EN), Big Data Engineer (EN), Ingeniero de Datos, Desarrollador Big Data, Engenheiro de dados (PT, BR)
 
 ## Descripción
 
@@ -31,10 +31,14 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 5. Debe conocer el diseño y desarrollo de sistemas de arquitectura de datos. 
 6. Debe dominar el procesamiento de datos (Data Base, DM, Data warehouse), que incluye implementación y manipulación de bases de datos relacionales (SQL, PL/SQL) y no relacionales (NoSQL). 
 7. La capacidad para implementar tecnologías de gestión de datos, reportería y elaboración de informes. 
-8. Uso de herramientas de BI y visualización de datos. 
-9. Conocimientos en infraestructuras Cloud (Azure, AWS y/o Google Cloud Platform). 
-10. Conocimientos en Big Data, Machine Learning, Deep Learning, Data wrangling, Data mining, Data Lake, Data Workflow, Procesos ETL, data munging o data tyding. 
-11. Conocimiento y uso de herramientas de Big Data y explotación de datos. 
+8. Comprensión competente de los principios de computación distribuida.
+9. Uso de herramientas de BI y visualización de datos. 
+10. Conocimientos en infraestructuras Cloud (Azure, AWS y/o Google Cloud Platform). 
+11. Conocimientos en Big Data, Machine Learning, Deep Learning, Data wrangling, Data mining, Data Lake, Data Workflow, Procesos ETL, data munging o data tyding. 
+12. Conocimiento y uso de herramientas de Big Data y explotación de datos. 
+13. Experiencia con la integración de datos de múltiples fuentes de datos.
+14. Conocimientos en sistemas de mensajería y programación orientada a eventos.
+15. Buen conocimiento de la Arquitectura Lambda, junto con sus ventajas y desventajas.
 
 ## Responsabilidades y funciones
 
@@ -49,9 +53,12 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 ## Tecnologías
 
 - Base de datos relacional (SQL): Oracle, MariaDB, MySQL, PostgreSQL, etc.
-- Base de datos no relacional (NoSQL): MongoDB, Redis, HBase, etc.
+- Base de datos no relacional (NoSQL): MongoDB, Redis, Cassandra, HBase, etc.
+- Big Data querying tools: Pig, Hive, Impala, etc.
 - Tecnología cloud computing: Google Cloud Platform, AWS, Asure, etc.
 - Motores de BigData: Spark (Spark/Scala/HDFS/Hive, Python, SQL, Shell).
 - Framework de programación distribuida de BigData: Hadoop (Hadoop, Spark,  HDFS , Map Reduce, Yarn, PIG, HIVE, HBase, Mahout, Spark MLLib, Solar, Lucene, Zookeeper, Oozie ).
 - Herramientas de automatización: Ansible, Control M, etc.
-
+- ETL tools: Apache Flume, Apache Sqoop, Apache HBase, Apache Hive, Apache Oozie, Apache Phoenix, Apache Pig, Apache ZooKeeper.
+- Event & messaging systems: Kafka, RabbitMQ, etc.
+- Big Data Machine Learning toolkits: Mahout, SparkML, H2O, etc.
