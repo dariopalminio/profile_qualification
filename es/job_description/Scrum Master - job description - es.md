@@ -32,10 +32,10 @@ Cuenta con personas a cargo en un equipo de desarrollo o lidera un equipo de ent
 
 ## Responsabilidades y funciones
 
-1.	Ayuda a todos a comprender la teoría, las prácticas, las reglas y los valores del marco de trabajo.
-2.	Oficia de líder servidor del Equipo. Tiene el protagonismo y responde por el rendimiento del equipo.
-3.	Ayuda a quienes están fuera del equipo de desarrollo a comprender cuáles de sus interacciones útiles y cuáles no con el equipo.
-4.	Ayuda a todos a cambiar y mejorar las interacciones de las personas para maximizar el valor que entrega el equipo.
+1.	Ayudar a todos a comprender la teoría, las prácticas, las reglas y los valores del marco de trabajo.
+2.	Oficiar de líder servidor del Equipo. Tiene el protagonismo y responde por el rendimiento del equipo.
+3.	Ayudar a quienes están fuera del equipo de desarrollo a comprender cuáles de sus interacciones útiles y cuáles no con el equipo.
+4.	Ayudar a todos a cambiar y mejorar las interacciones de las personas para maximizar el valor que entrega el equipo.
 
 **Con el equipo:**
 
@@ -59,8 +59,8 @@ Cuenta con personas a cargo en un equipo de desarrollo o lidera un equipo de ent
 **Con la organización:**
 
 6.	Asegurar delivery, es decir software funcionando.
-7.	Durante cada evento SoS o en reuniones de coordinación, el SM visibiliza y coordina las dependencias inter-equipo, riesgos e impedimentos.
-8.	Escala oportuna y apropiadamente las necesidades o impedimentos del equipo en busca de soluciones.
+7.	Durante cada evento Scrum-of-Scrum o en reuniones de coordinación entre equipos, el SM visibiliza y coordina las dependencias inter-equipo, riesgos e impedimentos.
+8.	Escalar oportuna y apropiadamente las necesidades o impedimentos del equipo en busca de soluciones.
 9.	Dar visibilidad del trabajo y de los resultados del equipo. Asegurar que las Workspace Technology de gestión (como Jira) se encuentren actualizadas y con integridad adecuada.
 10.	Asegurar que el equipo sigue y cumple los estándares organizacionales (compliance, seguridad, etc.) y los estándares de las herramientas de Workspace Technology (como Jira, Confluence, etc.).
 11.	Liderar, capacitar y 'mentorizar' a la organización en su adopción del marco de trabajo;
