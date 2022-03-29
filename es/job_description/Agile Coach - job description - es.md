@@ -60,5 +60,6 @@ Impulse el cambio cultural defendiendo una mentalidad ágil y asegúrese de que 
 ## Tecnologías
 
 - Manejo avanzado de herramientas de gestión ágil como: Jira de Atlassian. 
-- Manejo de herramientas de ofimática como Google Workspace o Microsoft 365 (manejo tableros kanban en Planner). 
-- Manejo de herramientas colaborativas (como: Miro, Mural, Scrumblr, IdeaBoardz, Sketchboard, etc.). 
+- Manejo de herramientas de ofimática como Google Workspace o Microsoft 365. 
+- Organizaciónd del trabajo: Microsoft 365 (manejo tableros kanban en Planner), Kanbanize, Doodle, Asana, Teams, Kabanize, et.
+- Manejo de herramientas colaborativas como: Miro, Mural, Scrumblr, IdeaBoardz, Sketchboard, witeboard, Stormboard, etc. 
