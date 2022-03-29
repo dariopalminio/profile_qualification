@@ -49,11 +49,11 @@ No suele contar con personas a cargo aunque si lidera, en cuanto a producto, a u
 11.	Proyectar plazos y definir marcos o ventanas de Entregas, para lo cual construye y propone, junto al equipo, hojas de ruta (roadmap) y agendas de entregas (release plan, etc.).
 12.	Debe liderar la Planning, la Review y los refinamientos desde el aspecto de negocio y dominio de problema; asistir a las Daily en la medida de lo posible y participar en la Retrospective.
 13.	En la Planning debe definir el objetivo del período de trabajo (Sprint Goal). Además, colaborar con el equipo de desarrollo a comprender las partes del Product Blacklog y estar libre de acordar el alcance del Sprint.
-14.	Durante cada Planificación de Incremento o en reuniones como la de PO, el PO visibiliza y coordina las dependencias inter-producto con otros POs.
+14.	Durante cada Planificación de Incremento, en reuniones como la de sincronización de POs, el PO visibiliza y coordina las dependencias inter-producto con otros POs.
 15.	En la Review, el Product Owner debe poder demostrar y explicar los elementos del Product Blacklog, comentar su estado y hacer un feedback relacionando el estado del mercado en ese momento.
 16.	Debe participar como un miembro más del equipo para hacer sinergia, resolver impedimentos de negocio, asegurar entendimiento de los problemas de negocio y asegurar el éxito en construir el mejor producto posible.
 17.	Debe tener capacidad de decidir, y estar dispuesto siempre para el equipo.
-18.	Debe saber cómo funciona el desarrollo del software. Es decir, comprender el trabajo técnico habilitador: si bien no se espera que las POs impulsen las decisiones tecnológicas, se supone que comprendan el alcance del próximo trabajo del habilitador y colaboren con el arquitecto o Technical Leader para ayudar con la toma de decisiones y la secuenciación de las infraestructuras tecnológicas críticas alojar la nueva funcionalidad empresarial.
+18.	Debe saber cómo funciona el desarrollo del software. Es decir, comprender el trabajo técnico habilitador: si bien no se espera que los POs impulsen las decisiones tecnológicas, se supone que comprendan el alcance del próximo trabajo del habilitador y colaboren con el arquitecto o líder técnico para ayudar con la toma de decisiones y la secuenciación de las infraestructuras tecnológicas críticas alojar la nueva funcionalidad empresarial.
 19.	Comprometerse con la cultura organizacional y los valores y principios ágiles. Debe ser un agente de cambio que apoye y promueva la cultura ágil y el cambio organizacional hacia el Business Agility.
 
 
