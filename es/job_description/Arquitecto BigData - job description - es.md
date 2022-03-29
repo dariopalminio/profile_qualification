@@ -27,7 +27,7 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 1. Tener conocimientos informáticos, matemáticos y estadísticos.  
 2. Saber programar en lenguajes como: R, Python, C, Java y Perl. 
 3. Conocer sobre Gobierno de datos y seguridad de datos. 
-4. Debe conocer el diseño y desarrollo de sistemas de arquitectura de datos: Arquitectura distribuida, Big Data Architectural Patterns y principios de Big Data Architecture. 
+4. Debe conocer el diseño y desarrollo de sistemas de arquitectura de datos: Arquitectura distribuida, Patrones de Big Data ('Big Data Patterns and Mechanisms') y principios de Big Data Architecture. 
 5. Debe dominar el modelado y diseño de datos (Data Base, DM, Data warehouse), que incluye el diseño y estructura de bases de datos relacionales (SQL, PL/SQL) y no relacionales (NoSQL). 
 6. El conocimiento sobre modelado predictivo, sistemas ERP y CRM, así como el análisis de texto. También su formación en aprendizaje automático. 
 7. La capacidad para implementar tecnologías de gestión de datos, reportería y elaboración de informes. 
