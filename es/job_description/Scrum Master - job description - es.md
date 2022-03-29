@@ -76,5 +76,6 @@ Cuenta con personas a cargo en un equipo de desarrollo o lidera un equipo de ent
 - Herramientas de gestión de proyectos ágiles como: suite Atlassian (JIRA y Confluence).
 - Herramientas de ofimática como: Google Workspace, Microsoft 365, etc.
 - Herramientas de gestión de tareas como: Planner de suite Microsoft 365.
+- Manejo de herramientas colaborativas como: Miro, Mural, Scrumblr, IdeaBoardz, Sketchboard, Witeboard, Stormboard, Google Jamboard, etc. 
 
 
