@@ -32,42 +32,42 @@ Cuenta con personas a cargo en un equipo de desarrollo o lidera un equipo de ent
 
 ## Responsabilidades y funciones
 
-1.	Ayudar a todos a comprender la teoría, las prácticas, las reglas y los valores del marco de trabajo.
-2.	Oficiar de líder servidor del Equipo. Tiene el protagonismo y responde por el rendimiento del equipo.
-3.	Ayudar a quienes están fuera del equipo de desarrollo a comprender cuáles de sus interacciones útiles y cuáles no con el equipo.
-4.	Ayudar a todos a cambiar y mejorar las interacciones de las personas para maximizar el valor que entrega el equipo.
+8.	Ayudar a todos a comprender la teoría, las prácticas, las reglas y los valores del marco de trabajo.
+9.	Oficiar de líder servidor del Equipo. Tiene el protagonismo y responde por el rendimiento del equipo.
+10.	Ayudar a quienes están fuera del equipo de desarrollo a comprender cuáles de sus interacciones útiles y cuáles no con el equipo.
+11.	Ayudar a todos a cambiar y mejorar las interacciones de las personas para maximizar el valor que entrega el equipo.
 
 **Con el equipo:**
 
-5.	Promover y guiar a que se desarrolle software de calidad y que se apliquen buenas prácticas de ingeniería de software.
-6.	Capacitar a los miembros del equipo en autogestión y multifuncionalidad.
-7.	Ayudar al equipo da centrarse en la creación de incrementos de alto valor que cumplan con la definición de terminado (DOD);
-8.	Promover la eliminación de los impedimentos para el progreso del equipo;
-9.	Asegurar de que todos los eventos del marco de trabajo (daily, planning, etc.) se lleven a cabo, sean positivos, productivos y que se respete el tiempo establecido (time-box) para cada uno de ellos.
-10.	Ayudar al crecimiento profesional de los miembros del equipo de desarrollo y al mejoramiento de sus habilidades.
-11.	Ser embajador del equipo en cuanto a temas metodológicos, técnicos (junto a un Líder Técnico) y de relaciones humanas.
-12.	Buscar lograr un equipo balanceado, sostenible y de alto rendimiento.
+12.	Promover y guiar a que se desarrolle software de calidad y que se apliquen buenas prácticas de ingeniería de software.
+13.	Capacitar a los miembros del equipo en autogestión y multifuncionalidad.
+14.	Ayudar al equipo da centrarse en la creación de incrementos de alto valor que cumplan con la definición de terminado (DOD);
+15.	Promover la eliminación de los impedimentos para el progreso del equipo;
+16.	Asegurar de que todos los eventos del marco de trabajo (daily, planning, etc.) se lleven a cabo, sean positivos, productivos y que se respete el tiempo establecido (time-box) para cada uno de ellos.
+17.	Ayudar al crecimiento profesional de los miembros del equipo de desarrollo y al mejoramiento de sus habilidades.
+18.	Ser embajador del equipo en cuanto a temas metodológicos, técnicos (junto a un Líder Técnico) y de relaciones humanas.
+19.	Buscar lograr un equipo balanceado, sostenible y de alto rendimiento.
 
 **Con el Product Owner:**
 
-1.	Ayudar a encontrar técnicas para una definición eficaz de los objetivos del producto y la gestión de los retrasos en el producto;
-2.	Ayudar al equipo a comprender la necesidad de elementos de trabajo pendiente de productos claros y concisos;
-3.	Ayudar a establecer la planificación empírica de productos para un entorno complejo;
-4.	Facilitar la colaboración de las partes interesadas según sea solicitado o necesario.
-5.	Ayudar a su crecimiento profesional y al mejoramiento de sus habilidades.
+20.	Ayudar a encontrar técnicas para una definición eficaz de los objetivos del producto y la gestión de los retrasos en el producto;
+21.	Ayudar al equipo a comprender la necesidad de elementos de trabajo pendiente de productos claros y concisos;
+22.	Ayudar a establecer la planificación empírica de productos para un entorno complejo;
+23.	Facilitar la colaboración de las partes interesadas según sea solicitado o necesario.
+24.	Ayudar a su crecimiento profesional y al mejoramiento de sus habilidades.
 
 **Con la organización:**
 
-6.	Asegurar delivery, es decir software funcionando.
-7.	Durante cada evento Scrum-of-Scrum o en reuniones de coordinación entre equipos, el SM visibiliza y coordina las dependencias inter-equipo, riesgos e impedimentos.
-8.	Escalar oportuna y apropiadamente las necesidades o impedimentos del equipo en busca de soluciones.
-9.	Dar visibilidad del trabajo y de los resultados del equipo. Asegurar que las Workspace Technology de gestión (como Jira) se encuentren actualizadas y con integridad adecuada.
-10.	Asegurar que el equipo sigue y cumple los estándares organizacionales (compliance, seguridad, etc.) y los estándares de las herramientas de Workspace Technology (como Jira, Confluence, etc.).
-11.	Liderar, capacitar y 'mentorizar' a la organización en su adopción del marco de trabajo;
-12.	Planificar y asesorar sobre la implementación del marco de trabajo dentro de la organización;
-13.	Ayudar a las personas y a las partes interesadas a comprender y promulgar un enfoque empírico para el trabajo complejo;
-14.	Eliminar las barreras entre las partes interesadas y los equipos.
-15.	Comprometerse con la cultura organizacional y los valores y principios ágiles. Debe ser un agente de cambio que impulse, apoye y promueva la cultura ágil y el cambio organizacional hacia el Business Agility
+25.	Asegurar delivery, es decir software funcionando.
+26.	Durante cada evento Scrum-of-Scrum o en reuniones de coordinación entre equipos, el SM visibiliza y coordina las dependencias inter-equipo, riesgos e impedimentos.
+27.	Escalar oportuna y apropiadamente las necesidades o impedimentos del equipo en busca de soluciones.
+28.	Dar visibilidad del trabajo y de los resultados del equipo. Asegurar que las Workspace Technology de gestión (como Jira) se encuentren actualizadas y con integridad adecuada.
+29.	Asegurar que el equipo sigue y cumple los estándares organizacionales (compliance, seguridad, etc.) y los estándares de las herramientas de Workspace Technology (como Jira, Confluence, etc.).
+30.	Liderar, capacitar y 'mentorizar' a la organización en su adopción del marco de trabajo;
+31.	Planificar y asesorar sobre la implementación del marco de trabajo dentro de la organización;
+32.	Ayudar a las personas y a las partes interesadas a comprender y promulgar un enfoque empírico para el trabajo complejo;
+33.	Eliminar las barreras entre las partes interesadas y los equipos.
+34.	Comprometerse con la cultura organizacional y los valores y principios ágiles. Debe ser un agente de cambio que impulse, apoye y promueva la cultura ágil y el cambio organizacional hacia el Business Agility
 
 
 ## Tecnologías
