@@ -2,7 +2,7 @@
 
 ## Otros Nombres
 
-Fullstack Developer (EN), Desarrollador Full Stack o Desenvolvedor de Software Fullstack (BR, PT)
+Fullstack Developer (EN), Full Stack Web Developer (EN), Desarrollador Full Stack (ES) o Desenvolvedor de Software Fullstack (BR, PT)
 
 ## Descripción
 
@@ -28,19 +28,22 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 2. Conocer fundamentos de programación (algoritmos y estructura de datos).  
 3. Conocer fundamentos de desarrollo Web. 
 4. Capacidad de ser ‘fullstack’ o de manejar y comprender todo un stack tecnológico. 
-5. Manejo y configuración de IDEs de programación según lenguajes de programación requerido.
-6. Saber usar software de control de versiones (como github, gitlab, bitbucket, git, SVN, CVS, etc.). 
-7. Conocimiento en programación frontend de vistas UI.
-Uso o programación de kits de sistemas de diseño UI para frontend.
-8. Conocimientos de motores de Base de Datos relacionales (SQL) y/o no relacionales (NoSQL) y en persistencia y recuperación de datos (CRUD). 
-9. Conocer buenas prácticas de programación (Clean code, SOLID, etc.). 
-10. Conocimientos de Testing.
-11. Conocimientos DevOps (CI/CD) para desarrollo. 
-12. Conocimientos en securización, autorización y autenticación.
-13. Manejo de bibliotecas de desarrollo.
+5. Buen conocimiento de los lenguajes de server-side templating como Jade, EJS, Jinja, etc., según el stack de tecnología elegido.
+6. Buena comprensión de los preprocesadores server-side CSS como Stylus, Less, Sass, etc., según su stack de tecnología elegido.
+7. Buena comprensión de librerías y frameworks de JavaScript como AngularJS, KnockoutJS, BackboneJS, ReactJS, DurandalJS, etc., según el stack de tecnología elegido.
+8. Manejo y configuración de IDEs de programación según lenguajes de programación requerido.
+9. Saber usar software de control de versiones (como github, gitlab, bitbucket, git, SVN, CVS, etc.). 
+10. Conocimiento en programación frontend de vistas UI. Uso o programación de kits de sistemas de diseño UI para frontend.
+11. Conocimientos de motores de Base de Datos relacionales (SQL) y/o no relacionales (NoSQL) y en persistencia y recuperación de datos (CRUD). 
+12. Conocer buenas prácticas de programación (Clean code, SOLID, etc.). 
+13. Conocimientos de Testing. Capacidad para implementar plataformas de pruebas automatizadas y pruebas unitarias.
+14. Conocimientos DevOps (CI/CD) para desarrollo. 
+15. Conocimientos en securización, autorización y autenticación.
+16. Migración de datos, transformación y scripting.
 14. Manejo de servicios web (APIs, REST, etc.).
-15. Conocimientos en sistemas de mensajería y programación orientada a eventos.
-16. Capacidad de aprendizaje, investigación, análisis y diseño de sistemas informáticos, autonomía en sus tareas, proactivo, analítico, responsable, puntual con los compromisos y coordinación para trabajo en equipo
+15. Familiaridad con las herramientas de empaquetado, building y manejo de dependencias como; npm, Bower, Bundler, Rake, Gulp, etc., según la pila de tecnología a usar.
+16. Conocimientos en sistemas de mensajería y programación orientada a eventos.
+17. Capacidad de aprendizaje, investigación, análisis y diseño de sistemas informáticos, autonomía en sus tareas, proactivo, analítico, responsable, puntual con los compromisos y coordinación para trabajo en equipo
 
 ## Responsabilidades y funciones
 
