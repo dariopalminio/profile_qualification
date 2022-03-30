@@ -35,15 +35,16 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 9. Saber usar software de control de versiones (como github, gitlab, bitbucket, git, SVN, CVS, etc.). 
 10. Conocimiento en programación frontend de vistas UI. Uso o programación de kits de sistemas de diseño UI para frontend.
 11. Conocimientos de motores de Base de Datos relacionales (SQL) y/o no relacionales (NoSQL) y en persistencia y recuperación de datos (CRUD). 
-12. Conocer buenas prácticas de programación (Clean code, SOLID, etc.). 
+12. Conocer buenas prácticas, principios de desarrollo (Clean code, SOLID, KISS, DRY, etc.) y patrones de arquitectura (microservicios, CQRS, clean architecture, event sourcing, etc.).  
 13. Conocimientos de Testing. Capacidad para implementar plataformas de pruebas automatizadas y pruebas unitarias.
 14. Conocimientos DevOps (CI/CD) para desarrollo. 
 15. Conocimientos en securización, autorización y autenticación.
 16. Migración de datos, transformación y scripting.
 14. Manejo de servicios web (APIs, REST, etc.).
 15. Familiaridad con las herramientas de empaquetado, building y manejo de dependencias como; npm, Bower, Bundler, Rake, Gulp, etc., según la pila de tecnología a usar.
-16. Conocimientos en sistemas de mensajería y programación orientada a eventos.
-17. Capacidad de aprendizaje, investigación, análisis y diseño de sistemas informáticos, autonomía en sus tareas, proactivo, analítico, responsable, puntual con los compromisos y coordinación para trabajo en equipo
+16. Conocimientos y manejo de logging, tracing y monitoreo.
+17. Conocimientos en sistemas de mensajería y programación orientada a eventos.
+18. Capacidad de aprendizaje, investigación, análisis y diseño de sistemas informáticos, autonomía en sus tareas, proactivo, analítico, responsable, puntual con los compromisos y coordinación para trabajo en equipo
 
 ## Responsabilidades y funciones
 
