@@ -6,7 +6,7 @@ Data Architect (EN), Arquitecto de Datos, Arquitecto Big Data, Arquiteto de Dado
 
 ## Descripción
 
-Experto digital que se encarga de plantear la estrategia de datos de la empresa, área u organización, influyendo sus estándares de calidad, el tratamiento del flujo de datos dentro de la organización y la seguridad de los mismos. Responsable del diseño, la estructura y el mantenimiento de grandes volúmenes de datos y su infraestructura de procesamiento, garantizando la precisión y accesibilidad de los datos relevantes. 
+Experto digital en arquitectura Big Data, que se encarga de plantear la estrategia de datos de la empresa, área u organización, influyendo sus estándares de calidad, el tratamiento del flujo de datos dentro de la organización y la seguridad de los mismos. Responsable del diseño, la estructura y el mantenimiento de grandes volúmenes de datos y su infraestructura de procesamiento, garantizando la precisión y accesibilidad de los datos relevantes. 
 
 ## Formación principal y académica
 
@@ -33,6 +33,7 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 7. La capacidad para implementar tecnologías de gestión de datos, reportería y elaboración de informes. 
 8. Saber sobre Machine Learning, Deep Learning, Data wrangling, Data mining, Data Lake, Data Workflow, Procesos ETL, data munging o data tyding. 
 9. Conocimiento y uso de herramientas de Big Data y explotación de datos.
+10. Conocimientos en Cloud Computing y arquitectura Cloud (Cloud Computing Design Patterns & Mechanisms).
 
 ## Responsabilidades y funciones
 
