@@ -2,7 +2,7 @@
 
 ## Otros Nombres
 
-Data Architect (EN), Arquitecto de Datos, Arquitecto Big Data, Arquiteto de Dados (PT, BR)
+Big Data Architect (EN), Data Architect (EN), Arquitecto de Datos, Arquitecto Big Data, Arquiteto de Dados (PT, BR)
 
 ## Descripción
 
@@ -27,13 +27,14 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 1. Tener conocimientos informáticos, matemáticos y estadísticos.  
 2. Saber programar en lenguajes como: R, Python, C, Java y Perl. 
 3. Conocer sobre Gobierno de datos y seguridad de datos. 
-4. Debe conocer el diseño y desarrollo de sistemas de arquitectura de datos: Arquitectura distribuida, Patrones de Big Data ('Big Data Patterns and Mechanisms') y principios de Big Data Architecture. 
-5. Debe dominar el modelado y diseño de datos (Data Base, DM, Data warehouse), que incluye el diseño y estructura de bases de datos relacionales (SQL, PL/SQL) y no relacionales (NoSQL). 
-6. El conocimiento sobre modelado predictivo, sistemas ERP y CRM, así como el análisis de texto. También su formación en aprendizaje automático. 
-7. La capacidad para implementar tecnologías de gestión de datos, reportería y elaboración de informes. 
-8. Saber sobre Machine Learning, Deep Learning, Data wrangling, Data mining, Data Lake, Data Workflow, Procesos ETL, data munging o data tyding. 
-9. Conocimiento y uso de herramientas de Big Data y explotación de datos.
-10. Conocimientos en Cloud Computing y arquitectura Cloud (Cloud Computing Design Patterns & Mechanisms).
+4. Debe conocer el diseño y desarrollo de sistemas de arquitectura de datos: arquitectura distribuida, patrones de arquitectura y principios de arquitectura Big Data. 
+5. Conocimiento en mecanismos y patrones de Big Data: Data Source Patterns, Storage Patterns, Data Processing Patterns, Data Transfer and Transformation Patterns, Data Maintenance Patterns, Compound Patterns, etc.
+6. Debe dominar el modelado y diseño de datos (Data Base, DM, Data warehouse), que incluye el diseño y estructura de bases de datos relacionales (SQL, PL/SQL) y no relacionales (NoSQL). 
+7. El conocimiento sobre modelado predictivo, sistemas ERP y CRM, así como el análisis de texto. También su formación en aprendizaje automático. 
+8. La capacidad para implementar tecnologías de gestión de datos, reportería y elaboración de informes. 
+9. Saber sobre Machine Learning, Deep Learning, Data wrangling, Data mining, Data Lake, Data Workflow, Procesos ETL, data munging o data tyding. 
+10. Conocimiento y uso de herramientas de Big Data y explotación de datos.
+11. Conocimientos en Cloud Computing, 'Cloud-based Big Data Processing' y arquitectura Cloud en general (Cloud Computing Design Patterns & Mechanisms).
 
 ## Responsabilidades y funciones
 
