@@ -53,14 +53,15 @@ La tecnología dependerá de los requisitos del puesto. La tecnología general r
 
 - Programming Language: Python, etc.
 - Operating System: Unix, Linux,  Windows, Mac OS, etc.
-- Sistemas Cloud Computing: Google Cloud Platform (GCP), AWS, Asure, etc.
-- IaC: Terraform, etc.
+- Cloud Computing Provider: Google Cloud Platform (GCP), AWS, Asure, etc.
+- IaC Provisioning: Terraform, CloudFormation, etc.
 - Containerization & Virtualization: Docker, etc.
 - Orchestration: Kubernetes, etc.
-- Logging, tracing & monitoring: Datadog, Grafana, etc.
+- Infraestructure Monitoring: Datadog, Grafana, Prometheus, Nagios, Monit, Zabbix etc.
+- Logs Management: Elastic Stark, Splunk, Papertrail, Graylog, etc.
 - CI/CD: Github (Workflows, CLI) 
 - Version Control System: Github, SVN, etc.
 - Security: Apache Knox, Apache Ranger, etc.
 - Data Base SQL: Oracle, MySQL, etc.
 - Data Base NoSQL: Redis, MongoDB, etc.
-- Automation tools: Ansible, Control M, etc.
+- Automation tools & Configuration Management: Ansible, Control M, Chef, Puppet, etc.
