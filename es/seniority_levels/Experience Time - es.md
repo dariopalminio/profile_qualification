@@ -2,29 +2,29 @@
 
 ## Trainee
 
-0-1 year
+De 0 a 1 Año.
 
 ## Junior
 
-1 - 2 years
+De 1 a 2 años.
 
 ## Semi senior
 
-2 - 6 year
+de 2 a 6 años.
 
 ## Senior
 
-6+ years
+6+ años.
 
 ## Senior Advanced
 
-8+ years
+8+ años.
 
 ## Principal
 
-10+ years
+10+ años.
 
 ## Distinguished
 
-10+ years
+10+ años.
 					
