@@ -65,10 +65,10 @@ La tecnología dependerá de los requisitos del puesto. La tecnología general r
 - Store - Stream Storage, Event & messaging systems: Amazon (Kinesis, DynamoDB Stream, SQS, SNS), Apache Kafka Stream, RabbitMQ, etc.
 - Process & Analyze, Big Data querying tools: GCP (Cloud Dataproc, BigQuery), Pig, Apache Hive, Impala, Apache Solr, Apache Spooq, Apache Zeppelin, Apache HBase, etc.
 - Process & Analyze, Big Data Machine Learning toolkits: Mahout, SparkML, H2O, etc.
-- Tecnología Cloud Computing: Google Cloud Platform, AWS, Asure, etc.
+- Cloud Computing Provider: Google Cloud Platform, AWS, Asure, etc.
 - Motores de BigData: Spark (Spark/Scala/HDFS/Hive, Python, SQL, Shell).
 - Framework de programación distribuida de BigData: Hadoop (Hadoop, Spark, HDFS , Map Reduce, Yarn, PIG, HIVE, HBase, Mahout, Spark MLLib, Solar, Lucene, Zookeeper, Oozie ).
 - ETL tools: Apache Flume, Apache Sqoop, Apache HBase, Apache Hive, Apache Oozie, Apache Phoenix, Apache Pig, Apache ZooKeeper.
-- Consume: Amazon (QuickSight), Tableau, Looker, TIBC Jaspersoft, Microstrategy, Kibana, Flot, Apache Zeppelin, GCP (Data Studio), IPython, Power BI, Power Apps, IBM Cognos, etc.
+- Consumer tools: Amazon (QuickSight), Tableau, Looker, TIBC Jaspersoft, Microstrategy, Kibana, Flot, Apache Zeppelin, GCP (Data Studio), IPython, Power BI, Power Apps, IBM Cognos, etc.
 - Security: Apache Knox, Apache Ranger, etc.
 
