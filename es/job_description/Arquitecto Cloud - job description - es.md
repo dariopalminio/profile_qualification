@@ -10,7 +10,7 @@ Responsable de recomendar y diseñar la arquitectura de soluciones en la nube pa
 
 ## Formación principal y académica
 
-Profesional del área TI, con título en carreras como: Ingeniero de Sistemas, Ingeniería Informática, Licenciatura en Sistemas o Computación,etc. 
+Profesional del área TI, con título en carreras como: Ingeniero de Sistemas, Ingeniería Informática, Licenciatura en Sistemas o Computación, etc. 
 
 ## Formación secundaria
 
