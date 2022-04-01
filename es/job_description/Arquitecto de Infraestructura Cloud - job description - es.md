@@ -1,12 +1,12 @@
-# Arquitecto Cloud
+# Arquitecto de Infraestructura Cloud
 
 ## Otros Nombres
 
-Cloud Architect (EN), Cloud Infrastructure Architect (EN), Arquitecto Cloud
+Cloud Architect (EN), Cloud Infrastructure Architect (EN), Arquitecto de Infraestructura Cloud, Arquitecto Cloud
 
 ## Descripción
 
-Responsable de recomendar y diseñar la arquitectura de soluciones en la nube para respaldar las necesidades de datos y aplicaciones de los clientes y la organización, además de la supervisión del sistema de computación en la nube de la empresa.
+Arquitecto de infraestructura responsable de recomendar y diseñar la arquitectura de infraestructura de soluciones en la nube para respaldar las necesidades de datos y aplicaciones de los clientes y la organización, además de la supervisión del sistema de computación en la nube de la empresa.
 
 ## Formación principal y académica
 
@@ -22,13 +22,13 @@ No cuenta con personal a su cargo.
 
 ## Conocimientos y competencias
 
-1.	Experiencia en informática, desarrollo de software y programación.
-2.	Fuertes fundamentos de Cloud Computing.
+1.	Experiencia avanzada en informática, desarrollo de software y programación.
+2.	Fuertes fundamentos de Arquitectura y Cloud Computing.
 3.	Conocimientos en patrones de diseño de arquitectura en la nube, como por ejemplo: Sharing, Scaling and Elasticity Patterns; Reliability, Resiliency and Recovery Patterns; Data Management and Storage Device Patterns; Virtual Server and Hypervisor Connectivity and Management Patterns; Monitoring, Provisioning and Administration Patterns; Cloud Service and Storage Security Patterns; Network Security, Identity & Access Management and Trust Assurance Patterns; Containerization Patterns; Compound Patterns.
 4.	Experiencia con tecnologías de computación en la nube.
-5.	Competencia con las tecnologías de sistemas en la nube como: GCP, AWS y Azure.
+5.	Competencia con las tecnologías de proveedores y sistemas en la nube como: GCP, AWS y Azure.
 6.	Conocimientos en 'Infrastructure as Code' (IaC).
-7. Fuertes habilidades de comunicación verbal y escrita.
+7.  Fuertes habilidades de comunicación verbal y escrita.
 8.	Fuertes habilidades para resolver problemas.
 
 
