@@ -29,22 +29,20 @@ Tiene personal a cargo. Puede liderar un equipo de arquitectos, un equipo TI o u
 5.	Conocimiento comprensivo de hardware, software, aplicación e ingeniería de sistemas.
 6.	Conocimiento de Gobierno y operaciones de TI.
 7.	Técnicas de Modelado y diagramación: Archimate, UML, BPMN, Entidad Relación, etc.
-8.	Marcos de referencia de industrias: HL7, eTOM, etc.
-9.	Marcos de referencia de administración de proyectos tradicionales (PMBOK, PRINCE2, etc) y administración ágil (Agile, Management 3.0, etc.).
-10.	Análisis de Negocio (BABOK), Administración de procesos de negocio (BPM).
-11.	Arquitectura y Gobierno de Datos (DMBOK).
-12.	Arquitectura Aplicativa (Estilo de arquitectura SOA - Arquitectura Orientada a Servicio) y patrones de diseño y arquitectónicos generales.
-13.	Gobierno de TI (COBIT, CGEIT, CISA).
-14.	Conocimientos de soluciones de TI generales y de la industria.
-15.	Conocimientos de los procesos y modelos de referencia (APQC,  etc.).
-16.	Plataformas tecnológicas (ERP, CRM, BI).
-17.	Conocimiento de modelización financiera a lo que corresponde con la inversión en TI.
-18.	Habilidades interpersonales y de liderazgo, Servant leadership, habilidades de colaboración, facilitación y negociación.
-19.	Habilidades de comunicación, escritas y habladas.
-20.	Habilidad para explicar detalles técnicos complejos de un modo que los no técnicos puedan entender.
-21.	Proyecto y administración de programas y habilidades de organización.
-22.	Orientación de servicio al cliente.
-23.	Gestión del tiempo y priorización.
+8.	Marcos de referencia de arquitectura empresarial (EABOK), ingeniería de software (SWEBOK), sistemas (SEBOK), Análisis de Negocio (BABOK), Administración de procesos de negocio (BPM), Arquitectura y Gobierno de Datos (DMBOK) y de industrias: HL7, eTOM, etc.
+9.	Marcos de referencia de administración de proyectos tradicionales (PMBOK, PRINCE2, ITIL, etc) y administración ágil (Agile, Management 3.0, etc.).
+10.	Arquitectura Aplicativa (Estilo de arquitectura SOA - Arquitectura Orientada a Servicio) y patrones de diseño y arquitectónicos generales.
+11.	Gobierno de TI (COBIT, CGEIT, CISA).
+12.	Conocimientos de soluciones de TI generales y de la industria.
+13.	Conocimientos de los procesos y modelos de referencia (APQC,  etc.).
+14.	Plataformas tecnológicas (ERP, CRM, BI).
+15.	Conocimiento de modelización financiera a lo que corresponde con la inversión en TI.
+16.	Habilidades interpersonales y de liderazgo, Servant leadership, habilidades de colaboración, facilitación y negociación.
+17.	Habilidades de comunicación, escritas y habladas.
+18.	Habilidad para explicar detalles técnicos complejos de un modo que los no técnicos puedan entender.
+19.	Proyecto y administración de programas y habilidades de organización.
+20.	Orientación de servicio al cliente.
+21.	Gestión del tiempo y priorización.
 
 ## Responsabilidades y funciones
 
