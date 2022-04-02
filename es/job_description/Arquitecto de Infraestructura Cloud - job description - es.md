@@ -53,7 +53,7 @@ La tecnología dependerá de los requisitos del puesto. La tecnología general r
 
 - Programming Language: Python, etc.
 - Operating System: Unix, Linux,  Windows, Mac OS, etc.
-- Cloud Computing Provider: Google Cloud Platform (GCP), AWS, Asure, etc.
+- Cloud Computing Provider: Google Cloud Platform (GCP), AWS, Asure, Openstack, Linode, etc.
 - IaC Provisioning: Terraform, CloudFormation, etc.
 - Containerization & Virtualization: Docker, etc.
 - Orchestration: Kubernetes, etc.
