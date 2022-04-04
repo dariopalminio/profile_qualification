@@ -2,7 +2,7 @@
 
 ## Otros Nombres
 
-User Interface (UI) and User Experience (UX) Designer (EN), UX and Web Designer (EN), Diseñador Web y UX, Diseñador UX-UI, Analista UX/UI, Diseñador de experiencia de Usuario y Web
+UX-UI Designer (EN), User Interface and User Experience Designer (EN), Web Designer (EN), UX and Web Designer (EN), Diseñador Web y UX, Diseñador UX-UI, Analista UX/UI, Diseñador de experiencia de Usuario y Web
 
 ## Descripción
 

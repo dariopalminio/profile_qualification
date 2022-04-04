@@ -2,7 +2,7 @@
 
 ## Otros Nombres
 
-User Interface (UI) Designer (EN), Web Designer (EN), Diseñador Web, Diseñador UI, Analista UI, Diseñador de interfaces de usuario
+User Interface (UI) Designer (EN), Diseñador Web UI, Diseñador UI, Analista UI, Diseñador de interfaces de usuario
 
 ## Descripción
 
