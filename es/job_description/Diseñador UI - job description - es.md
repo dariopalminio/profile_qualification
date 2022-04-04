@@ -23,17 +23,16 @@ No cuenta con personal a su cargo.
 ## Conocimientos y competencias
 
 1.	Con iniciativa, creatividad y sentido estético.
-2.	Conocimiento de principios de diseño, tipografía, teoría del color, escala, jerarquía, balance, contraste y principios de gestalt. 
-3.	
-
-5.	Conocimiento básico en el desarrollo de productos digitales, ya sea en formato web o aplicaciones nativas.
-6.	Conocimiento en: wireframes, landing pages, pages, etc.
-7. Conocimientos en maquetado y codificación en HTML5, CSS3, y JavaScript.
-8.	Pleno conocimiento en el uso de herramientas digitales que le permitan compartir sus hallazgos en su célula de trabajo y/o stakeholders.
-9.	Manejo de principios de "atomic design" y visión sistémica con capacidad de proponer soluciones que impacten el sistema de diseño de manera escalable y consistente.
-10.	Poseer atención al detalle.
-11.	Disposición para aprender constantemente.
-12.	Capacidad para comunicarse con los ingenieros sobre los detalles de implementación.
+2.	Conocimiento de principios y fundamentos de diseño UI, tipografía, teoría del color, escala, jerarquía, balance, contraste, principios de gestalt, patrones de diseño UI y buenas prácticas. 
+3.	Conocimiento básico en el desarrollo de productos digitales, ya sea en formato web o aplicaciones nativas.
+4.	Conocimiento en: wireframes, landing pages, pages, mockup, etc.
+5. Conocimientos en maquetado y codificación en HTML5, CSS3, y JavaScript.
+6. Experiencia y/o conocimientos en diseño de componentes UI, pantallas, guías de estilo y sistemas de diseño.
+7.	Pleno conocimiento en el uso de herramientas digitales que le permitan compartir sus hallazgos en su célula de trabajo y/o stakeholders.
+8.	Manejo de principios de "atomic design" y visión sistémica con capacidad de proponer soluciones que impacten el sistema de diseño de manera escalable y consistente.
+9.	Poseer atención al detalle.
+10.	Disposición para aprender constantemente.
+11.	Capacidad para comunicarse con los ingenieros sobre los detalles de implementación.
 
 
 ## Responsabilidades y funciones
