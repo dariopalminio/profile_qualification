@@ -62,6 +62,7 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 ## Tecnologías
 
 La tecnología dependerá de los requisitos del puesto y del stack tecnológico a usar. La tecnología general relacionada es:
+
 - Manejo de tecnología Back-end de un stack tecnológico, como por ejemplo: Manejo de NodeJS, Express/NestJS y Mongo en stack MERN | Manejo de NodeJS, Express y Mongo en stack MEAN | Manejo de NodeJS y Mongo en stack MEVN | Manejo de Java en stack J2EE |.NET | PHP en stack LAPP | PHP en stack LAMP | PHP en stack LEMP | PHP y Perl en stack XAMPP | WAMP | AMPPS | Python-Django | iOS Mobile | Android Mobile | ReactJS Cross-Platform Mobile | Laravel & React | Laravel & VueJS | PHP & Wordpress | PHP & Drupal |  etc. 
 - Internet: DNS, Domain Name, WWW, HTTL protocol, hosting.
 - Lenguaje de programación: HTML, CSS, Javascript, TypeScript, Java, Groovy, etc.
@@ -75,7 +76,7 @@ La tecnología dependerá de los requisitos del puesto y del stack tecnológico 
 - Data Base access & ORM: Java (JPA, MyBatis, Hibernate,... ), Mongoose, etc.
 - Testing: Unit Test (Jest), E2E (Cypress), testing for React (React Testing Library, React Dev Tool), testing for Java (JUnit, Mockito, JMeter), SonarQube, etc.
 - Build, pack & automation tool: NPM, YARN, Java packaging (Maven, Gradle,... ), etc.
-- Segurity, authrntication & authorization: Auth (JWT, KeyCloak), API gateway (Kong), MD5, SHA, HTTPS, CORS, etc.
+- Segurity, authentication & authorization: Auth (JWT, KeyCloak), API gateway (Kong), MD5, SHA, HTTPS, CORS, etc.
 - Event & Message Brokers: Kafka, RabbitMQ, etc. 
 - Cloud Computing & Operation: AWS (Amazon S3), GCP, etc.
 - Containerization & Virtualization: Docker.

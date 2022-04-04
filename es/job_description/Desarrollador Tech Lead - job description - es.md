@@ -50,5 +50,24 @@ No cuenta con personal a su cargo. Lidera un equipo de desarrolladores.
 
 ## Tecnologías
 
+La tecnología dependerá de los requisitos del puesto y del stack tecnológico a usar. La tecnología general relacionada es:
+
 - En el caso de Líder Técnica de Soluciones debe manejar algún stack tecnológico orientado a soluciones de aplicaciones como: Stack MERN | MEAN | MEVN | J2EE | Java SpringBoot | .NET | LAPP | LAMP | LEMP | XAMPP | WAMP | AMPPS | Python-Django | iOS Mobile | Android Mobile | ReactJS Cross-Platform Mobile | Laravel & React | Laravel & VueJS | Wordpress | Drupal | AWS DevOps | Open DevOps | Azure DevOps | ELK Stack | etc. 
 - En el caso de un Líder Técnico de Big Data debe manejar algún stack tecnológico de Big Data como: Spark, Hadoop, etc. 
+- Debe manejar al menos un Stack tecnológico completo: Stack MERN | MEAN | MEVN | J2EE | Java SpringBoot | .NET | LAPP | LAMP | LEMP | XAMPP | WAMP | AMPPS | Python-Django | iOS Mobile | Android Mobile | ReactJS Cross-Platform Mobile | Laravel & React | Laravel & VueJS | Wordpress | Drupal | AWS DevOps | Open DevOps | Azure DevOps | ELK Stack | etc. 
+- Internet: DNS, Domain Name, WWW, HTTL protocol, hosting.
+- Lenguaje de programación: HTML, CSS, Javascript, TypeScript, etc.
+- Frontend Frameworks & libraries: Preprocessing CSS functions (SASS, TailwindCSS, PostCSS, etc.), JavaScript framework (React, Vue, Angular, etc.), State management (Atom, Recoil, Redux, Jotai, etc.).
+- Backend Frameworks & libraries: Node.js, Express, Next.js, NestJS, GraphQL, doc (Swagger), etc.
+- Version Control System: github, gitlab, bitbucket, git, SVN, CVS, etc.
+- CI/CD: Github Actions.
+- SQL Data Base: Oracle, MariaDB, MySQL, PostgreSQL, etc.
+- NoSQL Data Base: MongoDB, Redis, Cassandra, HBase, etc.
+- Testing: Unit Test (Jest), E2E (Cypress), testing for React (React Testing Library, React Dev Tool), SonarQube, etc.
+- Build, pack & automation tool: NPM, YARN, etc.
+- Segurity, authentication & authorization: Auth (KeyCloak), API gateway (Kong), etc.
+- Event & Message Brokers: Kafka, RabbitMQ, etc. 
+- Cloud Computing & Operation: AWS (Amazon S3), GCP, etc.
+- Containerization & Virtualization: Docker.
+- Orchestration: Kubernetes.
+- Logging, tracing & monitoring: Datadog, Grafana, etc.

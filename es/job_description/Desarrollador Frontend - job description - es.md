@@ -60,6 +60,7 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 ## Tecnologías
 
 La tecnología dependerá de los requisitos del puesto y del stack tecnológico a usar. La tecnología general relacionada es:
+
 - Manejo de tecnología Front-end de un stack tecnológico, por ejemplo: Manejo de ReactJS en stack MERN | Manejo de Angular en stack MEAN | Manejo de VueJS en stack MEVN | Manejo de JSP, JSF, PrimeFace (Rich-face) y swing en stack J2EE | ASP .NET | PHP en stack LAPP | PHP en stack LAMP | PHP en stack LEMP | PHP y Perl en stack XAMPP | WAMP | AMPPS | Python-Django | iOS Mobile | Android Mobile | ReactJS Cross-Platform Mobile | Laravel & React | Laravel & VueJS | PHP & Wordpress | PHP & Drupal |  etc.
 - Internet: DNS, Domain Name, WWW, HTTL protocol, hosting.
 - Lenguaje de programación: HTML, CSS, Javascript, TypeScript, PHP, ASP, JSP, etc.
@@ -68,5 +69,5 @@ La tecnología dependerá de los requisitos del puesto y del stack tecnológico 
 - CI/CD: Github Actions.
 - Testing: Unit Test (Jest), E2E (Cypress), testing for React (React Testing Library, React Dev Tool), SonarQube, etc.
 - Build, pack & automation tool: NPM, YARN, etc.
-- Segurity, authrntication & authorization: Auth (KeyCloak), API gateway (Kong), etc.
+- Segurity, authentication & authorization: Auth (KeyCloak), API gateway (Kong), etc.
 

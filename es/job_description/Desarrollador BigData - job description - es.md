@@ -54,13 +54,14 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 ## Tecnologías
 
 La tecnología dependerá de los requisitos del puesto. La tecnología general relacionada es:
-- Base de datos relacional (SQL): Oracle, MariaDB, MySQL, PostgreSQL, etc.
-- Base de datos no relacional (NoSQL): MongoDB, Redis, Cassandra, HBase, etc.
+- Operating System: Unix, Linux,  Windows, Mac OS.
+- SQL Data Base: Oracle, MariaDB, MySQL, PostgreSQL, etc.
+- NoSQL Data Base: MongoDB, Redis, Cassandra, HBase, etc.
 - Big Data querying tools: Pig, Hive, Impala, etc.
-- Tecnología cloud computing: Google Cloud Platform, AWS, Asure, etc.
-- Motores de BigData: Spark (Spark/Scala/HDFS/Hive, Python, SQL, Shell).
-- Framework de programación distribuida de BigData: Hadoop (Hadoop, Spark,  HDFS , Map Reduce, Yarn, PIG, HIVE, HBase, Mahout, Spark MLLib, Solar, Lucene, Zookeeper, Oozie ).
-- Herramientas de automatización: Ansible, Control M, etc.
+- Cloud Computing: Google Cloud Platform, AWS, Asure, etc.
+- BigData engine: Spark (Spark/Scala/HDFS/Hive, Python, SQL, Shell).
+- BigData distributed framework: Hadoop (Hadoop, Spark,  HDFS , Map Reduce, Yarn, PIG, HIVE, HBase, Mahout, Spark MLLib, Solar, Lucene, Zookeeper, Oozie ).
+- Automation tools: Ansible, Control M, etc.
 - ETL tools: Apache Flume, Apache Sqoop, Apache HBase, Apache Hive, Apache Oozie, Apache Phoenix, Apache Pig, Apache ZooKeeper.
-- Event & messaging systems: Kafka, RabbitMQ, etc.
+- Event & Message Brokers: Kafka, RabbitMQ, etc.
 - Big Data Machine Learning toolkits: Mahout, SparkML, H2O, etc.

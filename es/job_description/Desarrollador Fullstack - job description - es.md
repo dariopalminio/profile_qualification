@@ -64,6 +64,7 @@ Identificar problemas y riesgos de desarrollo de software y gestionarlos y escal
 ## Tecnologías
 
 La tecnología dependerá de los requisitos del puesto y del stack tecnológico a usar. La tecnología general relacionada es:
+
 - Debe manejar al menos un Stack tecnológico completo: Stack MERN | MEAN | MEVN | J2EE | Java SpringBoot | .NET | LAPP | LAMP | LEMP | XAMPP | WAMP | AMPPS | Python-Django | iOS Mobile | Android Mobile | ReactJS Cross-Platform Mobile | Laravel & React | Laravel & VueJS | Wordpress | Drupal | AWS DevOps | Open DevOps | Azure DevOps | ELK Stack | etc. 
 - Internet: DNS, Domain Name, WWW, HTTL protocol, hosting.
 - Lenguaje de programación: HTML, CSS, Javascript, TypeScript, etc.
@@ -75,7 +76,7 @@ La tecnología dependerá de los requisitos del puesto y del stack tecnológico 
 - NoSQL Data Base: MongoDB, Redis, Cassandra, HBase, etc.
 - Testing: Unit Test (Jest), E2E (Cypress), testing for React (React Testing Library, React Dev Tool), SonarQube, etc.
 - Build, pack & automation tool: NPM, YARN, etc.
-- Segurity, authrntication & authorization: Auth (KeyCloak), API gateway (Kong), etc.
+- Segurity, authentication & authorization: Auth (KeyCloak), API gateway (Kong), etc.
 - Event & Message Brokers: Kafka, RabbitMQ, etc. 
 - Cloud Computing & Operation: AWS (Amazon S3), GCP, etc.
 - Containerization & Virtualization: Docker.
