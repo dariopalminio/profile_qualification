@@ -10,7 +10,7 @@ Diseñador UX, con la responsabilidad de descubrir lo que quiere el usuario y la
 
 ## Formación principal y académica
 
-Profesional del área de diseño, titulado de carreras como: Diseño Gráfico.
+Profesional del área de diseño, titulado de carreras como: Diseño Industrial.
 
 ## Formación secundaria
 
