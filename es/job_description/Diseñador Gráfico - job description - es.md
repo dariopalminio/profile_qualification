@@ -31,10 +31,11 @@ No cuenta con personal a su cargo.
 7.	La capacidad de recibir, interpretar e implementar comentarios constructivos de las partes interesadas del proyecto en su trabajo de diseño.
 8.	Una apreciación y conocimiento de las tendencias de diseño emergentes en medios impresos y digitales.
 9.	Capaz de aprender nuevas herramientas y procesos rápidamente y trabajar en un entorno de rápida evolución.
+10. Tener una cartera sólida de ilustraciones u otros gráficos.
 
 ## Responsabilidades y funciones
-
-1.	Diseñar páginas para impresión y digital para que la información sea fácil de encontrar, leer y comprender.
+Desarrolle ilustraciones, logotipos y otros diseños usando software o a mano
+1.	Diseñar ilustraciones, logotipos, páginas para impresión (papel y digital) y otros diseños.
 2.	Reunir todos los hechos relevantes para cada proyecto y asegúrese de que todos los entregables comuniquen la información correcta.
 3.	Generar ideas, conceptos y diseños claros de activos creativos de principio a fin.
 4.	Trabajar en colaboración con otros diseñadores para garantizar una percepción de marca consistente e integrada.
