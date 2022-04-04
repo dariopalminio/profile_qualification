@@ -29,7 +29,7 @@ Tiene personal a cargo. Puede liderar un equipo de arquitectos, un equipo TI o u
 5.	Conocimiento comprensivo de hardware, software, aplicación e ingeniería de sistemas.
 6.	Conocimiento de Gobierno y operaciones de TI.
 7.	Técnicas de Modelado y diagramación: Archimate, UML, BPMN, Entidad Relación, etc.
-8.	Marcos de referencia de arquitectura empresarial (EABOK), ingeniería de software (SWEBOK), sistemas (SEBOK), Análisis de Negocio (BABOK), Administración de procesos de negocio (BPM), Arquitectura y Gobierno de Datos (DMBOK) y de industrias: HL7, eTOM, etc.
+8.	Marcos de referencia de: arquitectura empresarial (EABOK), ingeniería de software (SWEBOK), ingeniería de sistemas (SEBOK), análisis de negocio (BABOK), administración de procesos de negocio (BPM), arquitectura y gobierno de datos (DMBOK) y de industrias: HL7, eTOM, etc.
 9.	Marcos de referencia de administración de proyectos tradicionales (PMBOK, PRINCE2, ITIL, etc) y administración ágil (Agile, Management 3.0, etc.).
 10.	Arquitectura Aplicativa (Estilo de arquitectura SOA - Arquitectura Orientada a Servicio) y patrones de diseño y arquitectónicos generales.
 11.	Gobierno de TI (COBIT, CGEIT, CISA).
