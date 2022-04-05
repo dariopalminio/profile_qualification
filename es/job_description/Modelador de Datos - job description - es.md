@@ -24,7 +24,7 @@ No cuenta con personal a su cargo.
 
 1.	Tener conocimientos informáticos, en análisis de sistemas y estructura de datos.
 2.	Tener experiencia modelando datos.
-3.	Conocimiento y fundamentos sólidos en gestión de metadatos y patrones de modelo de datos
+3.	Conocimiento y fundamentos sólidos en gestión de metadatos, patrones de modelo de datos y esquemas de datos.
 4.  Conocimientos en Data Source Patterns y Storage Patterns.
 5.	Conocer la tipología de técnicas de modelado.
 6.	Conocimientos sólidos en diagramado de datos (Entity-Relationship Modeling, Crow's Foot notation, Barker’s notation symbols, etc.) y manejo de herramientas para modelado de datos.
