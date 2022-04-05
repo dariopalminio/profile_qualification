@@ -23,16 +23,17 @@ No cuenta con personal a su cargo. Lidera un equipo de desarrolladores.
 ## Conocimientos y competencias
 
 1. Tener conocimientos informáticos y de ingeniería de software.  
-2. Poseer conocimientos avanzados en el stack tecnológico que usa su equipo o necesarios para el sistema a desarrollar. 
-3. Saber programar en diferentes lenguajes de programación/scripting/markup, por ejemplo: Java, Javascript, Perl, etc. 
-4. Debe manejar bases de datos, que incluye el diseño y estructura de bases de datos relacionales (SQL) y no relacionales (NoSQL). 
-5. Saber sobre patrones de diseño de software (Singleton, Facade, Adapter, Strategy, Observer, etc.). 
-6. Saber sobre arquitecturas del tipo de sistema o soluciones del equipo que lidera (Cliente-Servidor, Microservicios, etc.). 
-7. Capacidad de traducir necesidades del negocio a soluciones TI. 
-8. Capacidad de instalar y configurar ambientes completos de desarrollo y herramientas IDE.  
-9. Capacidad de liderazgo, coaching y mentoreo de desarrolladores. 
-10. Capacidades didácticas de explicación y formación en aspectos técnico para miembros del equipo y stakeholders. 
-11. Habilidades de comunicación para comunicarse con stakeholders de la organización de forma acertiva. 
+2. Ser desarrollador senior o profesional con más de 5 años de experiencia como ingeniero de software, desarrollador de software o puesto similar.
+3. Poseer conocimientos avanzados en el stack tecnológico que usa su equipo o necesarios para el sistema a desarrollar. 
+4. Saber programar en diferentes lenguajes de programación/scripting/markup, por ejemplo: Java, Javascript, Perl, etc. 
+5. Debe manejar bases de datos, que incluye el diseño y estructura de bases de datos relacionales (SQL) y no relacionales (NoSQL). 
+6. Saber sobre patrones de diseño de software (Singleton, Facade, Adapter, Strategy, Observer, etc.). 
+7. Saber sobre arquitecturas del tipo de sistema o soluciones del equipo que lidera (Cliente-Servidor, Microservicios, etc.). 
+8. Capacidad de traducir necesidades del negocio a soluciones TI. 
+9. Capacidad de instalar y configurar ambientes completos de desarrollo y herramientas IDE.  
+10. Capacidad de liderazgo, coaching y mentoreo de desarrolladores. 
+11. Capacidades didácticas de explicación y formación en aspectos técnico para miembros del equipo y stakeholders. 
+12. Habilidades de comunicación para comunicarse con stakeholders de la organización de forma acertiva. 
 
 ## Responsabilidades y funciones
 
