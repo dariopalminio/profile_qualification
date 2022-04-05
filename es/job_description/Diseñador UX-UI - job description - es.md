@@ -28,7 +28,7 @@ No cuenta con personal a su cargo.
 4.	Conocimiento en herramientas y técnicas UX: Customer Journey, Personal Map, User Persona, Card sorting, Service Blueprint, Discovery, etc.
 5.	Conocimiento básico en el desarrollo de productos digitales, ya sea en formato web o aplicaciones nativas.
 6.	Conocimiento en diseño web: páginas web, wireframes, website layout , landing page, etc.
-7. Conocimientos en maquetado y codificación en HTML5, CSS3, y JavaScript.
+7. Puede llevar el diseño a código. Conocimientos en maquetado y codificación en HTML5, CSS3, y JavaScript.
 8.	Pleno conocimiento en el uso de herramientas digitales que le permitan compartir sus hallazgos en su célula de trabajo y/o stakeholders.
 9.	Manejo de principios de "atomic design" y visión sistémica con capacidad de proponer soluciones que impacten el sistema de diseño de manera escalable y consistente.
 10.	Poseer atención al detalle.
