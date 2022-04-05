@@ -2,7 +2,7 @@
 
 ## Otros Nombres
 
-Líder Técnico, Tech Lead (EN),  Líder Técnico (PT, BR)
+Líder Técnico, Tech Lead (EN),  Desarrollador Tech Lead, Líder Técnico (PT, BR)
 
 ## Descripción
 
