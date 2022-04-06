@@ -23,16 +23,19 @@ No suele contar con personas.
 ## Conocimientos y competencias
 
 1.	Experiencia en desarrollo de software. Ha construido o contribuido a una variedad de soluciones software, idealmente en diferentes tecnologías.
-2. Conocimiento en sistemas resilientes, ingeniería de resiliencia, ingeniería de caos, atributos de sistemas resilientes y métricas de disponibilidad, robustez y eficiencia de contingencias de servicios.
-3.	Conocimientos y/o experiencia en infraestructura (on premise, cloud, etc.).
-4.	Conocimientos en virtualización y containerización.
-5.	Conocimiento en sistema operativo Linux, TCP/IP, sistemas de archivos, tecnologías de disco/almacenamiento.
-6.	Comprensión de internet, DNS y redes.
-7.	Experiencia en patrones web, web-app y microservicios.
-8.	Experiencia en seguridad, incluyendo la protección de API y aplicaciones de Restful mediante OAuth y OpenID Connect y JWT.
-9.	Buena comprensión de los enfoques y marcos de las API Restful asincrónicas/sin bloqueo.
-10.	Experiencia en patrones de mensajería (pub-sub) o message brokers.
-11.	Conocimiento y/o experiencia en aseguramiento de calidad.
+2. Conocimiento en sistemas resilientes, ingeniería de resiliencia, ingeniería de caos y atributos de sistemas resilientes.
+3. Conocimientos en métricas de disponibilidad, robustez y eficiencia de contingencias de servicios.
+4.	Conocimiento en gestión de crisis (Crisis Management).
+5.	Conocimiento en metodologías o marcos de trabajo adaptativos (Agile, etc.).
+6. Conocimientos y/o experiencia en infraestructura (on premise, cloud, etc.).
+7.	Conocimientos en virtualización y containerización.
+8.	Conocimiento en sistema operativo Linux, TCP/IP, sistemas de archivos, tecnologías de disco/almacenamiento.
+9.	Comprensión de internet, DNS y redes.
+10.	Experiencia en patrones web, web-app y microservicios.
+11.	Experiencia en seguridad, incluyendo la protección de API y aplicaciones de Restful mediante OAuth y OpenID Connect y JWT.
+12.	Buena comprensión de los enfoques y marcos de las API Restful asincrónicas/sin bloqueo.
+13.	Experiencia en patrones de mensajería (pub-sub) o message brokers.
+14.	Conocimiento y/o experiencia en aseguramiento de calidad.
 
 
 ## Responsabilidades y funciones
