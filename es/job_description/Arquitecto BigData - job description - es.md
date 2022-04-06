@@ -26,7 +26,7 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 
 1. Tener conocimientos informáticos, matemáticos y estadísticos.  
 2. Saber programar en lenguajes como: R, Python, C, Java y Perl. 
-3. Conocer sobre Gobierno de datos (DMBOK) y seguridad de datos.  
+3. Conocer sobre Gobierno de datos (DAMA, DMBOK) y seguridad de datos.  
 4. Debe conocer el diseño y desarrollo de sistemas de arquitectura de datos: arquitectura distribuida, patrones de arquitectura y principios de arquitectura Big Data. 
 5. Conocimiento en mecanismos y patrones de Big Data: Data Source Patterns, Storage Patterns, Data Processing Patterns, Data Transfer and Transformation Patterns, Data Maintenance Patterns, Compound Patterns, etc.
 6. Debe dominar el modelado y diseño de datos (Data Base, DM, Data warehouse), que incluye el diseño y estructura de bases de datos relacionales (SQL, PL/SQL) y no relacionales (NoSQL). 
@@ -60,7 +60,7 @@ La tecnología dependerá de los requisitos del puesto. La tecnología general r
 - Ingest & Collect: Logstash, Log4J, Fluentd, IOT, GCP (Cloud SDK, Cloud Dataproc), etc.
 - Herramientas de automatización: Ansible, Control M, etc.
 - Storage, Base de datos relacional (SQL): Oracle, MariaDB, MySQL, PostgreSQL, etc.
-- Storage, Base de datos no relacional (NoSQL): MongoDB, Redis, Cassandra, HBase, etc.
+- Storage, Base de datos no relacional (NoSQL): MongoDB, Redis, DynamoDb AWS, Cassandra, HBase, etc.
 - Storage, File Storage: HDFS, Amazon (S3, Glacier), GCP (Cloud Storage, Cloud SQL, BigQuery), etc.
 - Store - Stream Storage, Event & messaging systems: Amazon (Kinesis, DynamoDB Stream, SQS, SNS), Apache Kafka Stream, RabbitMQ, etc.
 - Process & Analyze, Big Data querying tools: GCP (Cloud Dataproc, BigQuery), Pig, Apache Hive, Impala, Apache Solr, Apache Spooq, Apache Zeppelin, Apache HBase, etc.

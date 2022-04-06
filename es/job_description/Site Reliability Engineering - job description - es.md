@@ -48,7 +48,7 @@ No tiene personal a cargo.
 9.	Depurar problemas de producción en todos los servicios y niveles del stack.
 10.	Planificar el crecimiento de la infraestructura.
 11.	Use herramientas para administrar eficientemente la infraestructura como código (IaC).
-12. Medir y gestionar diferentes métricas y el nivel de servicio (SLA) para definir la confiabilidad requerida del sistema mediante indicadores de nivel de servicio (SLI) y objetivos de nivel de servicio (SLO). 
+12. Medir, monitorear y gestionar diferentes métricas como: nivel de servicio (SLA) para definir la confiabilidad requerida del sistema mediante indicadores de nivel de servicio (SLI) y objetivos de nivel de servicio (SLO); y métricas DevOps como: Lead Time, Deployment Frequency, etc. 
 13.	Administre los clúster de alta disponibilidad.
 14.	Gestión y escalado de almacenamiento back-end de soluciones.
 15.	Servicios de soporte antes de que entren en funcionamiento a través de actividades como consultoría de diseño de sistemas, desarrollo de plataformas y marcos de software, planificación de capacidad y revisiones de lanzamiento.

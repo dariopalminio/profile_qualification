@@ -27,13 +27,13 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 1. Debe tener habilidades técnicas avanzadas que requiere educación técnica y experiencia práctica en todas las áreas principales del proceso de desarrollo de software, ingeniería de software, así como experiencia en ingeniería de hardware (para proyectos de software que dependen del hardware). 
 2. Conocimiento en programación avanzados en varios lenguajes, arquitecturas y paradigmas. 
 3. Analista de sistemas software para atender los detalles y la visión global para prevenir fallos y problemas futuros de la solución software. 
-4. Conocimiento en patrones de diseño, patrones de soluciones software, patrones SOA, principios SOLID y clean architecture (arquitectura hexagonal, etc.). 
-5. Conocimientos en fábricas de Software, UI, Diseño Avanzado en Arquitecturas Software, Tecnologías para la Integración de Servicios, Integración de Bases de Datos, Integración de Aplicaciones, Tecnologías Web, Aplicaciones Cliente-Servidor, Entornos Distribuido y Micro-servicios.
+4. Conocimiento en patrones de diseño, patrones de soluciones software, patrones SOA, principios SOLID, clean architecture (arquitectura hexagonal, etc.) y Atributos de Calidad del Software. 
+5. Conocimientos en fábricas de Software, UI frontend, Diseño Avanzado en Arquitecturas Software, Tecnologías para la Integración de Servicios, Integración de Bases de Datos, Integración de Aplicaciones, Tecnologías Web, Aplicaciones Cliente-Servidor, Entornos Distribuido y Micro-servicios.
 6. Conocimiento avanzado de comunicación entre aplicaciones: SOA, Servicios Web (SOAP, REST), protocolos y lenguajes de comunicación (XML, JSON). 
 7. Conocimientos en infraestructura y Cloud Computing, CI/CD|DevOps|DevSecOps (on premise, Cloud) y Site Reliability Engineering.
 8. Conocimiento de herramientas de control de versiones (como GIT, github, svn, etc.). 
 9. Capacidad de ser ‘fullstack’ o de manejar y comprender todo un stack tecnológico.
-10. Conocimiento en modelado y diagramado de sistemas (UML, ADL, ER, DFD, C4, etc.) y en herramientas de diagramado (como Enterprise Architect, Erwin, ArgoUML, etc.). 
+10. Conocimiento en modelado y diagramado de sistemas (UML, ADL, ER, DFD, C4, etc.) y en herramientas de diagramado (como Enterprise Architect, Diagrams.net Draw.io, Erwin, ArgoUML, EdrawMax, Creately, etc.). 
 Manejo de estándares y normas a aplicar en la construcción de software de la tecnología a su cargo. 
 Lecto-comprensión y elementos de redacción en inglés.
 

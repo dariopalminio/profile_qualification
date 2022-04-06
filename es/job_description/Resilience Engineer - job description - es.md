@@ -6,7 +6,7 @@ Resilience Engineer (EN), Ingeniería de resiliencia (ES)
 
 ## Descripción
 
-Ingeniería de resiliencia, con el objetivo de encontrar vulnerabilidades, riesgos y límites en los sistema antes de que generen problemas a gran escala; y proporcionar soluciones técnicas a problemas de producción complejos con un enfoque en la reducción del trabajo de incidentes, acelerando la detección y recuperación de incidentes críticos a través de la observación y la mejora continua a través de compartir, medir la salud operativa y generar y ejecutar acciones de mejora.
+Ingeniería de resiliencia, con el objetivo de encontrar vulnerabilidades, riesgos y límites en los sistema antes de que generen problemas a gran escala; y proporcionar soluciones técnicas a problemas de producción complejos con un enfoque en la reducción del trabajo de incidentes, acelerando la detección, recuperación de incidentes críticos y anticipación, a través de la observación y la mejora continua por medio de compartir, medir la salud operativa y generar y ejecutar acciones de aprendizaje y mejora. Generar sistemas con capacidad de monitoreo, respuesta, anticipación y aprendizaje ante insidentes.
 
 ## Formación principal y académica
 
@@ -23,15 +23,17 @@ No suele contar con personas.
 ## Conocimientos y competencias
 
 1.	Experiencia en desarrollo de software. Ha construido o contribuido a una variedad de soluciones software, idealmente en diferentes tecnologías.
-2.	Conocimientos y/o experiencia en infraestructura (on premise, cloud, etc.).
-3.	Conocimientos en virtualización y containerización.
-4.	Conocimiento en sistema operativo Linux, TCP/IP, sistemas de archivos, tecnologías de disco/almacenamiento.
-5.	Comprensión de internet, DNS y redes.
-6.	Experiencia en patrones web, web-app y microservicios.
-7.	Experiencia en seguridad, incluyendo la protección de API y aplicaciones de Restful mediante OAuth y OpenID Connect y JWT.
-8.	Buena comprensión de los enfoques y marcos de las API Restful asincrónicas/sin bloqueo.
-9.	Experiencia en patrones de mensajería (pub-sub) o message brokers.
-10.	Conocimiento y/o experiencia en aseguramiento de calidad.
+2. Conocimiento en sistemas resilientes, ingeniería de resiliencia, ingeniería de caos, atributos de sistemas resilientes y métricas de disponibilidad, robustez y eficiencia de contingencias de servicios.
+3.	Conocimientos y/o experiencia en infraestructura (on premise, cloud, etc.).
+4.	Conocimientos en virtualización y containerización.
+5.	Conocimiento en sistema operativo Linux, TCP/IP, sistemas de archivos, tecnologías de disco/almacenamiento.
+6.	Comprensión de internet, DNS y redes.
+7.	Experiencia en patrones web, web-app y microservicios.
+8.	Experiencia en seguridad, incluyendo la protección de API y aplicaciones de Restful mediante OAuth y OpenID Connect y JWT.
+9.	Buena comprensión de los enfoques y marcos de las API Restful asincrónicas/sin bloqueo.
+10.	Experiencia en patrones de mensajería (pub-sub) o message brokers.
+11.	Conocimiento y/o experiencia en aseguramiento de calidad.
+
 
 ## Responsabilidades y funciones
 
@@ -46,6 +48,8 @@ No suele contar con personas.
 9.	Escribir código para respaldar soluciones existentes.
 10.	Crear plataformas que brinden confianza a los ingenieros en las operaciones de su aplicación.
 11.	Trabajar con equipos de socios para crear una experiencia cohesiva para los ingenieros propietarios del servicio.
+12. Medir, monitorear y gestionar métricas relacionadas a resiliencia de sistemas como: Website Availability, Service Availability (Downtime Duration, Downtime Frequency, System Uptime, User Uptime, etc.), Service-Level Agreement, MTBF (Mean time between failures), MTTF (Mean time to failure), MTTR (Mean time to repair), etc. 
+13. Practicar una respuesta sostenible a incidentes y prácticas de 'blameless postmortems' y retrospectivas de mejora continua.
 
 
 ## Tecnologías
