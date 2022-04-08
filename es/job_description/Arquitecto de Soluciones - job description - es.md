@@ -33,7 +33,7 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 7. Conocimientos en infraestructura y Cloud Computing, CI/CD|DevOps|DevSecOps (on premise, Cloud) y Site Reliability Engineering.
 8. Conocimiento de herramientas de control de versiones (como GIT, github, svn, etc.). 
 9. Capacidad de ser ‘fullstack’ o de manejar y comprender todo un stack tecnológico.
-10. Conocimiento en modelado y diagramado de sistemas (UML, ADL, ER, DFD, C4, etc.) y en herramientas de diagramado (como Enterprise Architect, Diagrams.net Draw.io, Erwin, ArgoUML, EdrawMax, Creately, etc.). 
+10. Conocimiento en modelado y diagramado de sistemas (UML, ADL, ER, DFD, C4 Model, etc.) y en herramientas de diagramado (como Enterprise Architect, Diagrams.net Draw.io, Erwin, ArgoUML, EdrawMax, Creately, etc.). 
 Manejo de estándares y normas a aplicar en la construcción de software de la tecnología a su cargo. 
 Lecto-comprensión y elementos de redacción en inglés.
 
