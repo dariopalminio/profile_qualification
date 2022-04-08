@@ -14,7 +14,7 @@ Puede liderar en algún tema a un grupo pequeño de Juniors (uno o dos) o pares.
 
 ## Senior
 
-Puede liderar, con medina experiencia, un pequeño equipo en un entorno seguro. Puede hacer sus primeras experiencias de liderazgo con conplejidad media. Capacidad para asesorar a otros ingenieros, proporcionar orientación técnica, revisiones de códigos, diseñar y entregar proyectos pequeños de principio a fin. Este nivel generalmente se considera un “nivel de carrera”, ya que puede pasar el resto de su carrera operando en este nivel. Puede nunca llegar a ser líder, pero sí ser puede ser 'Senior' por su experiencia técnica.
+Puede liderar, con medina experiencia, un pequeño equipo en un entorno seguro. Puede hacer sus primeras experiencias de liderazgo con complejidad media. Capacidad para asesorar a otros ingenieros, proporcionar orientación técnica, revisiones de códigos, diseñar y entregar proyectos pequeños de principio a fin. Este nivel generalmente se considera un “nivel de carrera”, ya que puede pasar el resto de su carrera operando en este nivel. Puede nunca llegar a ser líder, pero sí ser puede ser 'Senior' por su experiencia técnica.
 
 ## Senior Advanced
 
