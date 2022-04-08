@@ -22,7 +22,7 @@ Un 'Senior Advanced' no es necesariamente líder, pero un líder debe haber sido
 
 ## Principal
 
-mismas características que un 'Senior Advanced', solo que mayor experiencia. Puede tener mayor alcance de liderazgo, liderando técnicamente más de 2 o 4 equipos. Puede conducir a muchas personas o equipo de equipos.
+Mismas características que un 'Senior Advanced', solo que mayor experiencia. Puede tener mayor alcance de liderazgo, liderando técnicamente más de 2 o 4 equipos. Puede conducir a muchas personas o equipo de equipos.
 
 ## Distinguished
 
