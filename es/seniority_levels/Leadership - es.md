@@ -32,5 +32,8 @@ Mismas características que un 'Senior Advanced', solo que mayor experiencia. Pu
 
 ## Distinguished
 
+Características similares a la del Principal. Puede haber logrado distinguirse a mayor escala y prolongadamente en el tiempo.
+
+
 
 
