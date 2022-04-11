@@ -6,7 +6,7 @@ Product Owner (EN), Dueño de Producto
 
 ## Descripción
 
-Responsable dueño del producto a nivel equipo, la persona encargada de transmitir la necesidad y la visión de negocio al equipo de desarrollo y de maximizar el valor de los resultados del trabajo a realizar. Se encarga de obtener el máximo valor posible al mínimo costo. Maximizar el valor del producto a desarrollar y gestiona la pila de trabajo (Product Backlog).
+Product Owner o responsable 'Dueño de Producto' a nivel equipo, persona encargada de transmitir las necesidades del cliente y la visión de negocio al equipo de desarrollo, de maximizar el valor de los resultados del trabajo a realizar y de gestionar la pila de trabajo (Product Backlog) del equipo. En resumen es la persona responsable de maximizar el valor del producto resultante del trabajo del 'Equipo de Desarrollo'.
 
 ## Formación principal y académica
 
