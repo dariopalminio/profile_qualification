@@ -22,19 +22,26 @@ Cuenta con personas a cargo en un equipo de desarrollo o lidera un equipo de ent
 
 ## Conocimientos y competencias
 
-1.	Metodologías de desarrollo de sistemas (ágiles, no ágiles) como: Scrum, Kanban, XP, SAFe, etc. 
-2.	Conocimientos de ingeniería de software, informática y la industria TI. Esto es importante si el equipo que lidera desarrolla software.
-3.	Conocimientos administrativos básicos.
-4.	Capacidad de Liderazgo, de construcción de equipo (Team Building), mentoreo y coaching.
-5.	Capacidades de docencia (trainer/teacher) para un grupo de personas.
-6.	Conocimientos de negocio (KPIs) y de desarrollo de productos.
-7.	Conocimientos del manifiesto ágil y sus implicancias.
+1.	Conocimientos del manifiesto ágil (agilemanifesto.org) y sus implicancias en el día a día de trabajo.
+2.	Conocimientos profundos en algún marco o metodología de desarrollo ágil de sistemas como: Scrum, Kanban, XP, etc. Preferentemente debe conocer y/o manejar el marco Scrum (Scrum.org). 
+3.	Conocimientos básicos de algún marco de escalado ágil: SAFe, Nexus, LeSS, etc. 
+3.	Conocimientos de ingeniería de software, informática y la industria TI. Esto es importante si el equipo que lidera desarrolla software.
+4. Habilidades en las ocho posturas de un Scrum Master ('The 8 Stances of a Scrum Master' de Scrum.org): manager, líder servicial, teacher, coach, mentor, facilitador, removedor de impedimentos y agente de cambio.
+5.	**Manager**: Conocimientos administrativos y de gestión básicos. Capacidad de gestionar impedimentos, eliminar desperdicios, gestionar el proceso, gestionar la salud del equipo, gestionar los límites de la autoorganización y gestionar la cultura.
+6.	**Líder Servicial**: Capacidad de liderazgo, de construcción de equipo (Team Building). Es importante que tenga aptitudes de líder porque es necesario que lidere un equipo principalmente como líder servicial.
+7.	**Teacher**: capacidades de docencia (trainer/teacher) para un grupo de personas.
+8. **Coach**: capacidad de coaching. entrenar al individuo con un enfoque en la mentalidad y el comportamiento, el equipo en mejora continua y la organización en una verdadera colaboración con el equipo Scrum.
+9. **Mentor**: Capacidad de mentoreo para transfierir conocimiento y experiencia Agile al equipo.
+10. **Facilitador**: preparando el escenario y proporcionando límites claros en los que el equipo puede colaborar.
+11. **Removedor de impedimentos**: capacidad de resolver problemas que bloquean el progreso del equipo, teniendo en cuenta las capacidades de autoorganización del Equipo de Desarrollo.
+12. **Agente de cambio**: Un agente de cambio para habilitar una cultura en la que los equipos Scrum puedan prosperar.
+13.	Conocimientos de negocio (KPIs) y de desarrollo de productos. Es importante para facilitar el trabajo del Product Owner y asegurarse que el equipo entrega valor.
 
 ## Responsabilidades y funciones
 
 8.	Ayudar a todos a comprender la teoría, las prácticas, las reglas y los valores del marco de trabajo.
 9.	Oficiar de líder servidor del Equipo. Tiene el protagonismo y responde por el rendimiento del equipo.
-10.	Ayudar a quienes están fuera del equipo de desarrollo a comprender cuáles de sus interacciones útiles y cuáles no con el equipo.
+10.	Ayudar a quienes están fuera del equipo de desarrollo a comprender cuáles de sus interacciones útiles y cuáles no con el equipo. El Scrum Master ayuda a todos a cambiar estas interacciones para maximizar el valor creado por el Equipo Scrum.
 11.	Ayudar a todos a cambiar y mejorar las interacciones de las personas para maximizar el valor que entrega el equipo.
 
 **Con el equipo:**
