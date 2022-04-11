@@ -23,8 +23,8 @@ No suele contar con personas a cargo aunque si lidera, en cuanto a producto, a u
 ## Conocimientos y competencias
 
 1.	Conocimientos administrativos básicos.
-2.	Experiencia en el rol o conocimientos en las responsabilidades del rol Product Owner.
-3.	Conocimientos del manifiesto ágil y sus implicancias.
+2.	Experiencia en el rol o conocimientos en las responsabilidades del rol Product Owner (según 'La Guía de Scrum' de Scrum.org).
+3.	Conocimientos del manifiesto ágil (agilemanifesto.org) y sus implicancias en el día a día de trabajo.
 4.	Si se trata de un Product Owner en un equipo de desarrollo de software: conocimientos de informática y la industria TI. 
 5.	Capacidad de Liderazgo en temas de negocio y de gestión de interesados de producto (stakeholders).
 6.	Conocimientos de análisis de negocio (Lean Business Canvas, modelado de procesos de negocio, etc.).
