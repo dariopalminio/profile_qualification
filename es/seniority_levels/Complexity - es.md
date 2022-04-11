@@ -14,7 +14,9 @@ Realiza tareas de programación estándar. Contribuye a las especificaciones fun
 
 ## Senior
 
-Realiza tareas complejas. Participa en revisiones de a pares y puede aprobar funciones pequeñas. En programación: realiza tareas de programación complejas; sabe implementar patrones de diseño; toma decisiones de arquitectura; implementa mecanismos de seguridad y rendimiento; escribe y ejecuta planes de prueba. Puede escribir especificaciones funcionales para características pequeñas. Entiende sin dificultad código ajeno. Puede construir por sí solo una aplicación completa. Proporciona satisfactoriamente liderazgo técnico a un equipo de entre 7 y 9 personas.
+Realiza tareas complejas. Obtienen las tareas difíciles de resolver y logran arreglarlas con lo que se puede describir como magia. Serán dotados para la resolución de problemas, a menudo tienen un sexto sentido extraño para solucionar problemas porque ya lo han hecho antes.
+
+Participa en revisiones de a pares y puede aprobar funciones pequeñas. En programación: realiza tareas de programación complejas; sabe implementar patrones de diseño; toma decisiones de arquitectura; implementa mecanismos de seguridad y rendimiento; escribe y ejecuta planes de prueba. Puede escribir especificaciones funcionales para características pequeñas. Entiende sin dificultad código ajeno. Puede construir por sí solo una aplicación completa. Proporciona satisfactoriamente liderazgo técnico a un equipo de entre 7 y 9 personas.
 
 ## Senior Advanced
 

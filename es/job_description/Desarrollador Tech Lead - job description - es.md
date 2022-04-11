@@ -18,12 +18,12 @@ Postgrado, diplomas y/o certificaciones tales como: Master en Arquitectura de So
 
 ## Supervisión o liderazgo
 
-No cuenta con personal a su cargo. Lidera un equipo de desarrolladores. 
+No suele contar con personal a su cargo. Lidera un equipo de desarrolladores. 
 
 ## Conocimientos y competencias
 
 1. Tener conocimientos informáticos y de ingeniería de software.  
-2. Ser desarrollador senior o profesional con más de 5 años de experiencia como ingeniero de software, desarrollador de software o puesto similar.
+2. Ser desarrollador senior, senior advanced o profesional con más de 5 años de experiencia como ingeniero de software, desarrollador de software o puesto similar.
 3. Poseer conocimientos avanzados en el stack tecnológico que usa su equipo o necesarios para el sistema a desarrollar. 
 4. Saber programar en diferentes lenguajes de programación/scripting/markup, por ejemplo: Java, Javascript, Perl, etc. 
 5. Debe manejar bases de datos, que incluye el diseño y estructura de bases de datos relacionales (SQL) y no relacionales (NoSQL). 
@@ -37,17 +37,25 @@ No cuenta con personal a su cargo. Lidera un equipo de desarrolladores.
 
 ## Responsabilidades y funciones
 
-1. Tener conocimientos informáticos y de ingeniería de software.  
-2. Poseer conocimientos avanzados en el stack tecnológico que usa su equipo o necesarios para el sistema a desarrollar. 
-3. Saber programar en diferentes lenguajes de programación/scripting/markup, por ejemplo: Java, Javascript, Perl, etc. 
-4. Debe manejar bases de datos, que incluye el diseño y estructura de bases de datos relacionales (SQL) y no relacionales (NoSQL). 
-5. Saber sobre patrones de diseño de software (Singleton, Facade, Adapter, Strategy, Observer, etc.). 
-6. Saber sobre arquitecturas del tipo de sistema o soluciones del equipo que lidera (Cliente-Servidor, Microservicios, etc.).
-7. Capacidad de traducir necesidades del negocio a soluciones TI. 
-8. Capacidad de instalar y configurar ambientes completos de desarrollo y herramientas IDE.  
-9. Capacidad de liderazgo, coaching y mentoreo de desarrolladores. 
-10. Capacidades didácticas de explicación y formación en aspectos técnico para miembros del equipo y stakeholders. 
-11. Habilidades de comunicación para comunicarse con stakeholders de la organización de forma acertiva. 
+1.	Coordinarse con otros líderes técnicos.
+2.	Liderara la definición del Stack tecnológico y buscar mejorarlo.
+3.	Liderar la implementación y asegurar funcionamiento y lineamientos técnicos en el desarrollo de sistemas.
+4.	Ser referente técnico del equipo de trabajo en cuanto a desarrollo. 
+5.	Actuar como un escudo contra las distracciones externas para que el equipo no pierda el enfoque y la dirección.
+6.	Desarrollar software: programar a la par del equipo aproximadamente 1/3 a 2/3 de su tiempo (o 30% al 70% aproximadamente).
+7.	Resolver impedimentos técnicos del equipo y saber resolver problemas complejos que el equipo no pueda resolver. Facilitar acciones y resolver problemas para mantener al equipo funcionando con eficacia y productividad.
+8.	Impulsar la mejora continua en el ámbito técnico en busca de la excelencia técnica.
+9.	Velar por el cumplimiento de las buenas prácticas de desarrollo de software y la ingeniería.
+10.	Supervisar/inspeccionar al equipo de desarrollo y garantizar que el software cumple con todos los requerimientos no funcionales.
+11.	Asegurar que las estrategias definidas en la ejecución de proyectos se apliquen de forma correcta.
+12.	Mantener control de avance, riesgos y entregas de las actividades de desarrollo de equipos internos como externos.
+13.	Liderar y apoyar en la evaluación de librerías, frameworks, plataformas, servicios, web servers, base de datos, patrones de diseño, etc.
+14.	Revisar y validar la documentación técnica generada por los desarrolladores.
+15.	Hacer revisión de código y feedback en prácticas de pairing, peer-review y mood-programing.
+16.	Ser embajador del equipo y la contraparte técnica del equipo con el resto de las áreas técnicas de la organización, como son: Arquitectura, Producción, Monitoreo, Ciberseguridad, etc.
+17.	Brindar reconocimiento a sus compañeros y su equipos según resultados y rendimiento.
+18.	Velar por la disminución de la deuda técnica y lograr desarrollar software de calidad.
+
 
 ## Tecnologías
 
