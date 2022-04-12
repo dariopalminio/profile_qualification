@@ -56,5 +56,6 @@ No cuenta con personal a su cargo.
 
 ## Tecnologías
 
-Herramientas de ofimática como Google Workspace y/o Microsoft 365.
+- Herramientas de ofimática como Google Workspace y/o Microsoft 365.
+- Herramientas de BI como: Tableau y Power BI.
 

@@ -42,16 +42,19 @@ No cuenta con personal a su cargo.
 1.	Ser responsable del desarrollo de los modelos de datos conceptuales, lógicos y físicos, la implementación de RDBMS, almacenamiento de datos operativos (ODS), data marts y lagos de datos en plataformas de destino (SQL/NoSQL).
 2.	Implemente los requisitos de datos comerciales y de TI a través de nuevas estrategias y diseños de datos en todas las plataformas de datos (relacionales, dimensionales y NoSQL) y herramientas de datos (informes, visualización, análisis y aprendizaje automático).
 3.	Identifique la arquitectura, la infraestructura y las interfaces de las fuentes de datos, las herramientas que admiten cargas de datos automatizadas, las preocupaciones de seguridad, los modelos analíticos y la visualización de datos.
-4.	Implementar estrategias de datos, crear flujos de datos y desarrollar modelos de datos conceptuales, lógicos y físicos.
+4.	Implementar estrategias de datos, crear flujos de datos y desarrollar modelos de datos conceptuales, lógicos y físicos. Desarrollar procedimientos claros para el flujo de datos entre departamentos.
 5.	Hands-on modeling, diseño, configuración, instalación, ajuste de rendimiento y POC de sandbox.
 6.	Supervisar y apoyar el gobierno de la expansión de la arquitectura de datos existente y la optimización del rendimiento de las consultas de datos a través de las mejores prácticas.
 7.	Diagramar reglas de negocio consistentes en el tiempo entre entidades de base de datos.
 8.	Desarrollar modelos de datos normalizados y desnormalizados.
 9.	Orientar a las células de trabajo en cuanto a buenas prácticas en estructuras de datos.
-10.	Interactuar con áreas relacionadas al negocio y otras fábricas en TI.
+10.	Interactuar con áreas relacionadas al negocio y otras fábricas en TI. Reunirse con los líderes de la empresa y determinar los procedimientos actuales de gestión de datos. Reunirse con los empleados y hablarles sobre cómo definir y categorizar los datos.
 11.	Participar activamente en las definiciones y etapas de diseños de modelos de dato así como también en la construcción del framework de ingesta.
 12.	Levantar riesgos asociados a la implementación de los procesos de modelo e ingesta de datos en términos técnicos.
 13.	Diseñar, cuestionar e implementar las buenas prácticas y estándares de modelo e ingesta de datos.
+14. Crear un diccionario de datos que defina de qué parte de la empresa provienen los datos, así como el valor que tienen.
+15. Estandarizar las abreviaturas utilizadas en toda la plataforma.
+16. Asegurar los datos mediante la implementación de procedimientos de encriptación o firewall.
 
 
 ## Tecnologías
