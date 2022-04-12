@@ -21,25 +21,25 @@ Certificaciones y/o diplomas en ciencia de datos.
 
 ## Conocimientos y competencias
 
-Excelente comprensión de técnicas y algoritmos de aprendizaje automático, como k-NN, Naive Bayes, SVM, Decision Forests, etc.
-Experiencia con kits de herramientas de ciencia de datos comunes (dependiendo de los requisitos específicos del proyecto).
-Experiencia con herramientas de visualización de datos, como D3.js, GGplot, etc.
-Competencia en el uso de lenguajes de consulta (SQL, Hive, Pig, etc).
-Experiencia con bases de datos NoSQL.
-Buenas habilidades de estadística aplicada, como distribuciones, pruebas estadísticas, regresión, etc.
-Buenas habilidades de scripting y programación.
-Personalidad orientada a datos.
-Grandes habilidades de comunicación.
+1. Excelente comprensión de modelos, técnicas y algoritmos de aprendizaje automático, como: k-NN, Naive Bayes, SVM, Decision Forests, etc.
+2. Experiencia con kits de herramientas de ciencia de datos comunes (dependiendo de los requisitos específicos del proyecto).
+3. Experiencia con herramientas de visualización de datos, como D3.js, GGplot, etc.
+4. Competencia en el uso de lenguajes de consulta (SQL, Hive, Pig, etc).
+5. Experiencia con bases de datos NoSQL.
+6. Buenas habilidades de estadística aplicada, como distribuciones, pruebas estadísticas, regresión, etc.
+7. Buenas habilidades de scripting y programación.
+8. Personalidad orientada a datos.
+9. Grandes habilidades de comunicación.
 
 ## Responsabilidades y funciones
 
-Selección de características, creación y optimización de clasificadores mediante técnicas de aprendizaje automático
-Minería de datos utilizando métodos de última generación
-Extender los datos de la empresa con fuentes de información de terceros cuando sea necesario
-Mejorar los procedimientos de recopilación de datos para incluir información que sea relevante para construir sistemas analíticos
-Procesamiento, limpieza y verificación de la integridad de los datos utilizados para el análisis
-Hacer análisis ad-hoc y presentar los resultados de manera clara
-Creación de sistemas automatizados de detección de anomalías y seguimiento constante de su desempeño
+1. Selección de características, creación y optimización de clasificadores mediante técnicas de aprendizaje automático
+2. Minería de datos utilizando métodos de última generación
+3. Extender los datos de la empresa con fuentes de información de terceros cuando sea necesario
+4. Mejorar los procedimientos de recopilación de datos para incluir información que sea relevante para construir sistemas analíticos
+5. Procesamiento, limpieza y verificación de la integridad de los datos utilizados para el análisis
+6. Hacer análisis ad-hoc y presentar los resultados de manera clara
+7. Creación de sistemas automatizados de detección de anomalías y seguimiento constante de su desempeño
 
 ## Tecnologías
 
