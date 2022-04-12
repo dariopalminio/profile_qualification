@@ -6,7 +6,7 @@ Modelador de Datos, Data Modeler (EN), Modelador de dados (PT, BR)
 
 ## Descripción
 
-Profesional encargado de diseñar modelos y estructuras de datos sobre ecosistemas distribuidos y construir modelos analíticos a partir del tablón de datos generado. Diseña, implementa y documenta la arquitectura de datos y las soluciones de modelado de datos, que incluyen el uso de bases de datos relacionales, dimensionales y NoSQL. Estas soluciones admiten la gestión de la información empresarial, la inteligencia comercial, el aprendizaje automático, la ciencia de datos y otros intereses comerciales. Tiene la misión de lograr que los datos estén tan presentables como se pueda, de manera tal que el estudio y la combinación se haga con el mínimo esfuerzo.
+Profesional encargado de representar los datos de manera relacional, diseñar modelos y estructuras de datos sobre ecosistemas distribuidos y construir modelos analíticos a partir del tablón de datos generado. Diseña, implementa y documenta la arquitectura de datos y las soluciones de modelado de datos, que incluyen el uso de bases de datos relacionales, dimensionales y NoSQL. Estas soluciones admiten la gestión de la información empresarial, la inteligencia comercial, el aprendizaje automático, la ciencia de datos y otros intereses comerciales. Tiene la misión de lograr que los datos estén tan presentables como se pueda, de manera tal que el estudio y la combinación se haga con el mínimo esfuerzo.
 
 ## Formación principal y académica
 
