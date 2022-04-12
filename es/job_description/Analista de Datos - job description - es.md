@@ -51,4 +51,4 @@ No cuenta con personal a su cargo.
 - Base de datos relacional (SQL): Oracle, MariaDB, MySQL, PostgreSQL, etc.
 - Base de datos no relacional (NoSQL): MongoDB, Redis, Cassandra, HBase, etc.
 - Herramientas de visualización de datos, como: Matplotlib, Plotly, D3.js, ggplot, etc.
-- Herramientas de BI como: Tableau y Power BI.
+- Herramientas de BI & Data Analysis como: Tableau y Power BI.
