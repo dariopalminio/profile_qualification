@@ -68,7 +68,7 @@ La tecnología dependerá de los requisitos del puesto. La tecnología general r
 - Motores de BigData: Spark (Spark/Scala/HDFS/Hive, Python, SQL, Shell).
 - Framework de programación distribuida de BigData: Hadoop (Hadoop, Spark, HDFS , Map Reduce, Yarn, PIG, HIVE, HBase, Mahout, Spark MLLib, Solar, Lucene, Zookeeper, Oozie ).
 - ETL tools: Apache Flume, Apache Sqoop, Apache HBase, Apache Hive, Apache Oozie, Apache Phoenix, Apache Pig, Apache ZooKeeper, Cloud ETL (Elastic MapReduce AWS, AWS Glue, Azure Data Factory, Google Cloud Dataflow.
-- Cloud Computing Provider: Google Cloud Platform, AWS, Asure, etc.
+- Cloud Computing Provider: Google Cloud Platform, AWS, Asure, IBM Cloud Pak, etc.
 - Consumer tools: Amazon (QuickSight), Tableau, Looker, TIBC Jaspersoft, Microstrategy, Kibana, Flot, Apache Zeppelin, GCP (Data Studio), IPython, Power BI, Power Apps, IBM Cognos, etc.
 - Security: Apache Knox, Apache Ranger, etc.
 

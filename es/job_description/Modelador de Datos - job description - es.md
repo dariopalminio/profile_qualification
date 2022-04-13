@@ -24,17 +24,18 @@ No cuenta con personal a su cargo.
 
 1.	Tener conocimientos informáticos, en análisis de sistemas y estructura de datos.
 2.	Tener experiencia modelando datos.
-3.	Conocimiento y fundamentos sólidos en gestión de metadatos, patrones de modelo de datos, esquemas de datos y tipología de datos (Modelos de datos conceptuales, Modelos de datos lógicos MD, Modelos de datos físicos MDF).
+3.	Conocimiento y fundamentos sólidos en gestión de metadatos, patrones de modelo de datos, esquemas de datos (estrella, copo de nieve, etc.) y tipología de datos (Modelos de datos conceptuales, Modelos de datos lógicos MD, Modelos de datos físicos MDF).
 4.  Conocimientos en Data Source Patterns y Storage Patterns en Bigdata.
 5.	Conocimientos sólidos en diagramado de datos (Entity-Relationship Modeling, Crow's Foot notation, Barker’s notation symbols, etc.) y manejo de herramientas para modelado de datos.
 6. Conocimiento en 'Normalización de Bases de Datos'.
 7.	Experiencia con almacenamiento de datos, lago de datos y plataformas de big data empresarial en contextos de centros de datos múltiples.
 8.	Conocer sobre Gobierno de datos y seguridad de datos.
 9.	Procesamiento de datos (Data Base, DM, Data warehouse, DataLake), que incluye implementación y manipulación de bases de datos relacionales (SQL, PL/SQL) y no relacionales (NoSQL). Conocimientos avanzados en SQL.
-10.	Conocimientos básicos en ETL y protocolos de ingesta de datos.
-11.	Conocimientos básicos de herramientas de Big Data, integración y explotación de datos. 
-12.	Conocimientos esenciales en procesos de extracción, transformación y carga de datos.
-13.	Conocimiento en métricas de evaluación de modelos de datos (ROC-AUC, AIC, BIC, RMSE, etc.).
+10. Conocimiento en métodos de modelado de datos DW (Kimball, Inmon).
+11.	Conocimientos básicos en ETL y protocolos de ingesta de datos.
+12.	Conocimientos básicos de herramientas de Big Data, integración y explotación de datos. 
+13.	Conocimientos esenciales en procesos de extracción, transformación y carga de datos.
+14.	Conocimiento en métricas de evaluación de modelos de datos (ROC-AUC, AIC, BIC, RMSE, etc.).
 
 
 ## Responsabilidades y funciones
