@@ -36,6 +36,7 @@ No cuenta con personal a su cargo.
 12.	Conocimientos básicos de herramientas de Big Data, integración y explotación de datos. 
 13.	Conocimientos esenciales en procesos de extracción, transformación y carga de datos.
 14.	Conocimiento en métricas de evaluación de modelos de datos (ROC-AUC, AIC, BIC, RMSE, etc.).
+15.	Sentido de responsabilidad, compromiso y capacidad de trabajo en equipo. 
 
 
 ## Responsabilidades y funciones
@@ -56,6 +57,7 @@ No cuenta con personal a su cargo.
 14. Crear un diccionario de datos que defina de qué parte de la empresa provienen los datos, así como el valor que tienen.
 15. Estandarizar las abreviaturas utilizadas en toda la plataforma.
 16. Asegurar los datos mediante la implementación de procedimientos de encriptación o firewall.
+17. En el trabajo orientado a equipo, aunque trabajará la mayor parte del tiempo en su campo de experticia, debe desenvolverse en otros temas, tareas y actividades en función de colaborar con el equipo, apoyar en diferentes tipos de actividades para sumar capacidad, cumplir con las entregas del equipo, evitar los cuellos de botella y colaborar en solucionar problemas del equipo. 
 
 
 ## Tecnologías

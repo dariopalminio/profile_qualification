@@ -42,8 +42,8 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 16. Gestión del entorno de alojamiento, incluida la administración de la base de datos y el escalado de una aplicación para admitir cambios de carga.
 17. Logging, tracing y moniteoreo.
 18. Configuración y administración de copias de seguridad.
-
-17. Capacidad de aprendizaje, investigación, análisis y diseño de sistemas informáticos, autonomía en sus tareas, proactivo, analítico, responsable, puntual con los compromisos y coordinación para trabajo en equipo. 
+19. Capacidad de aprendizaje, investigación, análisis y diseño de sistemas informáticos, autonomía en sus tareas, proactivo, analítico, responsable, puntual con los compromisos y coordinación para trabajo en equipo. 
+20.	Sentido de responsabilidad, compromiso y capacidad de trabajo en equipo. 
 
 ## Responsabilidades y funciones
 
@@ -58,6 +58,7 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 9. Diseño, desarrollo y mantención de diferentes componentes de un sitios web o aplicación software. 
 10. Identificar problemas y riesgos de desarrollo de software y gestionarlos y escalarlos cuando corresponda. 
 11. Estimar esfuerzo de desarrollo de componentes y tareas además de colaborar con la planificación de trabajo. 
+12. En el trabajo orientado a equipo, aunque trabajará la mayor parte del tiempo en su campo de experticia, debe desenvolverse en otros temas, tareas y actividades en función de colaborar con el equipo, apoyar en diferentes tipos de actividades para sumar capacidad, cumplir con las entregas del equipo, evitar los cuellos de botella y colaborar en solucionar problemas del equipo. 
 
 ## Tecnologías
 

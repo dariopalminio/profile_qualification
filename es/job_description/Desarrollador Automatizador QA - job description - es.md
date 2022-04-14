@@ -33,6 +33,7 @@ No cuenta con personal a su cargo.
 9. Detallista (que preste atención al detalle, a las particularidades). 
 10. Capacidad de medir la calidad del software.
 11. Capacidad de aprendizaje, investigación, análisis y diseño de sistemas informáticos, autonomía en sus tareas, proactivo, analítico, responsable, puntual con los compromisos y coordinación para trabajo en equipo. 
+12.	Sentido de responsabilidad, compromiso y capacidad de trabajo en equipo. 
 
 ## Responsabilidades y funciones
 
@@ -56,6 +57,7 @@ No cuenta con personal a su cargo.
 18. Test de instalación. 
 19. Estimar esfuerzo de desarrollo de componentes y tareas además de colaborar con la planificación de trabajo.
 20. Mantenerse actualizado con nuevas herramientas de prueba y estrategias de prueba.
+21. En el trabajo orientado a equipo, aunque trabajará la mayor parte del tiempo en su campo de experticia, debe desenvolverse en otros temas, tareas y actividades en función de colaborar con el equipo, apoyar en diferentes tipos de actividades para sumar capacidad, cumplir con las entregas del equipo, evitar los cuellos de botella y colaborar en solucionar problemas del equipo. 
 
 ## Tecnologías
 

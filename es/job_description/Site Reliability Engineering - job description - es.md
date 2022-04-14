@@ -33,6 +33,7 @@ No tiene personal a cargo.
 9.	Saber cuál es el uso de los sistemas de gestión de configuración IaC (como Chef).
 10.	Experiencia en resolución de problemas.
 11.	Tener ganas de documentar lecciones aprendidas.
+12.	Sentido de responsabilidad, compromiso y capacidad de trabajo en equipo. 
 
 
 ## Responsabilidades y funciones

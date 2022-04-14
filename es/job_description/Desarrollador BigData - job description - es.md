@@ -39,6 +39,7 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 13. Experiencia con la integración de datos de múltiples fuentes de datos.
 14. Conocimientos en sistemas de mensajería y programación orientada a eventos.
 15. Buen conocimiento de la Arquitectura Lambda, junto con sus ventajas y desventajas.
+16.	Sentido de responsabilidad, compromiso y capacidad de trabajo en equipo. 
 
 ## Responsabilidades y funciones
 
@@ -50,6 +51,7 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 6. Garantizar la accesibilidad, precisión y seguridad de los datos. 
 7. Apoyar y facilitar el trabajo a analistas y científicos de datos, así como a negocio. 
 8. Estimar esfuerzo de desarrollo de componentes y tareas además de colaborar con la planificación de trabajo.
+9. En el trabajo orientado a equipo, aunque trabajará la mayor parte del tiempo en su campo de experticia, debe desenvolverse en otros temas, tareas y actividades en función de colaborar con el equipo, apoyar en diferentes tipos de actividades para sumar capacidad, cumplir con las entregas del equipo, evitar los cuellos de botella y colaborar en solucionar problemas del equipo. 
 
 ## Tecnologías
 

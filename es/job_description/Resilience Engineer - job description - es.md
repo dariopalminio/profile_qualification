@@ -53,7 +53,7 @@ No suele contar con personas.
 11.	Trabajar con equipos de socios para crear una experiencia cohesiva para los ingenieros propietarios del servicio.
 12. Medir, monitorear y gestionar métricas relacionadas a resiliencia de sistemas como: Website Availability, Service Availability (Downtime Duration, Downtime Frequency, System Uptime, User Uptime, etc.), Service-Level Agreement, MTBF (Mean time between failures), MTTF (Mean time to failure), MTTR (Mean time to repair), etc. 
 13. Practicar una respuesta sostenible a incidentes y prácticas de 'blameless postmortems' y retrospectivas de mejora continua.
-
+14. En el trabajo orientado a equipo, aunque trabajará la mayor parte del tiempo en su campo de experticia, debe desenvolverse en otros temas, tareas y actividades en función de colaborar con el equipo, apoyar en diferentes tipos de actividades para sumar capacidad, cumplir con las entregas del equipo, evitar los cuellos de botella y colaborar en solucionar problemas del equipo. 
 
 ## Tecnologías
 

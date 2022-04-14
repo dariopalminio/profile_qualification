@@ -53,6 +53,7 @@ Lecto-comprensión y elementos de redacción en inglés.
 12. Asegurar el cumplimiento de requerimientos no funcionales y calidad del software: medir la performance de la aplicación y conducir pruebas en relación a la performance, seguridad, etc. 
 13. Liderazgo técnico: Supervisar, liderar y/o guiar al o los equipos de desarrollo. Realizar coaching y mentoring sobre problemas técnicos, ayudando a la evolución profesional del equipo de programadores.
 14. Estimar esfuerzo de desarrollo de componentes y tareas además de colaborar con la planificación de trabajo. 
+15. En el trabajo orientado a equipo, aunque trabajará la mayor parte del tiempo en su campo de experticia, debe desenvolverse en otros temas, tareas y actividades en función de colaborar con el equipo, apoyar en diferentes tipos de actividades para sumar capacidad, cumplir con las entregas del equipo, evitar los cuellos de botella y colaborar en solucionar problemas del equipo. 
 
 ## Tecnologías
  - Según stack tecnológico requerido debe manejar distintas tecnologías en los siguientes ámbitos de aplicación: Programming Language, Operatives System, Runtime environment, Version Code, Testing, Logging-tracing & monitoring, CI/CD (Build, pack & automation tool), Web-Service & Web-Application Framework, Web Server, Data Base engine, Data Base access & ORM, Event framework, Containerization/Virtualization, Container Orchestration, Operation & Cloud Computing, Segurity, Cache, Parallel Programming (Thread).

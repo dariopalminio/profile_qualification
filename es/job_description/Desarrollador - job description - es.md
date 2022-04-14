@@ -39,6 +39,7 @@ No cuenta con personal a su cargo.
 15.	Conocimiento de metodologías ágiles como SCRUM u otros.
 16.	Conocimiento de herramientas de control de versiones.
 17.	Capacidad de aprendizaje, investigación, análisis y diseño de sistemas informáticos, autonomía en sus tareas, proactivo, analítico, responsable, puntual con los compromisos y coordinación para trabajo en equipo.
+19.	Sentido de responsabilidad, compromiso y capacidad de trabajo en equipo. 
 
 
 ## Responsabilidades y funciones
@@ -65,6 +66,7 @@ funcionalidad requerida.
 19.	Detectar oportunidades de mejora o conformidades y observaciones para incluirlas en el sistema de mejora continua.
 20.	Participar en la definición y revisión de estándares y normas aplicables al diseño y construcción.
 21.	Identificar problemas y riesgos de desarrollo de software y gestionarlos y escalarlos cuando corresponda.
+22. En el trabajo orientado a equipo, aunque trabajará la mayor parte del tiempo en su campo de experticia, debe desenvolverse en otros temas, tareas y actividades en función de colaborar con el equipo, apoyar en diferentes tipos de actividades para sumar capacidad, cumplir con las entregas del equipo, evitar los cuellos de botella y colaborar en solucionar problemas del equipo. 
 
 
 ## Tecnologías

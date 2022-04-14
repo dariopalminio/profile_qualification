@@ -41,6 +41,7 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 15. Conocimientos básicos de Testing: unit test, test de renderización y/o End-to-End.
 16. Securización para desarrollo frontend. 
 17. Capacidad de aprendizaje, investigación, análisis y diseño de sistemas informáticos, autonomía en sus tareas, proactivo, analítico, responsable, puntual con los compromisos y coordinación para trabajo en equipo. 
+18.	Sentido de responsabilidad, compromiso y capacidad de trabajo en equipo. 
 
 ## Responsabilidades y funciones
 
@@ -56,6 +57,7 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 10. Colaborar con otros miembros del equipo y partes interesadas.
 11. Identificar problemas y riesgos de desarrollo de software y gestionarlos y escalarlos cuando corresponda. 
 12. Estimar esfuerzo de desarrollo de componentes y tareas además de colaborar con la planificación de trabajo. 
+13. En el trabajo orientado a equipo, aunque trabajará la mayor parte del tiempo en su campo de experticia, debe desenvolverse en otros temas, tareas y actividades en función de colaborar con el equipo, apoyar en diferentes tipos de actividades para sumar capacidad, cumplir con las entregas del equipo, evitar los cuellos de botella y colaborar en solucionar problemas del equipo. 
 
 ## Tecnologías
 

@@ -52,6 +52,7 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 12. Asegurar el cumplimiento de requerimientos no funcionales y calidad del software: medir la performance de la aplicación y conducir pruebas en relación a la performance, seguridad, etc. 
 13. Liderazgo técnico: Supervisar, liderar y/o guiar al o los equipos de desarrollo. Realizar coaching y mentoring sobre problemas técnicos, ayudando a la evolución profesional del equipo de programadores.
 14. Estimar esfuerzo de desarrollo de componentes y tareas además de colaborar con la planificación de trabajo. 
+15. En el trabajo orientado a equipo, aunque trabajará la mayor parte del tiempo en su campo de experticia, debe desenvolverse en otros temas, tareas y actividades en función de colaborar con el equipo, apoyar en diferentes tipos de actividades para sumar capacidad, cumplir con las entregas del equipo, evitar los cuellos de botella y colaborar en solucionar problemas del equipo. 
 
 ## Tecnologías
 
@@ -67,7 +68,7 @@ La tecnología dependerá de los requisitos del puesto. La tecnología general r
 - Process & Analyze, Big Data Machine Learning toolkits: Mahout, SparkML, H2O, etc.
 - Motores de BigData: Spark (Spark/Scala/HDFS/Hive, Python, SQL, Shell).
 - Framework de programación distribuida de BigData: Hadoop (Hadoop, Spark, HDFS , Map Reduce, Yarn, PIG, HIVE, HBase, Mahout, Spark MLLib, Solar, Lucene, Zookeeper, Oozie ).
-- ETL tools: Apache Flume, Apache Sqoop, Apache HBase, Apache Hive, Apache Oozie, Apache Phoenix, Apache Pig, Apache ZooKeeper, Cloud ETL (Elastic MapReduce AWS, AWS Glue, Azure Data Factory, Google Cloud Dataflow.
+- ETL tools: Apache Flume, Apache Sqoop, Apache HBase, Apache Hive, Apache Oozie, Apache Phoenix, Apache Pig, Apache ZooKeeper, Cloud ETL (Elastic MapReduce AWS, AWS Glue, Azure Data Factory, Google Cloud Dataflow).
 - Cloud Computing Provider: Google Cloud Platform, AWS, Asure, IBM Cloud Pak, etc.
 - Consumer tools: Amazon (QuickSight), Tableau, Looker, TIBC Jaspersoft, Microstrategy, Kibana, Flot, Apache Zeppelin, GCP (Data Studio), IPython, Power BI, Power Apps, IBM Cognos, etc.
 - Security: Apache Knox, Apache Ranger, etc.

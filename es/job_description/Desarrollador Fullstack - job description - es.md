@@ -45,6 +45,8 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 16. Conocimientos y manejo de logging, tracing y monitoreo.
 17. Conocimientos en sistemas de mensajería y programación orientada a eventos.
 18. Capacidad de aprendizaje, investigación, análisis y diseño de sistemas informáticos, autonomía en sus tareas, proactivo, analítico, responsable, puntual con los compromisos y coordinación para trabajo en equipo
+19.	Sentido de responsabilidad, compromiso y capacidad de trabajo en equipo. 
+20. En el trabajo orientado a equipo, aunque trabajará la mayor parte del tiempo en su campo de experticia, debe desenvolverse en otros temas, tareas y actividades en función de colaborar con el equipo, apoyar en diferentes tipos de actividades para sumar capacidad, cumplir con las entregas del equipo, evitar los cuellos de botella y colaborar en solucionar problemas del equipo. 
 
 ## Responsabilidades y funciones
 

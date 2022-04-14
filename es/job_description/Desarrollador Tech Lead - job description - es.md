@@ -55,7 +55,7 @@ No suele contar con personal a su cargo. Lidera un equipo de desarrolladores.
 16.	Ser embajador del equipo y la contraparte técnica del equipo con el resto de las áreas técnicas de la organización, como son: Arquitectura, Producción, Monitoreo, Ciberseguridad, etc.
 17.	Brindar reconocimiento a sus compañeros y su equipos según resultados y rendimiento.
 18.	Velar por la disminución de la deuda técnica y lograr desarrollar software de calidad.
-
+19. En el trabajo orientado a equipo, aunque trabajará la mayor parte del tiempo en su campo de experticia, debe desenvolverse en otros temas, tareas y actividades en función de colaborar con el equipo, apoyar en diferentes tipos de actividades para sumar capacidad, cumplir con las entregas del equipo, evitar los cuellos de botella y colaborar en solucionar problemas del equipo. 
 
 ## Tecnologías
 

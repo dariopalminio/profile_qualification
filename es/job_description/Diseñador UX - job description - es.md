@@ -51,7 +51,7 @@ No cuenta con personal a su cargo.
 8.	Ser capaz de priorizar y administrar la propia carga de trabajo, en coordinación con el resto del equipo de experiencia y diseño, cumpliendo con los plazos críticos.
 9.	Manejar y realizar la coordinación necesaria para entregables hacia los Dev UI, manejando conceptos clave que permitan tener un diálogo efectivo con los equipos de desarrollo.
 10.	Colaborar con otros miembros del equipo y partes interesadas (stakeholders).
-
+11. En el trabajo orientado a equipo, aunque trabajará la mayor parte del tiempo en su campo de experticia, debe desenvolverse en otros temas, tareas y actividades en función de colaborar con el equipo, apoyar en diferentes tipos de actividades para sumar capacidad, cumplir con las entregas del equipo, evitar los cuellos de botella y colaborar en solucionar problemas del equipo. 
 
 ## Tecnologías
 
