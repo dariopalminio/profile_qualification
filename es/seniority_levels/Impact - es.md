@@ -14,7 +14,7 @@ El impacto suele estar en el ámbito interno e inmediato del equipo. Tiene un im
 
 ## Senior
 
-El impacto suele estar en el ámbito inmediato del equipo.
+Tiene gran impacto en el ámbito inmediato del equipo y puede tener impacto fuera del equipo. Puede colaborar en decisiones y soluciones fuera del equipo.
 
 ## Senior Advanced
 

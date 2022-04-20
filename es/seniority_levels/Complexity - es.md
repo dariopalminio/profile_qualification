@@ -14,13 +14,13 @@ Realiza tareas de programación estándar. Contribuye a las especificaciones fun
 
 ## Senior
 
-Realiza tareas complejas. Obtienen las tareas difíciles de resolver y logran arreglarlas con lo que se puede describir como magia. Serán dotados para la resolución de problemas, a menudo tienen un sexto sentido extraño para solucionar problemas porque ya lo han hecho antes.
+Realiza tareas complejas. Obtienen las tareas difíciles de resolver y logran arreglarlas con lo que se puede describir como magia. Dotado para la resolución de problemas y a menudo tiene un sexto sentido extraño para solucionar problemas porque ya lo ha hecho antes o se ha enfrentado a problemas semejantes.
 
-Participa en revisiones de a pares y puede aprobar funciones pequeñas. En programación: realiza tareas de programación complejas; sabe implementar patrones de diseño; toma decisiones de arquitectura; implementa mecanismos de seguridad y rendimiento; escribe y ejecuta planes de prueba. Puede escribir especificaciones funcionales para características pequeñas. Entiende sin dificultad código ajeno. Puede construir por sí solo una aplicación completa. Proporciona satisfactoriamente liderazgo técnico a un equipo de entre 7 y 9 personas.
+Participa en revisiones de a pares como auditor (revisor) y puede aprobar funciones pequeñas. En programación: realiza tareas de programación complejas; sabe implementar patrones de diseño; toma decisiones de arquitectura; implementa mecanismos de seguridad y rendimiento; escribe y ejecuta planes de prueba. Puede escribir especificaciones funcionales para características pequeñas. Entiende sin dificultad código ajeno. Puede configurar un entorno de desarrollo por sí solo y construir por sí solo una aplicación completa. Puede proporcionar satisfactoriamente liderazgo técnico a un equipo de entre 7 y 9 personas.
 
 ## Senior Advanced
 
-Realiza tareas de programación experta. Da forma a las metodologías de codificación y las mejores prácticas. Participa en revisiones de código y puede aprobar funciones importantes y complejas. Puede aprobar los planes de prueba. Participa en la recopilación de requisitos con un cliente. Maneja deuda técnica a gran escala y refactorización. Puede hacer refactorizaciones de todo un proyecto de manera óptima. Proporciona liderazgo técnico para proyectos que incluyen entre 2 a 4 equipos.
+Realiza tareas de programación experta. Da forma a las metodologías de codificación y las mejores prácticas. Participa en revisiones de código como auditor y puede aprobar funciones importantes y complejas. Puede aprobar los planes de prueba. Participa en la recopilación de requisitos con un cliente. Maneja deuda técnica a gran escala y refactorización. Puede hacer refactorizaciones de todo un proyecto de manera óptima. Proporciona liderazgo técnico para proyectos que incluyen entre 2 a 4 equipos.
 
 ## Principal
 

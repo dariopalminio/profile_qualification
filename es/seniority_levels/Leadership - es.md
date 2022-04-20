@@ -14,7 +14,7 @@ Puede liderar en algún tema a un grupo pequeño de Juniors (uno o dos) o pares.
 
 ## Senior
 
-Capacidad para asesorar a otros ingenieros, proporcionar orientación técnica, revisiones de códigos, diseñar y entregar proyectos pequeños de principio a fin. En este sentido, puede nunca llegar a ser líder, pero sí puede ser 'Senior' por su experiencia técnica. Es decir que puede ser un buen referente técnico, referente experto en alguna materia (Subject-matter expert) o liderar con su ejemplo técnico, sin necesidad de desenvolverse como un líder de equipo. Este nivel generalmente se considera un “nivel de carrera”, ya que puede pasar el resto de su carrera operando en este nivel.
+Capacidad para asesorar a otros ingenieros, proporcionar orientación técnica, revisiones de códigos, diseñar y entregar proyectos pequeños de principio a fin. En este sentido, puede nunca llegar a ser líder, pero sí puede ser 'Senior' por su experiencia técnica y capacidad de ayudar a los demás. Es decir que puede ser un buen referente técnico, referente experto en alguna materia (Subject-matter expert) o liderar con su ejemplo técnico, sin necesidad de desenvolverse como un líder de equipo. Este nivel generalmente se considera un “nivel de carrera”, ya que puede pasar el resto de su carrera operando en este nivel.
 
 En el caso de tener aptitudes de liderazgo, puede liderar, con medina experiencia, un pequeño equipo en un entorno seguro. Puede hacer sus primeras experiencias de liderazgo con complejidad media. 
 
