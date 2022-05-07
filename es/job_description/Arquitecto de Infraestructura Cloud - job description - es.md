@@ -51,7 +51,7 @@ No cuenta con personal a su cargo.
 ## Tecnologías
 
 La tecnología dependerá de los requisitos del puesto. La tecnología general relacionada es:
-
+- Diagramming: Enterprise Architect, Draw.io (diagrams.net), VisualParadigm, Lucidchart, Visio.
 - Programming Language: Python, etc.
 - Operating System: Unix, Linux,  Windows, Mac OS, etc.
 - Cloud Computing Provider: Google Cloud Platform (GCP), AWS, Asure, Openstack, Linode, IBM Cloud Pak, etc.

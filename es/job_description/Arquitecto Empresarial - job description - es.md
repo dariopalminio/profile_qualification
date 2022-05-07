@@ -60,3 +60,4 @@ Tiene personal a cargo. Puede liderar un equipo de arquitectos, un equipo TI o u
 
 
 ## Tecnologías
+- Diagramming: Enterprise Architect, Draw.io (diagrams.net), VisualParadigm, Lucidchart, Visio.

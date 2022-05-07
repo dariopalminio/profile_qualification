@@ -57,7 +57,7 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 ## Tecnologías
 
 La tecnología dependerá de los requisitos del puesto. La tecnología general relacionada es:
-
+- Diagramming: Enterprise Architect, Draw.io (diagrams.net), VisualParadigm, Lucidchart, Visio.
 - Ingest & Collect: Logstash, Log4J, Fluentd, IOT, GCP (Cloud SDK, Cloud Dataproc), etc.
 - Herramientas de automatización: Ansible, Control M, etc.
 - Storage, Base de datos relacional (SQL): Oracle, MariaDB, MySQL, PostgreSQL, etc.
