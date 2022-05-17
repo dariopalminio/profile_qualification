@@ -36,7 +36,7 @@ No suele contar con personal a su cargo. Lidera un equipo de desarrolladores que
 12. Habilidades de comunicación para comunicarse con stakeholders de la organización de forma asertiva. 
 13. Capaz de organizar el trabajo técnico del equipo.
 14. Capaz de realizar estimaciones y de liderar sesiones de estimaciones de un equipo sobre entregables, componentes y features de productos de software.
-15. Tener una 'Visión Holística' y sistémica de los problemas a resolver y de las soluciones planteades, como también del equipo y producto en el ecosistema organizacional.
+15. Tener una 'Visión Holística' y sistémica de los problemas a resolver y de las soluciones planteades, como también del equipo y producto en el ecosistema organizacional ('zoom out' y visión general).
 16. Habilidades de resolución de conflictos (con y entre colegas) y la capacidad de aprender de los errores.
 17. Capacidad para hacer contribuciones significativas y de movilizar e impulsar el éxito de su equipo.
 
