@@ -6,7 +6,7 @@ Líder Técnico, Tech Lead (EN),  Desarrollador Tech Lead, Líder Técnico (PT, 
 
 ## Descripción
 
-Ingeniero, profesional técnico o desarrollador de software, responsable de liderar un equipo de desarrollo y responsable de la calidad de sus productos técnicos. Supervisa, guía y lidera a un equipo, mientras desarrolla y/o mantiene un sistema de software, en los procesos de desarrollo de software y en las soluciones técnicas a los problemas que se enfrentan. 
+Ingeniero, profesional técnico o desarrollador de software, responsable de liderar técnicamente a un equipo de desarrollo y responsable de la calidad de sus productos técnicos. Supervisa, guía y lidera a un equipo, mientras desarrolla y/o mantiene un sistema de software, en los procesos de desarrollo de software y en las soluciones técnicas a los problemas que se enfrentan. 
 
 ## Formación principal y académica
 
@@ -18,7 +18,7 @@ Postgrado, diplomas y/o certificaciones tales como: Master en Arquitectura de So
 
 ## Supervisión o liderazgo
 
-No suele contar con personal a su cargo. Lidera un equipo de desarrolladores. 
+No suele contar con personal a su cargo. Lidera un equipo de desarrolladores que, por lo general, ronda un tamaño de entre 5 y 9 integrantes. 
 
 ## Conocimientos y competencias
 
