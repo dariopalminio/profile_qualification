@@ -36,6 +36,7 @@ No suele contar con personal a su cargo. Lidera un equipo de desarrolladores.
 12. Habilidades de comunicación para comunicarse con stakeholders de la organización de forma asertiva. 
 13. Capaz de organizar el trabajo técnico del equipo.
 14. Capaz de realizar estimaciones y de liderar sesiones de estimaciones de un equipo sobre entregables, componentes y features de productos de software.
+15. Tener una 'Visión Holística' y sistémica de los problemas a resolver y de las soluciones planteades, como también del equipo y producto en el ecosistema organizacional.
 
 ## Responsabilidades y funciones
 
@@ -60,7 +61,8 @@ No suele contar con personal a su cargo. Lidera un equipo de desarrolladores.
 19. En el trabajo orientado a equipo, aunque trabajará la mayor parte del tiempo en su campo de experticia, debe desenvolverse en otros temas, tareas y actividades en función de colaborar con el equipo, apoyar en diferentes tipos de actividades para sumar capacidad, cumplir con las entregas del equipo, evitar los cuellos de botella y colaborar en solucionar problemas del equipo. 
 20. Investigar continuamente tecnologías emergentes y mantenerse al día con las tendencias de la industria y del desarrollo.
 21. Mentorear a los miembros del equipo, principalmente a los miembros de menor seniority o más débiles técnicamente.
-22. Buscar un equilibrio de esfuerzo técnico, conocimiento técnico y nivel técnico entre miembros del equipo para lograr una productividad saludable del equipo.
+22. Buscar un equilibrio de esfuerzo técnico y nivel técnico entre miembros del equipo para lograr una productividad saludable del equipo. 
+23. Debe crear 'Conocimiento Colectivo' y fomentar la 'propiedad colectiva del código' procurando que el conocimiento se comparta, fluya en todo el equipo y se logre buen trabajo colectivo.
 
 ## Tecnologías
 
