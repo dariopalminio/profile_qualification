@@ -38,8 +38,7 @@ No suele contar con personal a su cargo. Lidera un equipo de desarrolladores que
 14. Capaz de realizar estimaciones y de liderar sesiones de estimaciones de un equipo sobre entregables, componentes y features de productos de software.
 15. Tener una 'Visión Holística' y sistémica de los problemas a resolver y de las soluciones planteades, como también del equipo y producto en el ecosistema organizacional.
 16. Habilidades de resolución de conflictos (con y entre colegas) y la capacidad de aprender de los errores.
-17. Monitorear, en función de mejorar el delivery, un conjunto de métricas técnicas del equipo y de calidad de software, como por ejemplo: Pull Request Lead Time, Throughput, Time from First Commit to Merge, Deploy Frequency, Number of Technical Debts, Bug in Production, etc.
-18. Capacidad para hacer contribuciones significativas y de movilizar e impulsar el éxito de su equipo.
+17. Capacidad para hacer contribuciones significativas y de movilizar e impulsar el éxito de su equipo.
 
 ## Responsabilidades y funciones
 
@@ -65,7 +64,8 @@ No suele contar con personal a su cargo. Lidera un equipo de desarrolladores que
 20. Investigar continuamente tecnologías emergentes y mantenerse al día con las tendencias de la industria y del desarrollo.
 21. Mentorear a los miembros del equipo, principalmente a los miembros de menor seniority o más débiles técnicamente.
 22. Buscar un equilibrio de esfuerzo técnico y nivel técnico entre miembros del equipo para lograr una productividad saludable del equipo. 
-23. Debe crear 'Conocimiento Colectivo' y fomentar la 'propiedad colectiva del código' procurando que el conocimiento se comparta, fluya en todo el equipo y se logre buen trabajo colectivo.
+23. Monitorear, en función de mejorar el delivery, un conjunto de métricas técnicas del equipo y de calidad de software, como por ejemplo: Pull Request Lead Time, Throughput, Time from First Commit to Merge, Deploy Frequency, Number of Technical Debts, Bug in Production, testing coverage, etc.
+24. Debe crear 'Conocimiento Colectivo' y fomentar la 'propiedad colectiva del código' procurando que el conocimiento se comparta, fluya en todo el equipo y se logre buen trabajo colectivo.
 
 ## Tecnologías
 
