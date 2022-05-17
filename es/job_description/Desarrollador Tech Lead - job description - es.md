@@ -33,7 +33,7 @@ No suele contar con personal a su cargo. Lidera un equipo de desarrolladores.
 9. Capacidad de instalar y configurar ambientes completos de desarrollo y herramientas IDE.  
 10. Capacidad de liderazgo, coaching y mentoreo de desarrolladores. 
 11. Capacidades didácticas de explicación y formación en aspectos técnico para miembros del equipo y stakeholders. 
-12. Habilidades de comunicación para comunicarse con stakeholders de la organización de forma acertiva. 
+12. Habilidades de comunicación para comunicarse con stakeholders de la organización de forma asertiva. 
 
 ## Responsabilidades y funciones
 
