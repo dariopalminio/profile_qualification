@@ -29,11 +29,13 @@ No suele contar con personal a su cargo. Lidera un equipo de desarrolladores.
 5. Debe manejar bases de datos, que incluye el diseño y estructura de bases de datos relacionales (SQL) y no relacionales (NoSQL). 
 6. Saber sobre patrones de diseño de software (Singleton, Facade, Adapter, Strategy, Observer, etc.). 
 7. Saber sobre arquitecturas del tipo de sistema o soluciones del equipo que lidera (Cliente-Servidor, Microservicios, etc.). 
-8. Capacidad de traducir necesidades del negocio a soluciones TI. 
+8. Capacidad de analizar y traducir necesidades del negocio a soluciones de TI y de concretar, con su equipo, requerimientos de negocios. 
 9. Capacidad de instalar y configurar ambientes completos de desarrollo y herramientas IDE.  
 10. Capacidad de liderazgo, coaching y mentoreo de desarrolladores. 
 11. Capacidades didácticas de explicación y formación en aspectos técnico para miembros del equipo y stakeholders. 
 12. Habilidades de comunicación para comunicarse con stakeholders de la organización de forma asertiva. 
+13. Capaz de organizar el trabajo técnico del equipo.
+14. Capaz de realizar estimaciones y de liderar sesiones de estimaciones de un equipo sobre entregables, componentes y features de productos de software.
 
 ## Responsabilidades y funciones
 
@@ -47,16 +49,18 @@ No suele contar con personal a su cargo. Lidera un equipo de desarrolladores.
 8.	Impulsar la mejora continua en el ámbito técnico en busca de la excelencia técnica.
 9.	Velar por el cumplimiento de las buenas prácticas de desarrollo de software y la ingeniería.
 10.	Supervisar/inspeccionar al equipo de desarrollo y garantizar que el software cumple con todos los requerimientos no funcionales.
-11.	Asegurar que las estrategias definidas en la ejecución de proyectos se apliquen de forma correcta.
-12.	Mantener control de avance, riesgos y entregas de las actividades de desarrollo de equipos internos como externos.
+11.	Asegurar que las estrategias definidas en la ejecución de proyectos/productos o por la organización se apliquen de forma correcta.
+12.	Mantener control de avance, dependencias técnicas, riesgos y entregas de las actividades de desarrollo del equipo, equipos internos como externos.
 13.	Liderar y apoyar en la evaluación de librerías, frameworks, plataformas, servicios, web servers, base de datos, patrones de diseño, etc.
 14.	Revisar y validar la documentación técnica generada por los desarrolladores.
-15.	Hacer revisión de código y feedback en prácticas de pairing, peer-review y mood-programing.
+15.	Auditar y hacer revisión de código y feedback en actividades de 'code quality checks', pairing, peer-review y mood-programing.
 16.	Ser embajador del equipo y la contraparte técnica del equipo con el resto de las áreas técnicas de la organización, como son: Arquitectura, Producción, Monitoreo, Ciberseguridad, etc.
-17.	Brindar reconocimiento a sus compañeros y su equipos según resultados y rendimiento.
-18.	Velar por la disminución de la deuda técnica y lograr desarrollar software de calidad.
+17.	Promover el cumplimiento de metas del equipo y brindar reconocimiento a sus compañeros y su equipos según resultados y rendimiento.
+18.	Velar por la disminución de la deuda técnica y lograr desarrollar software de calidad del equipo.
 19. En el trabajo orientado a equipo, aunque trabajará la mayor parte del tiempo en su campo de experticia, debe desenvolverse en otros temas, tareas y actividades en función de colaborar con el equipo, apoyar en diferentes tipos de actividades para sumar capacidad, cumplir con las entregas del equipo, evitar los cuellos de botella y colaborar en solucionar problemas del equipo. 
 20. Investigar continuamente tecnologías emergentes y mantenerse al día con las tendencias de la industria y del desarrollo.
+21. Mentorear a los miembros del equipo, principalmente a los miembros de menor seniority o más débiles técnicamente.
+22. Buscar un equilibrio de esfuerzo técnico, conocimiento técnico y nivel técnico entre miembros del equipo para lograr una productividad saludable del equipo.
 
 ## Tecnologías
 
@@ -70,14 +74,14 @@ La tecnología dependerá de los requisitos del puesto y del stack tecnológico 
 - Frontend Frameworks & libraries: Preprocessing CSS functions (SASS, TailwindCSS, PostCSS, etc.), JavaScript framework (React, Vue, Angular, etc.), State management (Atom, Recoil, Redux, Jotai, etc.).
 - Backend Frameworks & libraries: Node.js, Express, Next.js, NestJS, GraphQL, doc (Swagger), etc.
 - Version Control System: github, gitlab, bitbucket, git, SVN, CVS, etc.
-- CI/CD: Github Actions.
+- CI/CD: Github Actions, Gitlab CI.
 - SQL Data Base: Oracle, MariaDB, MySQL, PostgreSQL, etc.
 - NoSQL Data Base: MongoDB, Redis, Cassandra, HBase, etc.
 - Testing: Unit Test (Jest), E2E (Cypress), testing for React (React Testing Library, React Dev Tool), SonarQube, etc.
 - Build, pack & automation tool: NPM, YARN, etc.
 - Segurity, authentication & authorization: Auth (KeyCloak), API gateway (Kong), etc.
 - Event & Message Brokers: Kafka, RabbitMQ, etc. 
-- Cloud Computing & Operation: AWS (Amazon S3), GCP, etc.
+- Cloud Computing & Operation: AWS (Amazon S3), GCP, Azure, etc.
 - Containerization & Virtualization: Docker.
 - Orchestration: Kubernetes.
 - Logging, tracing & monitoring: Datadog, Grafana, etc.
