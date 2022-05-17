@@ -29,7 +29,7 @@ No suele contar con personal a su cargo. Lidera un equipo de desarrolladores.
 5. Debe manejar bases de datos, que incluye el diseño y estructura de bases de datos relacionales (SQL) y no relacionales (NoSQL). 
 6. Saber sobre patrones de diseño de software (Singleton, Facade, Adapter, Strategy, Observer, etc.). 
 7. Saber sobre arquitecturas del tipo de sistema o soluciones del equipo que lidera (Cliente-Servidor, Microservicios, etc.). 
-8. Capacidad de analizar y traducir necesidades del negocio a soluciones de TI y de concretar, con su equipo, requerimientos de negocios. 
+8. Capacidad de analizar y traducir necesidades del negocio a soluciones de TI y de concretar, con su equipo, requerimientos de negocios. Ser nexo entre el negocio y las cuestiones técnicas, entre los tomadores de decisiones y los desarrolladores.
 9. Capacidad de instalar y configurar ambientes completos de desarrollo y herramientas IDE.  
 10. Capacidad de liderazgo, coaching y mentoreo de desarrolladores. 
 11. Capacidades didácticas de explicación y formación en aspectos técnico para miembros del equipo y stakeholders. 
@@ -51,7 +51,7 @@ No suele contar con personal a su cargo. Lidera un equipo de desarrolladores.
 9.	Velar por el cumplimiento de las buenas prácticas de desarrollo de software y la ingeniería.
 10.	Supervisar/inspeccionar al equipo de desarrollo y garantizar que el software cumple con todos los requerimientos no funcionales.
 11.	Asegurar que las estrategias definidas en la ejecución de proyectos/productos o por la organización se apliquen de forma correcta.
-12.	Mantener control de avance, dependencias técnicas, riesgos y entregas de las actividades de desarrollo del equipo, equipos internos como externos.
+12.	Mantener control de avance, dependencias técnicas, riesgos y entregas de las actividades de desarrollo del equipo, equipos internos y externos.
 13.	Liderar y apoyar en la evaluación de librerías, frameworks, plataformas, servicios, web servers, base de datos, patrones de diseño, etc.
 14.	Revisar y validar la documentación técnica generada por los desarrolladores.
 15.	Auditar y hacer revisión de código y feedback en actividades de 'code quality checks', pairing, peer-review y mood-programing.
