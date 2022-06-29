@@ -63,15 +63,15 @@ No tiene personal a cargo.
 
 - Programming Language: Python, Ruby, Go, etc.
 - Operating System: Unix, Linux,  Windows, Mac OS, etc.
+- Logs Management: Elastic Stark, Splunk, Papertrail, Graylog, etc.
+- CI/CD: Jenkins, GitHub Action (Workflows, CLI), etc.
+- Version Control System: Github, SVN, etc.
 - Cloud Computing Provider: Google Cloud Platform (GCP), AWS, Asure, etc.
-- IaC Provisioning: Terraform, CloudFormation, etc.
 - Containerization & Virtualization: Docker, etc.
 - Orchestration: Kubernetes, etc.
 - Infraestructure Monitoring: Datadog, Grafana, Prometheus, Nagios, Monit, Zabbix etc.
-- Logs Management: Elastic Stark, Splunk, Papertrail, Graylog, etc.
-- CI/CD: Github (Workflows, CLI) 
-- Version Control System: Github, SVN, etc.
 - Security: Apache Knox, Apache Ranger, etc.
 - Data Base SQL: Oracle, MySQL, etc.
 - Data Base NoSQL: Redis, MongoDB, etc.
 - Automation tools & Configuration Management: Ansible, Control M, Chef, Puppet, etc.
+- IaC Provisioning: Terraform, CloudFormation, Chef Automate, Quali Torque Infrastructure Automation & DevOps Platform, HashiCorp Terraform Enterprise, Pulumi Enterprise Edition, Puppet Enterprise, etc.
