@@ -6,7 +6,7 @@ Solution Architect (EN), Arquitecto de Software, Arquitecto de Soluciones Softwa
 
 ## Descripción
 
-Responsable de crear una arquitectura comprensiva para una solución de software y proveer una dirección estratégica a través del proceso de desarrollo. Practica  el diseño, descripción y gestión de la ingeniería de solución para resolver cualquier problema específico de la organización que incluya tecnología de la información. Suma los conocimientos y experiencia en desarrollo y programación, pero que por su amplia experiencia es capaz de ver el problema con perspectiva y ofrecer soluciones que incluyan la tecnología adecuada para los procesos garantizando ingeniería de software, atributos de calidad y resultados más productivos y efectivos
+Responsable de crear una arquitectura comprensiva para una solución de software y proveer una dirección estratégica a través del proceso de desarrollo. Practica  el diseño, descripción y gestión de la ingeniería de solución para resolver cualquier problema específico de la organización que incluya tecnología de la información. Suma los conocimientos y experiencia en desarrollo y programación, pero que por su amplia experiencia es capaz de ver el problema con perspectiva y ofrecer soluciones que incluyan la tecnología adecuada para los procesos garantizando ingeniería de software, atributos de calidad y resultados más productivos y efectivos de las soluciones software.
 
 ## Formación principal y académica
 
@@ -56,6 +56,6 @@ Lecto-comprensión y elementos de redacción en inglés.
 15. En el trabajo orientado a equipo, aunque trabajará la mayor parte del tiempo en su campo de experticia, debe desenvolverse en otros temas, tareas y actividades en función de colaborar con el equipo, apoyar en diferentes tipos de actividades para sumar capacidad, cumplir con las entregas del equipo, evitar los cuellos de botella y colaborar en solucionar problemas del equipo. 
 
 ## Tecnologías
-- Diagramming: Enterprise Architect, Draw.io (diagrams.net), VisualParadigm, Lucidchart, Visio.
+- Diagramming: Enterprise Architect, Draw.io (diagrams.net), VisualParadigm, Lucidchart, Visio, Dia, ArgoUML,  Eclipse Modeling Tools/Eclipse UML2 Tools, PlantUML, Open ModelSphere, Modelio, JetUML, Gaphor, Umbrello UML Modeller, UML Designer, UMLet, Umple, WhiteStarUML, IBM Rational UML Modeling, etc.
+- Debe manejar algún stack requerido: Stack MERN | MEAN | MEVN | J2EE | Java SpringBoot | .NET | LAPP | LAMP | LEMP | XAMPP | WAMP | AMPPS | Python-Django | iOS Mobile | Android Mobile | ReactJS Cross-Platform Mobile | Laravel & React | Laravel & VueJS | Wordpress | Drupal | AWS DevOps | Open DevOps | Azure DevOps | ELK Stack | etc.
  - Según stack tecnológico requerido debe manejar distintas tecnologías en los siguientes ámbitos de aplicación: Programming Language, Operatives System, Runtime environment, Version Code, Testing, Logging-tracing & monitoring, CI/CD (Build, pack & automation tool), Web-Service & Web-Application Framework, Web Server, Data Base engine, Data Base access & ORM, Event framework, Containerization/Virtualization, Container Orchestration, Operation & Cloud Computing, Segurity, Cache, Parallel Programming (Thread).
-- Debe manejar algún stack: Stack MERN | MEAN | MEVN | J2EE | Java SpringBoot | .NET | LAPP | LAMP | LEMP | XAMPP | WAMP | AMPPS | Python-Django | iOS Mobile | Android Mobile | ReactJS Cross-Platform Mobile | Laravel & React | Laravel & VueJS | Wordpress | Drupal | AWS DevOps | Open DevOps | Azure DevOps | ELK Stack | etc.
