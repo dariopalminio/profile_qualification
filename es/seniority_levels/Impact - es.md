@@ -1,12 +1,13 @@
 # IMPACT
+El seniority en función de las contribuciones o impacto puede medirse mediante varios indicadores cualitativos y cuantitativos. Algunas formas de medir el seniority basado en contribuciones incluyen impacto en los resultados, alcance del impacto en la organización, reconocimiento de logros y premios y feedback del Equipo y Superiores. Aquí hay algunas formas de medir el seniority en función de las contribuciones al equipo, proyecto, producto u organización, para cada nivel de seniority.
 
 ## Trainee
 
-Tiene un bajo impacto en su equipo.
+Tiene un bajo impacto en su equipo, proyecto o producto. Reliza tareas de apoyo al equipo. Las tareas que realiza no son tareas críticas.
 
 ## Junior
 
-Tiene un bajo impacto en su equipo.
+Tiene un bajo impacto en su equipo, proyecto o producto. Contribuye al trabajo del equipo bajo supervisión. Las tareas que realiza no son tareas críticas.
 
 ## Semi senior
 
