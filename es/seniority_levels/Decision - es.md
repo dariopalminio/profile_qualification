@@ -1,4 +1,5 @@
-# DECISION
+# Decisor (DECISION)
+A medida que una persona gana seniority, también desarrolla una serie de habilidades y atributos que son fundamentales para tomar decisiones efectivas. 
 
 ## Trainee
 
