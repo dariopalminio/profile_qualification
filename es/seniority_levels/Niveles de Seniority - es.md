@@ -1,11 +1,15 @@
+Cuando se habla de niveles de seniority, se habla de un conjunto de características o competencias evaluadas en un nivel que indican el nivel en una evolución profesional. Principalmente, estos niveles se basan en el grado de experiencia y conocimiento que tiene un profesional. 
 
+Los niveles de seniority más usados son Trainee, Junior, Semi Senior y Senior. Estos conforman los principales 4 niveles que se espera que atraviese un profesional a lo largo de su carrera laboral. Para una evolución más a largo plazo o más segmentada se pueden usar los niveles extendidos de: Senior Advanced, Principal y Distinguished.
+
+Una matriz ejemplo es la siguiente:
 
 | Competencia | Trainee | Junior | Semi senior | Senior | Senior Advanced | Principal | Distinguished |
 | :---         | :---         | :---         | :---         | :---         | :---         | :---         | :---         |
 | Experience Time   |      |     |     |     |      |     |     |
 | Autonomy     |      |     |     |     |      |     |     |
-| Desicion     |      |     |     |     |      |     |     |
-| Context View     |      |     |     |     |      |     |     |
+| Desicion     |   Rational   |   Rational  |   Rational  |  Rational   |  Intuitive    |   Intuitive  | Intuitive    |
+| Context View     |   Analytically   |  Analytically   |  Analytically   |  Holistically   |   Holistically   |  Holistically   |   Holistically  |
 | Character     |      |     |     |     |      |     |     |
 | Complexity     |      |     |     |     |      |     |     |
 | Knowledge     |      |     |     |     |      |     |     |
