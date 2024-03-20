@@ -4,15 +4,15 @@ Los niveles de seniority más usados son Trainee, Junior, Semi Senior y Senior. 
 
 Una matriz ejemplo es la siguiente:
 
-| Competencia | Trainee (Novice) | Junior (Advanced  beginner) | Semi senior (Competent) | Senior (Proficient) | Senior Advanced (Expert) | Principal (Master) | Distinguished |
+| Competencias | Trainee (Novice) | Junior (Advanced  beginner) | Semi senior (Competent) | Senior (Proficient) | Senior Advanced (Expert) | Principal (Master) | Distinguished |
 | :---         | :---         | :---         | :---         | :---         | :---         | :---         | :---         |
-| Experience Time   |   0 a 1 Año   |  1 a 2 años   |  2 a 6 años   |  6+ años   |   8+ años   |  10+ años   |  10+ años   |
-| Autonomy     |  Dirigido y supervisado    |  Supervisado   |  Libertad limitada  |  Responsabilidad del trabajo propio   |   Alto grado de autonomía y puede ir más allá del estándar   |   Plena autonomía en su experticia  |     |
-| Desicion     |   Rational   |   Rational  |   Rational  |  Rational   |  Intuitive    |   Intuitive  | Intuitive    |
-| Context View     |   Analítico   |  Analítico   |  Analítico   |  Holístico   |   Holístico y estratégico   |  Holístico y estratégico   |   Holístico y estratégico  |
-| Character     |   Aprendizaje, seguimiento  |  Iniciativa, aprendizaje activo   |  Proactividad, resolución de problemas  |  proactivo, innovación   |      |     |     |
-| Complexity     |   Tareas muy simples   |   Tareas básicas  |  Tareas complejas   |  Soluciona problemas complejos y de manera integral  |  Maneja sistemas complejos con una comprensión holística y sistémica  |     |     |
-| Knowledge     |   Estudiante sin práctica   |   Conocimientos prácticos en aspectos claves  |  Tiene una comprensión básica de las buenas prácticas  |  Profundidad de comprensión de la disciplina, el área de práctica y buenas prácticas   |   Conocimiento experto de la disciplina y comprensión tácita profunda en todas las áreas de práctica.   |     |     |
+| Experiencia en tiempo  |   0 a 1 Año   |  1 a 2 años   |  2 a 6 años   |  6+ años   |   8+ años   |  10+ años   |  10+ años   |
+| Autonomía     |  Dirigido y supervisado    |  Supervisado   |  Libertad limitada  |  Responsabilidad del trabajo propio   |   Alto grado de autonomía y puede ir más allá del estándar   |   Plena autonomía en su experticia  |     |
+| Decisor     |   Rational   |   Rational  |   Rational  |  Rational   |  Intuitive    |   Intuitive  | Intuitive    |
+| Visión de Contexto     |   Analítico   |  Analítico   |  Analítico   |  Holístico   |   Holístico y estratégico   |  Holístico y estratégico   |   Holístico y estratégico  |
+| Carácter     |   Aprendizaje, seguimiento  |  Iniciativa, aprendizaje activo   |  Proactividad, resolución de problemas  |  proactivo, innovación   |      |     |     |
+| Complejidad     |   Tareas muy simples   |   Tareas básicas  |  Tareas complejas   |  Soluciona problemas complejos y de manera integral  |  Maneja sistemas complejos con una comprensión holística y sistémica  |     |     |
+| Conocimiento     |   Estudiante sin práctica   |   Conocimientos prácticos en aspectos claves  |  Tiene una comprensión básica de las buenas prácticas  |  Profundidad de comprensión de la disciplina, el área de práctica y buenas prácticas   |   Conocimiento experto de la disciplina y comprensión tácita profunda en todas las áreas de práctica.   |     |     |
 | Work Quality     |   Por debajo del estandar   |  Estándar aceptable   |  Apto para el propósito, puede carecer de refinamiento   |  Estándar totalmente aceptable alcanzado de forma rutinaria   |   Excelencia alcanzada con relativa facilidad   |    |     |
-| Leadership     |    Aprender, seguir instrucciones   |  Responsabilidad limitada y colaboración   | Liderazgo y autonomía parcial en un grupo  |   Liderazgo y responsabilidad total de un equipo en un área |   Puede liderar uno o más equipos   |     |     |
-| Impact     |  Aprendizaje, contribución mínima | Contribución básica, pequeño impacto | Impacto moderado, contribución significativa | Gran impacto en proyectos, equipo o producto | Impacto más allá de un equipo o producto (organizacional) |     |     |
+| Liderazgo     |    Aprender, seguir instrucciones   |  Responsabilidad limitada y colaboración   | Liderazgo y autonomía parcial en un grupo  |   Liderazgo y responsabilidad total de un equipo en un área |   Puede liderar uno o más equipos   |     |     |
+| Impacto     |  Aprendizaje, contribución mínima | Contribución básica, pequeño impacto | Impacto moderado, contribución significativa | Gran impacto en proyectos, equipo o producto | Impacto más allá de un equipo o producto | Impacto organizacional |     |
