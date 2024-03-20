@@ -1,4 +1,4 @@
-# LEADERSHIP
+# Liderazgo (LEADERSHIP)
 El liderazgo y el seniority a menudo están relacionados porque el seniority generalmente implica un mayor nivel de experiencia, habilidades y conocimientos en un campo específico que habitualmente va acompañado de mejoras en habilidades blandas como la comunicación y la inteligencia social. Aunque existen casos en los que pueden no depender directamente uno del otro, especialmente cuando se consideran factores como las habilidades individuales, preferencias personales, los roles específicos y la diversidad de habilidades en un equipo.
 
 A continuación una guía de la relación entre seniority y liderazgo.
