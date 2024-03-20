@@ -22,7 +22,7 @@ de 3 a 5 años.
 
 ## Principal
 
-9+ años.
+8+ años.
 
 ## Distinguished
 
