@@ -3,19 +3,19 @@ A medida que una persona gana seniority, también desarrolla una serie de habili
 
 ## Trainee
 
-Utiliza un proceso analítico para resolver el problema usando recursos predeterminados y aplica una habilidad/teoría/principio predeterminado al problema.
+Utiliza un proceso analítico y racional para resolver el problema usando recursos predeterminados y aplica una habilidad/teoría/principio predeterminado al problema.
 
 ## Junior
 
-Usa un proceso analítico para resolver el problema y decide qué habilidad/teoría/principio usar para resolver el problema.
+Usa un proceso analítico y racional para resolver el problema y decide qué habilidad/teoría/principio usar para resolver el problema.
 
 ## Semi senior
 
-Utiliza un proceso analítico para resolver el problema. Piensa en los factores externos que podrían afectar el resultado y decide cómo abordarlos.
+Utiliza un proceso analítico y racional para resolver el problema. Piensa en los factores externos que podrían afectar el resultado y decide cómo abordarlos.
 
 ## Senior
 
-Utiliza un proceso analítico para resolver el problema. Piensa en cómo optimizar la solución en el panorama general.
+Utiliza un proceso analítico y algo intuitivo para resolver el problema. Piensa en cómo optimizar la solución en el panorama general.
 
 ## Senior Advanced
 
