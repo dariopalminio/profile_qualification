@@ -13,6 +13,6 @@ Una matriz ejemplo es la siguiente:
 | Character     |      |     |     |     |      |     |     |
 | Complexity     |      |     |     |     |      |     |     |
 | Knowledge     |      |     |     |     |      |     |     |
-| Work Quality     |      |     |     |     |      |     |     |
+| Work Quality     |   Por debajo del estandar   |  Estándar aceptable   |  Apto para el propósito, puede carecer de refinamiento   |  Estándar totalmente aceptable alcanzado de forma rutinaria   |   Excelencia alcanzada con relativa facilidad   |     |     |
 | Leadership     |      |     |     |     |      |     |     |
 | Impact     |      |     |     |     |      |     |     |
