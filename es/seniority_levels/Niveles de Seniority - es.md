@@ -11,8 +11,8 @@ Una matriz ejemplo es la siguiente:
 | Desicion     |   Rational   |   Rational  |   Rational  |  Rational   |  Intuitive    |   Intuitive  | Intuitive    |
 | Context View     |   Analytically   |  Analytically   |  Analytically   |  Holistically   |   Holistically   |  Holistically   |   Holistically  |
 | Character     |      |     |     |     |      |     |     |
-| Complexity     |      |     |     |     |      |     |     |
-| Knowledge     |   Estudiante sin práctica   |   Conocimientos prácticos en aspectos claves  |  Tiene una comprensión básica de las mejores prácticas  |  Profundidad de comprensión de la disciplina y el área de práctica   |   Conocimiento experto de la disciplina y comprensión tácita profunda en todas las áreas de práctica.   |     |     |
+| Complexity     |   Tareas muy simples   |   Tareas básicas  |  Tareas complejas   |  Soluciona problemas complejos y de manera integral  |  Maneja sistemas complejos con una comprensión holística y sistémica  |     |     |
+| Knowledge     |   Estudiante sin práctica   |   Conocimientos prácticos en aspectos claves  |  Tiene una comprensión básica de las buenas prácticas  |  Profundidad de comprensión de la disciplina, el área de práctica y buenas prácticas   |   Conocimiento experto de la disciplina y comprensión tácita profunda en todas las áreas de práctica.   |     |     |
 | Work Quality     |   Por debajo del estandar   |  Estándar aceptable   |  Apto para el propósito, puede carecer de refinamiento   |  Estándar totalmente aceptable alcanzado de forma rutinaria   |   Excelencia alcanzada con relativa facilidad   |    |     |
 | Leadership     |      |     |     |     |      |     |     |
 | Impact     |      |     |     |     |      |     |     |
