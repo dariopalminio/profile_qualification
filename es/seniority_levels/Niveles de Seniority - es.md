@@ -8,7 +8,7 @@ Una matriz ejemplo es la siguiente:
 | :---         | :---         | :---         | :---         | :---         | :---         | :---         | :---         |
 | Experiencia en tiempo  |   0 a 1 Año   |  1 a 2 años   |  2 a 6 años   |  6+ años   |   8+ años   |  10+ años   |  10+ años   |
 | Autonomía     |  Dirigido y supervisado    |  Supervisado   |  Libertad limitada  |  Responsabilidad del trabajo propio   |   Alto grado de autonomía y puede ir más allá del estándar   |   Plena autonomía en su experticia  |     |
-| Decisor     |   Rational   |   Rational  |   Rational  |  Rational   |  Intuitive    |   Intuitive  | Intuitive    |
+| Decisor     |   Racional   |   Racional  |   Racional  |  Racional   |  Intuitivo    |   Intuitivo  | Intuitivo    |
 | Visión de Contexto     |   Analítico   |  Analítico   |  Analítico   |  Holístico   |   Holístico y estratégico   |  Holístico y estratégico   |   Holístico y estratégico  |
 | Carácter     |   Aprendizaje, seguimiento  |  Iniciativa, aprendizaje activo   |  Proactividad, resolución de problemas  |  proactivo, innovación   |      |     |     |
 | Complejidad     |   Tareas muy simples   |   Tareas básicas  |  Tareas complejas   |  Soluciona problemas complejos y de manera integral  |  Maneja sistemas complejos con una comprensión holística y sistémica  |     |     |
