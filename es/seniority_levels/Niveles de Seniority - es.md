@@ -10,7 +10,7 @@ Una matriz ejemplo es la siguiente:
 | Autonomía     |  Dirigido y supervisado    |  Supervisado   |  Libertad limitada  |  Responsabilidad del trabajo propio   |   Alto grado de autonomía y puede ir más allá del estándar   |   Plena autonomía en su experticia  |     |
 | Decisor     |   Racional   |   Racional  |   Racional  |  Racional   |  Intuitivo    |   Intuitivo  | Intuitivo    |
 | Visión de Contexto     |   Analítico   |  Analítico   |  Analítico   |  Holístico   |   Holístico y estratégico   |  Holístico y estratégico   |   Holístico y estratégico  |
-| Carácter     |   Aprendizaje, seguimiento  |  Iniciativa, aprendizaje activo   |  Proactividad, resolución de problemas  |  proactivo, innovación   |      |     |     |
+| Carácter     |   Aprendizaje, seguimiento  |  Iniciativa, aprendizaje activo   |  Proactividad, resolución de problemas  |  proactivo, creativo   | innovación |     |     |
 | Complejidad     |   Tareas muy simples   |   Tareas básicas  |  Tareas complejas   |  Soluciona problemas complejos y de manera integral  |  Maneja sistemas complejos con una comprensión holística y sistémica  |     |     |
 | Conocimiento     |   Estudiante sin práctica   |   Conocimientos prácticos en aspectos claves  |  Tiene una comprensión básica de las buenas prácticas  |  Profundidad de comprensión de la disciplina, el área de práctica y buenas prácticas   |   Conocimiento experto de la disciplina y comprensión tácita profunda en todas las áreas de práctica.   |     |     |
 | Calidad de Trabajo     |   Por debajo del estandar   |  Estándar aceptable   |  Apto para el propósito, puede carecer de refinamiento   |  Estándar totalmente aceptable alcanzado de forma rutinaria   |   Excelencia alcanzada con relativa facilidad   |    |     |
