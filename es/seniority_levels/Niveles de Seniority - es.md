@@ -4,7 +4,7 @@ Los niveles de seniority más usados son Trainee, Junior, Semi Senior y Senior. 
 
 Una matriz ejemplo es la siguiente:
 
-| Competencia | Trainee | Junior | Semi senior | Senior | Senior Advanced | Principal | Distinguished |
+| Competencia | Trainee (Novice) | Junior (Advanced  beginner) | Semi senior (Competent) | Senior (Proficient) | Senior Advanced (Expert) | Principal | Distinguished |
 | :---         | :---         | :---         | :---         | :---         | :---         | :---         | :---         |
 | Experience Time   |      |     |     |     |      |     |     |
 | Autonomy     |      |     |     |     |      |     |     |
