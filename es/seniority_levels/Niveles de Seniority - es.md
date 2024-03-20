@@ -1,7 +1,7 @@
 
 
-| Competencia | Nivel 1 | Nivel 2 |
-| :---         |     :---:      |          ---: |
-| Experience Time   | git status     | git status    |
-| Autonomy     | git diff       | git diff      |
+| Competencia | Trainee | Junior | Semi senior | Senior | Senior Advanced | Principal | Distinguished |
+| :---         | :---         | :---         | :---         | :---         | :---         | :---         | :---         |
+| Experience Time   |      |     |     |     |      |     |     |
+| Autonomy     |      |     |     |     |      |     |     |
 
