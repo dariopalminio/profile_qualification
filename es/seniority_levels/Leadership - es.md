@@ -2,22 +2,23 @@
 
 ## Trainee
 
-No lidera.
+No lidera. Trabaja bajo supervisión, mentoreo y/o coaching constante en función de su aprendizaje.
 
 ## Junior
 
-No lidera.
+No lidera. Participación en la resolución de problemas de equipo bajo supervisión.
 
 ## Semi senior
 
+Proporcionar orientación y apoyo a miembros del equipo junior.
 Puede liderar en algún tema a un grupo pequeño de Juniors (uno o dos) o pares.
+Capacidad para liderar tareas o pequeños proyectos con supervisión limitada de alguien Senior.
 
 ## Senior
 
-Capacidad para asesorar a otros ingenieros, proporcionar orientación técnica, revisiones de códigos, diseñar y entregar proyectos pequeños de principio a fin. En este sentido, puede nunca llegar a ser líder, pero sí puede ser 'Senior' por su experiencia técnica y capacidad de ayudar a los demás. Es decir que puede ser un buen referente técnico, referente experto en alguna materia (Subject-matter expert) o liderar con su ejemplo técnico, sin necesidad de desenvolverse como un líder de equipo. Este nivel generalmente se considera un “nivel de carrera”, ya que puede pasar el resto de su carrera operando en este nivel.
-
-En el caso de tener aptitudes de liderazgo, puede liderar, con medina experiencia, un pequeño equipo en un entorno seguro. Puede hacer sus primeras experiencias de liderazgo con complejidad media. 
-
+En el caso de tener aptitudes de liderazgo, puede liderar, con medina experiencia, un pequeño equipo en un entorno seguro. Puede hacer sus primeras experiencias de liderazgo con complejidad media. Liderazgo efectivo del equipo, incluida la mentoría de otros miembros del equipo, la resolución de conflictos y la influencia en la toma de decisiones.
+Capacidad para asesorar a otros ingenieros, proporcionar orientación técnica, revisiones de pares (revisión de códigos), diseñar y entregar proyectos pequeños de principio a fin. 
+En este sentido, puede nunca llegar a ser líder, pero sí puede ser 'Senior' por su experiencia técnica y capacidad de ayudar a los demás. Es decir que puede ser un buen referente técnico, referente experto en alguna materia (Subject-matter expert) o liderar con su ejemplo técnico, sin necesidad de desenvolverse como un líder de equipo. Este nivel generalmente se considera un “nivel de carrera”, ya que puede pasar el resto de su carrera operando en este nivel.
 
 
 ## Senior Advanced
