@@ -6,7 +6,7 @@ Una matriz ejemplo es la siguiente:
 
 | Competencias | Trainee (Novice) | Junior (Advanced  beginner) | Semi senior (Competent) | Senior (Proficient) | Senior Advanced (Expert) | Principal (Master) | Distinguished |
 | :---         | :---         | :---         | :---         | :---         | :---         | :---         | :---         |
-| Experiencia en tiempo  |   0 a 1 Año   |  1 a 2 años   |  2 a 6 años   |  6+ años   |   8+ años   |  10+ años   |  10+ años   |
+| Experiencia en tiempo  |   0 - 1 año   |  1 a 2 años   |  2 a 5 años   |  5+ años   |   7+ años   |  10+ años   |  10+ años   |
 | Autonomía     |  Dirigido y supervisado    |  Supervisado   |  Libertad limitada  |  Responsabilidad del trabajo propio   |   Alto grado de autonomía y puede ir más allá del estándar   |   Plena autonomía en su experticia  |     |
 | Decisor     |   Racional   |   Racional  |   Racional  |  Racional   |  Intuitivo    |   Intuitivo  | Intuitivo    |
 | Visión de Contexto     |   Analítico   |  Analítico   |  Analítico   |  Holístico   |   Holístico y estratégico   |  Holístico y estratégico   |   Holístico y estratégico  |
