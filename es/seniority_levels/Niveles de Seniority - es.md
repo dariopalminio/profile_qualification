@@ -4,4 +4,11 @@
 | :---         | :---         | :---         | :---         | :---         | :---         | :---         | :---         |
 | Experience Time   |      |     |     |     |      |     |     |
 | Autonomy     |      |     |     |     |      |     |     |
-
+| Desicion     |      |     |     |     |      |     |     |
+| Context View     |      |     |     |     |      |     |     |
+| Character     |      |     |     |     |      |     |     |
+| Complexity     |      |     |     |     |      |     |     |
+| Knowledge     |      |     |     |     |      |     |     |
+| Work Quality     |      |     |     |     |      |     |     |
+| Leadership     |      |     |     |     |      |     |     |
+| Impact     |      |     |     |     |      |     |     |
