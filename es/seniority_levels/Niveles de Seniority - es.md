@@ -12,7 +12,7 @@ Una matriz ejemplo es la siguiente:
 | Context View     |   Analytically   |  Analytically   |  Analytically   |  Holistically   |   Holistically   |  Holistically   |   Holistically  |
 | Character     |      |     |     |     |      |     |     |
 | Complexity     |      |     |     |     |      |     |     |
-| Knowledge     |      |     |     |     |      |     |     |
-| Work Quality     |   Por debajo del estandar   |  Estándar aceptable   |  Apto para el propósito, puede carecer de refinamiento   |  Estándar totalmente aceptable alcanzado de forma rutinaria   |   Excelencia alcanzada con relativa facilidad   |     |     |
+| Knowledge     |   Estudiante sin práctica   |   Conocimientos prácticos en aspectos claves  |  Tiene una comprensión básica de las mejores prácticas  |  Profundidad de comprensión de la disciplina y el área de práctica   |   Conocimiento experto de la disciplina y comprensión tácita profunda en todas las áreas de práctica.   |     |     |
+| Work Quality     |   Por debajo del estandar   |  Estándar aceptable   |  Apto para el propósito, puede carecer de refinamiento   |  Estándar totalmente aceptable alcanzado de forma rutinaria   |   Excelencia alcanzada con relativa facilidad   |    |     |
 | Leadership     |      |     |     |     |      |     |     |
 | Impact     |      |     |     |     |      |     |     |
