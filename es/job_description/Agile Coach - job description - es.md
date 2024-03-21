@@ -26,7 +26,7 @@ Diplomados o maestrías en Diseño Organizacional.
 
 No cuenta con personal a su cargo. Facilita y lidera metodológicamente a líderes y equipos.
 
-## Conocimientos y competencias
+## Conocimientos y competencias según dimensiones del rol
 
 **Agile-Lean Practitioner**
 - **Agile**: Conocer, practicar y saber explicar el Manifiesto Ágil, prácticas ágiles, mentalidad ágil. Conocer en profundidad algún marcos o metodologías livianas de desarrollo como: Scrum, Kanban, Scrumban y/o XP.
