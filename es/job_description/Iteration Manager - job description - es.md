@@ -61,7 +61,7 @@ Cuenta con personas a cargo en un equipo de desarrollo o lidera un equipo de ent
 11.	Ayudar al crecimiento profesional de los miembros del equipo de desarrollo y al mejoramiento de sus habilidades.
 12.	Ser embajador del equipo en cuanto a temas metodológicos, de procesos y de relaciones humanas.
 13.	Buscar lograr un equipo balanceado, sostenible y de alto rendimiento. Gestión de la carga de trabajo del equipo de desarrollo.
-14.	Realizar seguimiento y control del progreso mediante métricas adecuadas (como velocidad, capacidad del equipo, calidad técnica, Four Key Metrics o DORA Metrics, etc.), asegurando la transparencia en el estatus y desempeño en todo momento, para asegurar el cumplimiento de los objetivos y eficiencia del equipo y el desarrollo.
+14.	Realizar seguimiento y control del progreso mediante métricas adecuadas (como velocidad, capacidad del equipo, calidad técnica, Four Key Metrics o DORA Metrics, etc.), asegurando la transparencia en el estatus y desempeño en todo momento; para asegurar el cumplimiento de los objetivos, eficiencia del equipo y el desarrollo, y encontrar y mostrar puntos de mejora.
 
 **Con el Product Owner:**
 
