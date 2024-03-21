@@ -1,7 +1,7 @@
 ## Product Manager
 Un Product Manager es la persona que identifica las necesidades del cliente y los objetivos comerciales más amplios que cumplirá un producto o característica, articula visión y estrategia para el éxito de un producto y reúne a un equipo para convertir esa visión en realidad.
 
-## Dimensiones del rol
+## Dimensiones y capacidades del rol
 
 **Ejecución de Producto**
 
