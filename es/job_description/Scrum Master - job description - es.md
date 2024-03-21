@@ -14,7 +14,7 @@ En desarrollo de software profesional del área TI, con título en carreras como
 
 ## Formación secundaria
 
-Postgrado, diplomados o certificaciones como: Profesional Scrum Master (PSM I, PSM II, PSM III) de Scrum.org, Certified Scrum Master (SCM, A-CSM o CSP-SM) de Scrum Alliance, Profesional Scrum Fundations (PSF), DASM Disciplined Agile Scrum Master (PMI), DASSM Disciplined Agile Senior Scrum Master (PMI), SAFe® Scrum Master, SAFe® Advanced Scrum Master, Scrum Master Certified ScrumStudy o Scrum Master Professional CertiProf.
+Postgrado, diplomados o certificaciones de Scrum como: Profesional Scrum Master (PSM I, PSM II, PSM III) de Scrum.org, Certified Scrum Master (SCM, A-CSM o CSP-SM) de Scrum Alliance, Profesional Scrum Fundations (PSF), DASM Disciplined Agile Scrum Master (PMI), DASSM Disciplined Agile Senior Scrum Master (PMI), SAFe® Scrum Master, SAFe® Advanced Scrum Master, Scrum Master Certified ScrumStudy o Scrum Master Professional CertiProf.
 
 ## Supervisión o liderazgo
 
