@@ -39,7 +39,7 @@ Se desenvuelve en las siguientes dimensiones o posturas:
 - **Facilitador**: facilita eventos y actividades preparando el escenario y proporcionando límites claros en los que el equipo puede colaborar.
 - **Removedor de impedimentos**: capacidad de resolver problemas que bloquean el progreso del equipo, teniendo en cuenta las capacidades de autoorganización del Equipo de Desarrollo.
 - **Agente de cambio**: Un agente de cambio para habilitar una cultura en la que los equipos Scrum puedan prosperar.
-- **Coach**: capacidad de coaching. entrenar al individuo con un enfoque en la mentalidad y el comportamiento, el equipo en mejora continua y la organización en una verdadera colaboración con el equipo Scrum.
+- **Coach**: capacidad de coaching, de entrenar al individuo con un enfoque en la mentalidad y el comportamiento; realiza coaching al equipo en mejora continua y la organización en una verdadera colaboración con el equipo Scrum.
 - **Mentor**: Capacidad de mentoreo para transfierir conocimiento y experiencia Agile al equipo.
 
 ## Responsabilidades y funciones
