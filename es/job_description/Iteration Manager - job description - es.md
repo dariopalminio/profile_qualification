@@ -47,7 +47,7 @@ Cuenta con personas a cargo en un equipo de desarrollo o lidera un equipo de ent
 
 1.	Ayudar a todos a comprender la teoría, las prácticas, las reglas y los valores del marco de trabajo.
 2.	Oficiar de líder servidor del Equipo. Tiene el protagonismo y responde por el rendimiento del equipo.
-3.	Ayudar a quienes están fuera del equipo de desarrollo a comprender cuáles de sus interacciones útiles y cuáles no con el equipo. El Scrum Master ayuda a todos a cambiar estas interacciones para maximizar el valor creado por el Equipo Scrum.
+3.	Ayudar a quienes están fuera del equipo de desarrollo a comprender cuáles de sus interacciones útiles y cuáles no con el equipo. Ayuda a todos a cambiar estas interacciones para maximizar el valor creado por el equipo.
 4.	Ayudar a todos a cambiar y mejorar las interacciones de las personas para maximizar el valor que entrega el equipo.
 
 **Con el equipo:**
