@@ -2,37 +2,42 @@
 
 ## Otros Nombres
 
-Product Owner (EN), Dueño de Producto
+Product Owner, Dueño de Producto o Service Request Manager (en Kanban)
+
 
 ## Descripción
 
-Product Owner o responsable 'Dueño de Producto' a nivel equipo, persona encargada de transmitir las necesidades del cliente y la visión de negocio al equipo de desarrollo, de maximizar el valor de los resultados del trabajo a realizar y de gestionar la pila de trabajo (Product Backlog) del equipo. En resumen es la persona responsable de maximizar el valor del producto resultante del trabajo del 'Equipo de Desarrollo'.
+Product Owner o responsable 'Dueño de Producto' a nivel equipo, persona encargada de transmitir las necesidades del cliente y la visión de negocio al equipo de desarrollo, de maximizar el valor de los resultados del trabajo a realizar y de gestionar la pila de trabajo (Product Backlog) del equipo. En resumen es la persona responsable de maximizar el valor del producto resultante del trabajo del 'Equipo de Desarrollo'. Está enfocado en producir experiencias e impactos sorprendentes en los usuarios y clientes a la vez que soporta el cambio de la organización hacia la agilidad con un enfoque de producto brindando el soporte necesario para que el equipo de desarrollo pueda optimizar el trabajo que realiza.
+
 
 ## Formación principal y académica
 
-En equipos de desarrollo de software el profesional puede provenir del área TI, con título en carreras como: Ingeniero de Sistemas, Ingeniería Informática, licenciatura en sistemas o computación. También puede provenir de otras profesiones a fines  a producto, comercio o empresa como: Administración de Empresa, Ingeniería Comercial, Ingeniería Industrial, etc.
+Puede provenir de profesiones a fines a producto, comercio o empresa como: Administración de Empresa, Ingeniería Comercial, Ingeniería Industrial, etc.
+En equipos de desarrollo de software el profesional también puede provenir del área de Tecnología de la Información, con título en carreras como: Ingeniero de Sistemas, Ingeniería Informática, Licenciatura en Sistemas o Computación.
 
 ## Formación secundaria
 
-Postgrado, diplomas o certificaciones como: MBA, The Power MBA, Profesional Scrum Product Owner (PSPO I, PSPO II), Certified Scrum Product Owner (CSPO), SAFe Product Owner/Product Manager, Agile Product Ownership (ICP-APO), etc.
+Certificaciones como Product Owner: Profesional Scrum Product Owner (PSPO I, PSPO II, PSPO III) de Scrum.org, Certified Scrum Product Owner (CSPO, A-CSPO, CS-PO) de Scrum Alliance, SAFe Product Owner/Product Manager, Agile Product Ownership (ICP-APO), Course Certified Scrum Product Owner® (CSPO) de PMI, Scrum Product Owner Certified (SPOC™), Scrum Product Owner Professional Certificate - SPOPC de CertiProf, etc.
+Postgrado o diplomas relacionados a la Gestión de Producto: Product Management, Master of Science in Product Management, Master of Science in Product Management, MBA, The Power MBA, Master of Business Administration With Specialization in Tech Product Management, Master of Business Administration With a Concentration in Product Management, Master of Business Administration in Technology Strategy and Product Management.
+Postgrado o diplomados relacionados a Análisis de Negocio: Diplomado en Inteligencia de negocios, Diplomado de Análisis de Negocio bajo los estándares del BABOK, Diplomatura en Análisis de Negocios (Business Analysis), Maestría en Analítica de Negocios (MBD), etcétera.
 
 ## Supervisión o liderazgo
 
-No suele contar con personas a cargo aunque si lidera, en cuanto a producto, a un equipo de entre 7 y 8 miembros.
+No suele contar con personas a cargo (gestiona productos no personas) aunque si lidera, en cuanto a producto, a un equipo de entre 7 y 9 miembros.
 
 ## Conocimientos y competencias
 
 1.	Conocimientos administrativos básicos.
 2.	Experiencia en el rol o conocimientos en las responsabilidades del rol Product Owner (según 'La Guía de Scrum' de Scrum.org).
 3.	Conocimientos del manifiesto ágil (agilemanifesto.org) y sus implicancias en el día a día de trabajo.
-4.	Si se trata de un Product Owner en un equipo de desarrollo de software: conocimientos de informática y la industria TI. 
+4.	Si se trata de un Product Owner en un equipo de desarrollo de software: conocimientos básicos de informática y la industria TI. 
 5.	Capacidad de Liderazgo en temas de negocio y de gestión de interesados de producto (stakeholders).
 6.	Conocimientos de análisis de negocio (Lean Business Canvas, modelado de procesos de negocio, etc.).
 7.	Conocimiento en desarrollo de productos lean-agile (Lean Startup, Product Vision Board, etc.).
-8.	Conocimientos  en métricas de negocio (KPI, ROI, etc.), métricas de producto (KPIs del embudo de compra).
-9.	Conocimiento en técnicas de priorización (MoSCoW, WSJF, etc).
+8.	Conocimientos  en métricas de negocio (KPI, ROI, etc.), métricas de producto (KPIs del embudo de compra, etc.).
+9.	Conocimiento en técnicas de priorización (Valor/Esfuerzo, MoSCoW, WSJF, etc).
 10.	Capacidad de modelado de procesos, negocios y de dominio de problemas.
-11.	Metodologías de desarrollo de sistemas (ágiles, no ágiles) como: Scrum, Kanban, XP, SAFe, etc. 
+11.	Conocimientos básicos de metodologías de desarrollo de sistemas (ágiles, no ágiles) como: Scrum o Kanban (como Service Request Manager). 
 
 ## Responsabilidades y funciones
 
@@ -56,6 +61,14 @@ No suele contar con personas a cargo aunque si lidera, en cuanto a producto, a u
 18.	Debe saber cómo funciona el desarrollo del software. Es decir, comprender el trabajo técnico habilitador: si bien no se espera que los POs impulsen las decisiones tecnológicas, se supone que comprendan el alcance del próximo trabajo del habilitador y colaboren con el arquitecto o líder técnico para ayudar con la toma de decisiones y la secuenciación de las infraestructuras tecnológicas críticas alojar la nueva funcionalidad empresarial.
 19.	Comprometerse con la cultura organizacional y los valores y principios ágiles. Debe ser un agente de cambio que apoye y promueva la cultura ágil y el cambio organizacional hacia el Business Agility.
 
+## Posturas o dimensiones del rol
+Un Product Owner se desenvuelve en las siguientes dimensiones o asume las siguientes posturas:
+**Visionario**: Visionario con la visión del producto, estrategia, metas comerciales, objetivos y negocio.
+**Colaborador**: Apoyar a las personas en el descubrimiento, definir objetivos, aclarar Backlog o analizar las necesidades del cliente. 
+**Decisor**: Como tomador de decisiones debe mantener corto el tiempo de salida al mercado, al mantener corto el tiempo de toma de decisiones.
+**Voz del Cliente**: Es representante del cliente y busca entender lo que necesitan los clientes, cuáles son sus desafíos, qué dolores y ganancias tienen. 
+**Influenciador**: El Influyente utiliza habilidades efectivas de comunicación, negociación e influencia para lograr que las personas se unan a la causa.
+**Experimentador**: Entiende al trabajo como experimentos basado en hipótesis, la necesidad de probar cosas nuevas, explorar e innovar.
 
 ## Tecnologías
 
