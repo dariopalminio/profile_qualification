@@ -73,6 +73,7 @@ Cuenta con personas a cargo en un equipo de desarrollo o lidera un equipo de ent
 20.	Colaborar estrechamente con el Product Owner para garantizar la alineación entre los objetivos del negocio, las necesidades técnicas y el desarrollo del producto.
 
 **Con el Líder Técnico:**
+
 21. Colaborar estrechamente con el Líder Técnico para garantizar la alineación entre los objetivos del negocio, las necesidades técnicas y el desarrollo del producto.
 22. Ayuda al Líder Técnico a evaluar nivel de seniority, competencias (Matriz de competencias, etc.) y nivel de prácticas técnicas (test unitario, CI/CD, versionamiento, etc.) del equipo; para nivelar conocimientos técnicos, entender desafíos técnicos actuales y tener una línea base de mejora técnica.
 23. Facilita con el Líder Técnico definir e iniciar un modelo de madurez técnico (plan de buenas prácticas, roadmap de mejora técnica, radar tecnológico de mejoras, etc) para mejorar la excelencia técnica.
