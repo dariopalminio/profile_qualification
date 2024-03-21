@@ -17,7 +17,7 @@ Un Product Manager es la persona que identifica las necesidades del cliente y lo
 - Crear documentos de estrategia de producto que describan casos comerciales, casos de uso de alto nivel, requisitos técnicos, ingresos y retorno de la inversión.
 - Analizar datos de mercado para desarrollar estrategias de ventas y definir objetivos de producto para comunicaciones de marketing efectivas.
 - Colaborar estrechamente con los equipos de ingeniería, producción, marketing y ventas en el desarrollo, control de calidad y lanzamiento de productos, y equilibrar los recursos para garantizar el éxito de toda la organización.
-- Desarrollar mensajes y posicionamiento de productos que diferencien a [Empresa X] en los principales segmentos del mercado.
+- Desarrollar mensajes y posicionamiento de productos que diferencien a la empresa en los principales segmentos del mercado.
 
 ## Habilidades y calificaciones requeridas
 
