@@ -17,7 +17,7 @@ Profesional del área TI, con título en carreras como: Ingeniero de Sistemas, I
 
 Certificaciones de Scrum Master: Profesional Scrum Master (PSM I, PSM II, PSM III) de Scrum.org, Certified Scrum Master (SCM, A-CSM o CSP-SM) de Scrum Alliance, Profesional Scrum Fundations (PSF), DASM Disciplined Agile Scrum Master (PMI), DASSM Disciplined Agile Senior Scrum Master (PMI), SAFe® Scrum Master, SAFe® Advanced Scrum Master, Scrum Master Certified ScrumStudy o Scrum Master Professional CertiProf.
 
-Certificaciones Kanban: Team Kanban Practitioner (TKP), Certificación Kanban System Design (KMP-1), Certificación Kanban Management Professional (KMPI+KMPII), etc.
+Certificaciones Kanban: Team Kanban Practitioner (TKP), Certificación Kanban System Design (KMP-1), Certificación Kanban Management Professional (KMPI+KMPII), Professional Kanban de Scrum Manager, Certified Kanban Professional de Global Trust Association, Kanban Essential Professional Certificate de CertiProf, etc.
 
 ## Supervisión o liderazgo
 
