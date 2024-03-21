@@ -28,16 +28,19 @@ Cuenta con personas a cargo en un equipo de desarrollo o lidera un equipo de ent
 4.	En un equipo de desarrollo de software debe contar con conocimientos en Programación Extrema (XP). 
 3.	En un equipo de desarrollo de software debe debe tener conocimientos de ingeniería de software, informática y la industria de Tecnología de la Información.
 4.	Habilidades en las ocho posturas de un Scrum Master ('The 8 Stances of a Scrum Master' de Scrum.org): manager, líder servicial, teacher, coach, mentor, facilitador, removedor de impedimentos y agente de cambio.
-5.	**Manager**: Conocimientos administrativos y de gestión básicos. Capacidad de gestionar impedimentos, eliminar desperdicios, gestionar el proceso, gestionar la salud del equipo, gestionar los límites de la autoorganización y gestionar la cultura.
-6.	**Líder Servicial**: Capacidad de liderazgo, de construcción de equipo (Team Building). Es importante que tenga aptitudes de líder porque es necesario que lidere un equipo principalmente como líder servicial.
-7. Habilidades de resolución de conflictos (con y entre colegas) y la capacidad de aprender de los errores.
-8.	**Teacher**: capacidades de docencia (trainer/teacher) para un grupo de personas.
-9. **Coach**: capacidad de coaching. entrenar al individuo con un enfoque en la mentalidad y el comportamiento, el equipo en mejora continua y la organización en una verdadera colaboración con el equipo Scrum.
-10. **Mentor**: Capacidad de mentoreo para transfierir conocimiento y experiencia Agile al equipo.
-11. **Facilitador**: preparando el escenario y proporcionando límites claros en los que el equipo puede colaborar.
-12. **Removedor de impedimentos**: capacidad de resolver problemas que bloquean el progreso del equipo, teniendo en cuenta las capacidades de autoorganización del Equipo de Desarrollo.
-13. **Agente de cambio**: Un agente de cambio para habilitar una cultura en la que los equipos Scrum puedan prosperar.
-14.	Conocimientos de negocio (KPIs) y de desarrollo de productos. Es importante para facilitar el trabajo del Product Owner y asegurarse que el equipo entrega valor.
+5.	Capacidad de liderazgo y habilidades blandas para relacionarse, generar buen clima de trabajo y motivar a las personas.
+6.	Conocimientos de negocio (KPIs) y de desarrollo de productos. Es importante para facilitar el trabajo del Product Owner y asegurarse que el equipo entrega valor.
+
+## Dimensiones o posturas del rol
+Se desenvuelve en las siguientes dimensiones o posturas:
+-	**Manager**: Conocimientos administrativos y de gestión básicos. Capacidad de gestionar impedimentos, eliminar desperdicios, gestionar el proceso, gestionar la salud del equipo, gestionar los límites de la autoorganización y gestionar la cultura.
+-	**Líder Servicial**: Capacidad de liderazgo, de construcción de equipo (Team Building). Es importante que tenga aptitudes de líder porque es necesario que lidere un equipo principalmente como líder servicial. Habilidades de resolución de conflictos (con y entre colegas) y la capacidad de aprender de los errores.
+-	**Teacher**: capacidades de docencia (trainer/teacher) para un grupo de personas. Debe enseñar Scrum.
+- **Facilitador**: facilita eventos y actividades preparando el escenario y proporcionando límites claros en los que el equipo puede colaborar.
+- **Removedor de impedimentos**: capacidad de resolver problemas que bloquean el progreso del equipo, teniendo en cuenta las capacidades de autoorganización del Equipo de Desarrollo.
+- **Agente de cambio**: Un agente de cambio para habilitar una cultura en la que los equipos Scrum puedan prosperar.
+- **Coach**: capacidad de coaching. entrenar al individuo con un enfoque en la mentalidad y el comportamiento, el equipo en mejora continua y la organización en una verdadera colaboración con el equipo Scrum.
+- **Mentor**: Capacidad de mentoreo para transfierir conocimiento y experiencia Agile al equipo.
 
 ## Responsabilidades y funciones
 
