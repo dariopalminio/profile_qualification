@@ -52,13 +52,14 @@ Cuenta con personas a cargo en un equipo de desarrollo o lidera un equipo de ent
 
 **Con el equipo:**
 
-5.	Promover y guiar a que se desarrolle software de calidad y que se apliquen buenas prácticas de ingeniería de software.
-6.	Capacitar a los miembros del equipo en autogestión y multifuncionalidad. Facilitar la comunicación y colaboración entre los miembros del equipo, estimulando la capacidad auto-organizativa de los miembros, para asegurar un flujo de trabajo fluido y eficaz entre todos los involucrados. 
-7.	Ayudar al equipo da centrarse en la creación de incrementos de alto valor que cumplan con la definición de terminado (DOD);
-8.	Debe remover impedimentos u obstáculos que pueden afectar el progreso del equipo. Identificación de impedimentos y riesgos del equipo de desarrollo y toma de decisiones para resolverlos, para minimizar los impactos negativos y garantizar la finalización exitosa de iteraciones o entregables;
-9.	Brinda soporte y orientación al equipo en la adopción de prácticas y procesos ágiles para asegurar una correcta implementación y uso de las prácticas y procesos ágiles. Busca asegurar de que todos los eventos (ceremonias o actividades) del marco de trabajo (daily, planning, refinement, review, retrospective, etc.) se lleven a cabo, sean positivos, productivos y que se respete el tiempo establecido (time-box) para cada uno de ellos. Coordinar y liderar las actividades del equipo de desarrollo durante las iteraciones.
+5.	Fomenta un buen clima de trabajo, confianza y seguridad psicológica en el equipo para potenciar la sinergia y el trabajo en equipo.
+6.	Promover y guiar a que se desarrolle software de calidad y que se apliquen buenas prácticas de ingeniería de software.
+7.	Capacitar a los miembros del equipo en autogestión y multifuncionalidad. Facilitar la comunicación y colaboración entre los miembros del equipo, estimulando la capacidad auto-organizativa de los miembros, para asegurar un flujo de trabajo fluido y eficaz entre todos los involucrados. 
+8.	Ayudar al equipo da centrarse en la creación de incrementos de alto valor que cumplan con la definición de terminado (DOD);
+9.	Debe remover impedimentos u obstáculos que pueden afectar el progreso del equipo. Identificación de impedimentos y riesgos del equipo de desarrollo y toma de decisiones para resolverlos, para minimizar los impactos negativos y garantizar la finalización exitosa de iteraciones o entregables;
+10.	Brinda soporte y orientación al equipo en la adopción de prácticas y procesos ágiles para asegurar una correcta implementación y uso de las prácticas y procesos ágiles. Busca asegurar de que todos los eventos (ceremonias o actividades) del marco de trabajo (daily, planning, refinement, review, retrospective, etc.) se lleven a cabo, sean positivos, productivos y que se respete el tiempo establecido (time-box) para cada uno de ellos. Coordinar y liderar las actividades del equipo de desarrollo durante las iteraciones.
 11.	Ayudar al crecimiento profesional de los miembros del equipo de desarrollo y al mejoramiento de sus habilidades.
-12.	Ser embajador del equipo en cuanto a temas metodológicos, técnicos (junto a un Líder Técnico) y de relaciones humanas.
+12.	Ser embajador del equipo en cuanto a temas metodológicos, de procesos y de relaciones humanas.
 13.	Buscar lograr un equipo balanceado, sostenible y de alto rendimiento. Gestión de la carga de trabajo del equipo de desarrollo.
 14.	Realizar seguimiento y control del progreso mediante métricas adecuadas (como velocidad, capacidad del equipo, calidad técnica, Four Key Metrics o DORA Metrics, etc.), asegurando la transparencia en el estatus y desempeño en todo momento, para asegurar el cumplimiento de los objetivos y eficiencia del equipo y el desarrollo.
 
