@@ -14,7 +14,13 @@ Profesional del área Tecnología de la Información (para el ámbito de desarro
 
 ## Formación secundaria
 
-Postgrado, diplomados o certificaciones relacionadas a Agile: Certificación de Agile Coaching (ICP-ACC, ICAgile), Agile Team Facilitation (ICP-ATF, ICAgile), Agile fundamentals (ICP ICAgile), Profesional Scrum Master (PSM), Profesional Scrum Fundations (PSF), Certified Scrum Master (SCM), Profesional Scrum Product Owner (PSPO I, PSPO II), Certified Scrum Product Owner (CSPO), SAFe Product Owner/Product Manager
+Certificaciones de Agile Coaching: Certificación de Agile Coaching (ICP-ACC, ICAgile), Agile Team Facilitation (ICP-ATF, ICAgile), Agile fundamentals (ICP ICAgile), 
+
+Certificaciones de Scrum: Profesional Scrum Fundations (PSF), Profesional Scrum Master (PSM I, PSM II, PSM III) de Scrum.org, Certified Scrum Master (SCM, A-CSM o CSP-SM) de Scrum Alliance, Profesional Scrum Fundations (PSF), DASM Disciplined Agile Scrum Master (PMI), DASSM Disciplined Agile Senior Scrum Master (PMI), SAFe® Scrum Master, SAFe® Advanced Scrum Master, Scrum Master Certified ScrumStudy o Scrum Master Professional CertiProf; Profesional Scrum Product Owner (PSPO I, PSPO II), Certified Scrum Product Owner (CSPO), SAFe Product Owner/Product Manager.
+
+Certificaciones Kanban: Team Kanban Practitioner (TKP), Certificación Kanban System Design (KMP-1), Certificación Kanban Management Professional (KMPI+KMPII), Professional Kanban de Scrum Manager, Certified Kanban Professional de Global Trust Association, Kanban Essential Professional Certificate de CertiProf, etc.
+
+Diplomados o maestrias en Diseño Organizacional.
 
 ## Supervisión o liderazgo
 
