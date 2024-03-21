@@ -33,7 +33,7 @@ No cuenta con personal a su cargo. Facilita y lidera metodológicamente a líder
 - **Lean**: Conocimientos en Lean, Lean Thinking y/o Lean Manufacturing.
 
 **Professional Coaching**
-- **Coaching**: Capacidades de coaching y de ayudar mediante la indagación tanto a miembros de equipos como a equipos completos.
+- **Coaching**: Capacidades de coaching y de ayudar mediante la indagación a líderes, miembros de equipos y a equipos completos. Capacidad para ayudar en sus problemas y a buscar sus propias soluciones con un enfoque en la cultura, mentalidad y el comportamiento Agile y Lean.
 
 **Facilitating**
 - **Facilitación** Habilidades de facilitación y moderación de reuniones efectivas y sesiones de trabajo con dinámicas de grupo conducentes a resultados efectivos y eficientes (estructuras liberadoras, etc.).
@@ -42,7 +42,7 @@ No cuenta con personal a su cargo. Facilita y lidera metodológicamente a líder
 - **Formador**: Capacidad de enseñanza (teaching) y mentoreo (mentoring); capacidades de docencia (trainer/teacher) para un grupo de personas.
 
 **Mentoring**
-- **Mentoreo**
+- **Mentoreo**: Realiza mentoring a profesionales y líderes guiando, inspirando y ayudando en el desarrollo de su carrera profesional.
 
 **Technical Mastery**
 - **Ingeniería de Software**: En el ámbito de desarrollo de software necesita conocimientos técnicos y de ingeniería de software (DevOps), informática y la industria TI.
