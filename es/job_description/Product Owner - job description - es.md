@@ -63,12 +63,12 @@ No suele contar con personas a cargo (gestiona productos no personas) aunque si 
 
 ## Posturas o dimensiones del rol
 Un Product Owner se desenvuelve en las siguientes dimensiones o asume las siguientes posturas:
-**Visionario**: Visionario con la visión del producto, estrategia, metas comerciales, objetivos y negocio.
-**Colaborador**: Apoyar a las personas en el descubrimiento, definir objetivos, aclarar Backlog o analizar las necesidades del cliente. 
-**Decisor**: Como tomador de decisiones debe mantener corto el tiempo de salida al mercado, al mantener corto el tiempo de toma de decisiones.
-**Voz del Cliente**: Es representante del cliente y busca entender lo que necesitan los clientes, cuáles son sus desafíos, qué dolores y ganancias tienen. 
-**Influenciador**: El Influyente utiliza habilidades efectivas de comunicación, negociación e influencia para lograr que las personas se unan a la causa.
-**Experimentador**: Entiende al trabajo como experimentos basado en hipótesis, la necesidad de probar cosas nuevas, explorar e innovar.
+- **Visionario**: Visionario con la visión del producto, estrategia, metas comerciales, objetivos y negocio.
+- **Colaborador**: Apoyar a las personas en el descubrimiento, definir objetivos, aclarar Backlog o analizar las necesidades del cliente. 
+- **Decisor**: Como tomador de decisiones debe mantener corto el tiempo de salida al mercado, al mantener corto el tiempo de toma de decisiones.
+- **Voz del Cliente**: Es representante del cliente y busca entender lo que necesitan los clientes, cuáles son sus desafíos, qué dolores y ganancias tienen. 
+- **Influenciador**: El Influyente utiliza habilidades efectivas de comunicación, negociación e influencia para lograr que las personas se unan a la causa.
+- **Experimentador**: Entiende al trabajo como experimentos basado en hipótesis, la necesidad de probar cosas nuevas, explorar e innovar.
 
 ## Tecnologías
 
