@@ -48,6 +48,7 @@ No cuenta con personal a su cargo. Facilita y lidera metodológicamente a líder
 - **Gestión del Cambio**: Conocimiento en marcos de Gestión del Cambio (Lean Change Management, Kotter's 8-Step Change Model, Modelo ADKAR, etc.). 
 - **Transformación Digital**: Conocimientos en Transformación Digital, Adopción ágil, Transformación y Desarrollo Organizacional.
 - **Modelos de Madurez**:  Conocimientos en algún playbook y/o modelo de madurez ágil (atlassian team playbook, etc.).
+- **Gestión de Portafolio Ágil**: Conocimiento en framework de gestión de portafolio y alineamiento estratégico como Balanced Scorecard, OKR (Andy Grove), EDGE con Lean Value Tree (Jim Highsmith), Opportunity Solution Tree (Teresa Toorres).
 
 **Business Mastery**
 - **Conocimientos de negocio**: modelado de negocios (Business Model Canvas) y métricas de negocio (KPIs). 
