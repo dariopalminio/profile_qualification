@@ -23,8 +23,8 @@ Un Product Manager es la persona que identifica las necesidades del cliente y lo
 
 **Influir en las personas**
 
-**Gestión de los Interesados**	La capacidad de identificar proactivamente a las partes interesadas afectadas y trabajar con esas partes interesadas para tener en cuenta sus requisitos en las decisiones sobre productos.
-**Liderazgo de Equipo**	La capacidad de gestionar, motivar y orientar a los integrantes del equipo con el objetivo de permitirles cumplir con éxito en sus áreas de producto o experticia, mejorar continuamente estas competencias, ofrecer resultados comerciales significativos y lograr sus objetivos profesionales.
-**Managing Up**	La capacidad de aprovechar a los altos directivos y ejecutivos de la organización para ayudar a alcanzar objetivos, ofrecer resultados comerciales significativos e influir positivamente en la dirección estratégica del producto y de la empresa en general.
+- **Gestión de los Interesados**	La capacidad de identificar proactivamente a las partes interesadas afectadas y trabajar con esas partes interesadas para tener en cuenta sus requisitos en las decisiones sobre productos.
+- **Liderazgo de Equipo**	La capacidad de gestionar, motivar y orientar a los integrantes del equipo con el objetivo de permitirles cumplir con éxito en sus áreas de producto o experticia, mejorar continuamente estas competencias, ofrecer resultados comerciales significativos y lograr sus objetivos profesionales.
+- **Managing Up**	La capacidad de aprovechar a los altos directivos y ejecutivos de la organización para ayudar a alcanzar objetivos, ofrecer resultados comerciales significativos e influir positivamente en la dirección estratégica del producto y de la empresa en general.
 
 
