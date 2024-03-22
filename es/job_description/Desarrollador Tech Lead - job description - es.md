@@ -39,6 +39,7 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 15. **Visión técnica global**: Tener una 'Visión Holística' y sistémica de los problemas a resolver y de las soluciones planteades, como también del equipo y producto en el ecosistema organizacional ('zoom out' y visión general).
 16. **Aprendizaje continuo**:  la capacidad de aprender de los errores.
 17. **Trabajo en equipo**: Capacidad para hacer contribuciones significativas y de movilizar e impulsar el éxito de su equipo.
+18. **Metodologías Ágiles**: Conocimiento o experiencia en equipos ágiles y en la aplicación de prácticas ágiles como Scrum, Kanban, Lean y DevOps para mejorar la colaboración, la entrega continua y la calidad del software.
 
 ## Responsabilidades y funciones
 
