@@ -34,6 +34,7 @@ No cuenta con personal a su cargo.
 10.	Poseer atención al detalle.
 11.	Disposición para aprender constantemente.
 12.	Capacidad para comunicarse con los ingenieros sobre los detalles de implementación.
+13.	Conocimientos generales de Lean Thinking (Lean Startup) y metodologías ágiles.
 
 
 ## Responsabilidades y funciones
