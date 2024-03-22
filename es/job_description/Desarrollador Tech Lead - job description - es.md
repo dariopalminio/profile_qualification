@@ -43,29 +43,27 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 
 ## Responsabilidades y funciones
 
-1.	Coordinarse con otros líderes técnicos.
-2.	Liderara la definición del Stack tecnológico y buscar mejorarlo.
-3.	Liderar la implementación y asegurar funcionamiento y lineamientos técnicos en el desarrollo de sistemas.
-4.	Ser referente técnico y mentor del equipo de trabajo en cuanto a desarrollo. Conducir, en conjunto con los Ingenieros de Software, el diseño técnico de las características o historias de usuario propuestas por el Product Owner de la célula. Y mentorear a los miembros del equipo, principalmente a los miembros de menor seniority o más débiles técnicamente.
-5.	Actuar como un escudo contra las distracciones externas para que el equipo no pierda el enfoque y la dirección.
-6.	Desarrollar software: programar a la par del equipo aproximadamente 1/3 a 2/3 de su tiempo (o 30% al 70% aproximadamente).
-7.	Resolver impedimentos técnicos del equipo y saber resolver problemas complejos que el equipo no pueda resolver. Facilitar acciones y resolver problemas para mantener al equipo funcionando con eficacia y productividad.
-8.	Impulsar la mejora continua en el ámbito técnico en busca de la excelencia técnica.
-9.	Velar por el cumplimiento de las buenas prácticas de desarrollo de software y la ingeniería. Al diseñar las soluciones aplicar las mejores prácticas y patrones de diseño establecidas en Blue (Principios de Arquitectura e Ingeniería).
-10.	Supervisar/inspeccionar al equipo de desarrollo y garantizar que el software cumple con todos los requerimientos no funcionales.
-11.	Asegurar que las estrategias definidas en la ejecución de proyectos/productos o por la organización se apliquen de forma correcta.
-12.	Mantener control de avance, dependencias técnicas, riesgos y entregas de las actividades de desarrollo del equipo, equipos internos y externos.
-13.	Liderar y apoyar en la evaluación de librerías, frameworks, plataformas, servicios, web servers, base de datos, patrones de diseño, etc.
-14.	Revisar y validar la documentación técnica generada por los desarrolladores.
+1.	**Desarrollar software**: programar a la par del equipo aproximadamente 1/3 a 2/3 de su tiempo (o 30% al 70% aproximadamente).
+2.	**Apoyar el delivery exitoso**: Mantener control de avance, dependencias técnicas, riesgos y entregas de las actividades de desarrollo del equipo, equipos internos y externos.
+3.	**Gestión de dependencias técnicas**: Identificar dependencias técnicas y coordinarse con otros líderes técnicos.
+4.	**Mejorar Stack Tecnológico**: Liderara la definición del Stack tecnológico y buscar mejorarlo. Liderar y apoyar en la evaluación de librerías, frameworks, plataformas, servicios, web servers, base de datos, patrones de diseño, etc.
+5.	**Referente Técnico**: Liderar la implementación y asegurar funcionamiento y lineamientos técnicos en el desarrollo de sistemas. Ser referente técnico y mentor del equipo de trabajo en cuanto a desarrollo. Conducir, en conjunto con los Ingenieros de Software, el diseño técnico de las características o historias de usuario propuestas por el Product Owner de la célula. Y mentorear a los miembros del equipo, principalmente a los miembros de menor seniority o más débiles técnicamente.
+6.	**Enfocar al equipo**: Actuar como un escudo contra las distracciones externas para que el equipo no pierda el enfoque y la dirección.
+7.	**Motivar al Equipo**: Promover el cumplimiento de metas del equipo y brindar reconocimiento a sus compañeros y su equipos según resultados y rendimiento.
+8.	**Resolver impedimentos técnicos** del equipo y saber resolver problemas complejos que el equipo no pueda resolver. Facilitar acciones y resolver problemas para mantener al equipo funcionando con eficacia y productividad.
+9.	**Buscar la Excelencia Técnica del equipo**: Impulsar la mejora continua en el ámbito técnico en busca de la excelencia técnica.
+10.	**Buenas prácticas**: Velar por el cumplimiento de las buenas prácticas de desarrollo de software y la ingeniería. Al diseñar las soluciones aplicar las mejores prácticas y patrones de diseño establecidas en Blue (Principios de Arquitectura e Ingeniería).
+11.	Supervisar/inspeccionar al equipo de desarrollo y garantizar que el software cumple con todos los requerimientos no funcionales.
+12.	**Apoyar la estrategia**: Asegurar que las estrategias definidas en la ejecución de proyectos/productos o por la organización se apliquen de forma correcta.
+14.	**Asegurar Documentación Técnica necesaria**: Revisar y validar la documentación técnica generada por los desarrolladores.
 15.	Auditar y hacer revisión de código y feedback en actividades de 'code quality checks', pairing, peer-review (pull-request) y mood-programing.
-16.	Ser embajador del equipo y la contraparte técnica del equipo con el resto de las áreas técnicas de la organización, como son: Arquitectura, Producción, Monitoreo, Ciberseguridad, etc.
-17.	Promover el cumplimiento de metas del equipo y brindar reconocimiento a sus compañeros y su equipos según resultados y rendimiento.
-18.	Velar por la disminución de la deuda técnica y lograr desarrollar software de calidad del equipo. Trabajar de la mano con los Ingenieros de Software para identificar los puntos de mejora y deudas técnicas, incluyéndose en el backlog.
-19. En el trabajo orientado a equipo, aunque trabajará la mayor parte del tiempo en su campo de experticia, debe desenvolverse en otros temas, tareas y actividades en función de colaborar con el equipo, apoyar en diferentes tipos de actividades para sumar capacidad, cumplir con las entregas del equipo, evitar los cuellos de botella y colaborar en solucionar problemas del equipo. 
-20. Investigar continuamente tecnologías emergentes y mantenerse al día con las tendencias de la industria y del desarrollo.
-21. Buscar un equilibrio de esfuerzo técnico y nivel técnico entre miembros del equipo para lograr una productividad saludable del equipo. 
-22. Monitorear, en función de mejorar el delivery, un conjunto de métricas técnicas del equipo y de calidad de software, como por ejemplo: Pull Request Lead Time, Throughput, Time from First Commit to Merge, Deploy Frequency, Number of Technical Debts, Bug in Production, testing coverage, etc.
-23. Debe crear 'Conocimiento Colectivo' y fomentar la 'propiedad colectiva del código' procurando que el conocimiento se comparta, fluya en todo el equipo y se logre buen trabajo colectivo.
+16.	**Embajador Técnico del Equipo**: Ser embajador del equipo y la contraparte técnica del equipo con el resto de las áreas técnicas de la organización, como son: Arquitectura, Producción, Monitoreo, Ciberseguridad, etc.
+18.	**Gestionar la Deuda Técnica**: Velar por la disminución de la deuda técnica y lograr desarrollar software de calidad del equipo. Trabajar de la mano con los Ingenieros de Software para identificar los puntos de mejora y deudas técnicas, incluyéndose en el backlog.
+19. **Trabajo en Equipo**:En el trabajo orientado a equipo, aunque trabajará la mayor parte del tiempo en su campo de experticia, debe desenvolverse en otros temas, tareas y actividades en función de colaborar con el equipo, apoyar en diferentes tipos de actividades para sumar capacidad, cumplir con las entregas del equipo, evitar los cuellos de botella y colaborar en solucionar problemas del equipo. 
+20. **Mantenerse actualizado tecnologicamente**: Investigar continuamente tecnologías emergentes y mantenerse al día con las tendencias de la industria y del desarrollo.
+21. **Mantener un desarrollo sostenible**: Buscar un equilibrio de esfuerzo técnico y nivel técnico entre miembros del equipo para lograr una productividad saludable del equipo. 
+22. **Monitorear métricas del desarrollo**: Monitorear, en función de mejorar el delivery, un conjunto de métricas técnicas del equipo y de calidad de software, como por ejemplo: Pull Request Lead Time, Throughput, Time from First Commit to Merge, Deploy Frequency, Number of Technical Debts, Bug in Production, testing coverage, etc.
+23. **Impulsar propiedad colectiva del código**: Debe crear 'Conocimiento Colectivo' y fomentar la 'propiedad colectiva del código' procurando que el conocimiento se comparta, fluya en todo el equipo y se logre buen trabajo colectivo.
 
 ## Tecnologías
 
