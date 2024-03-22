@@ -25,7 +25,7 @@ Postgrado o diplomados relacionados a Análisis de Negocio: Diplomado en Intelig
 
 ## Supervisión o liderazgo
 
-No suele contar con personas a cargo (gestiona productos no personas) aunque si lidera, en cuanto a producto, a un equipo de entre 7 y 9 miembros.
+No suele contar con personas a cargo (gestiona productos no personas) aunque sí lidera, en cuanto a producto, a un equipo de entre 7 y 9 miembros.
 
 ## Conocimientos y competencias
 
