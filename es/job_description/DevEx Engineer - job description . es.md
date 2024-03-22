@@ -10,7 +10,7 @@ El rol de DevEx Engineer, se centra en mejorar la experiencia de desarrollo de l
 Generalmente necesita tener una formación académica en informática, ingeniería de software, ciencias de la computación o un campo relacionado. 
 
 ## Formación secundaria
-Puede tener: Maestrías en Ingeniería de Software, formación o cursos de especialización en DevOps, Diplomados en Desarrollo Web y Aplicaciones Móviles, Cursos y Certificaciones en Plataformas en la Nube.
+Puede tener: Maestrías en Ingeniería de Software, formación o cursos de especialización en DevOps o DevOps Management, Diplomados en Desarrollo Web y Aplicaciones Móviles, Cursos y Certificaciones en Plataformas en la Nube.
 
 ## Supervisión o liderazgo
 Puede o no tener personas a cargo.
