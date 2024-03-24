@@ -24,24 +24,24 @@ No tiene personal a cargo.
 
 Debe tener los siguientes conocimientos y competencias con la profundidad dependiente del nivel de seniority requerido:
 
-1. Conocer fundamentos de programación, estructura de datos, desarrollo Web y/o ingeniería de software.
-2. Conocer y saber codificar en HTML (HTML5), CSS (CSS3) y JavaScript. Manejo y configuración de IDEs de programación según lenguajes de programación requerido. 
-3. Conocimientos esenciales en diseño visual y maquetado. Es deseable pero no escencial conocimientos básicos de creación y manipulación de imágenes, para poder recortar, cambiar el tamaño o realizar pequeños ajustes en una imagen (Gimp, Photoshop, etc.). 
-4. Comprensión básica de las plataformas de preprocesamiento de CSS del lado del servidor, como LESS y SASS.
-5. Comprensión competente de las secuencias de comandos del lado del cliente y los marcos de JavaScript, incluido jQuery.
-6. Buena comprensión del manejo de solicitudes asincrónicas, actualizaciones de páginas parciales y AJAX.
-7. Conocimientos en frameworks y librerías de frontend, como para control de estados (redux, recoil, etc.).
-8. Comprensión competente de los problemas de compatibilidad entre navegadores y formas de solucionarlos.
-9. Saber usar software de control de versiones (como github, gitlab, Mercurial, bitbucket, git, SVN, CVS, etc.). 
-10. Conocimiento en Frameworks y librerías para desarrollo Front-end en el stack requerido (React, Vue, Angular, etc.).
-11. Conocimientos en sistema de gestión de contenidos o CMS. 
-12. Buena comprensión de los principios de SEO y garantizar que la aplicación se adhiera a ellos. 
-13. Conocer buenas prácticas, principios de desarrollo (de Clean code y/o SOLID) y patrones de arquitectura frontend. 
-14. Familiaridad con las herramientas de empaquetado, building y manejo de dependencias como; npm, yarn, Bower, Bundler, Rake, Gulp, etc., según la pila de tecnología a usar.
-15. Conocimientos básicos de Testing: unit test, test de renderización y/o End-to-End.
-16. Securización para desarrollo frontend. 
-17. Capacidad de aprendizaje, investigación, análisis y diseño de sistemas informáticos, autonomía en sus tareas, proactivo, analítico, responsable, puntual con los compromisos y coordinación para trabajo en equipo. 
-18.	Sentido de responsabilidad, compromiso y capacidad de trabajo en equipo. 
+1. **Fundamentos de Programación**: Conocer fundamentos de programación, estructura de datos, desarrollo Web y/o ingeniería de software, lenguajes de programación como JavaScript; manejo y configuración de IDEs de programación según lenguajes de programación requerido. Comprensión competente de las secuencias de comandos del lado del cliente y los marcos de JavaScript, incluido jQuery.
+2. **Markup y Hojas de Estilo**: Conocer y saber codificar en HTML (HTML5), CSS (CSS3).
+4. **Preprocesadores CSS**: Comprensión básica de las plataformas de preprocesamiento de CSS del lado del servidor, como LESS y SASS.
+5. **Control de Estados**: Conocimientos en frameworks, librerías de frontend y mecanismos para control de estados (redux, recoil, etc.).
+6. **Stack Frontend**: Conocimiento en Frameworks y librerías para desarrollo Front-end en el stack requerido (React, Vue, Angular, etc.).
+7. **Programación asíncrona**: Buena comprensión del manejo de solicitudes asincrónicas, técnicas callbacks (retrollamadas), promesas, async/await; actualizaciones de páginas parciales y AJAX.
+10. **Control de Versiones**: Saber usar software de control de versiones (como github, gitlab, Mercurial, bitbucket, git, SVN, CVS, etc.). 
+11. **Sistema de gestión de contenidos**: Conocimientos en sistema de gestión de contenidos o CMS (WordPress, Drupal, Magento, Wix, etc.), 
+12. Buena comprensión de los principios de SEO y garantizar que la aplicación se adhiera a ellos.
+13. Comprensión competente de los problemas de compatibilidad entre navegadores y formas de solucionarlos.
+14. **Buenas prácticas Fronend**: Conocer buenas prácticas, principios de desarrollo (de Clean code y/o SOLID) y patrones de arquitectura frontend. 
+15. **Packaging Tools**: Familiaridad con las herramientas de empaquetado, building y manejo de dependencias como; npm, yarn, Bower, Bundler, Rake, Gulp, etc., según la pila de tecnología a usar.
+16. **Testing**: Conocimientos básicos de Testing pra frontend: unit test, UI Testing, test de renderización y/o End-to-End.
+17. Securización para desarrollo frontend.
+18. **Edición de Imágenes**: Conocimientos esenciales en diseño visual y maquetado. Es deseable pero no escencial conocimientos básicos de creación y manipulación de imágenes, para poder recortar, cambiar el tamaño o realizar pequeños ajustes en una imagen (Gimp, Photoshop, etc.). 
+19. Capacidad de aprendizaje, investigación, análisis y diseño de sistemas informáticos, autonomía en sus tareas, proactivo, analítico, responsable, puntual con los compromisos y coordinación para trabajo en equipo. 
+20.	Sentido de responsabilidad y compromiso.
+21.	**Trabajo en equipo**: Capacidad para trabajar en equipo, colaborar en actividades que no son de su especialidad, hacer contribuciones significativas y de movilizar e impulsar el éxito de su equipo.
 
 ## Responsabilidades y funciones
 
