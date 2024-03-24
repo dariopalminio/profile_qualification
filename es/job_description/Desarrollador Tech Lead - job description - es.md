@@ -23,7 +23,7 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 ## Conocimientos y competencias
 
 1. **Ingeniería de software**: Un líder técnico debe tener una gran experiencia profesional en el desarrollo de software y un profundo conocimiento de la tecnología y en ingeniería de software.
-2. **Seniority avanzado**:Ser desarrollador senior, senior advanced, principal o profesional con más de 5 años de experiencia como ingeniero de software, desarrollador de software o puesto similar.
+2. **Seniority avanzado**: Ser desarrollador senior, senior advanced, principal o profesional con más de 5 años de experiencia como ingeniero de software, desarrollador de software o puesto similar.
 3. **Conocimiento en el Stack**: Poseer conocimientos avanzados en el stack tecnológico que usa su equipo o necesarios para el sistema a desarrollar. 
 4. **Programador avanzado**: Saber programar en diferentes lenguajes de programación/scripting/markup, por ejemplo: Java, Javascript, Perl, etc. 
 5. **Bases de Datos**: Debe manejar bases de datos, que incluye el diseño y estructura de bases de datos relacionales (SQL) y no relacionales (NoSQL). 
