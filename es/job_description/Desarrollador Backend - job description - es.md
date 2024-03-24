@@ -24,26 +24,21 @@ No tiene personal a cargo.
 
 Debe tener los siguientes conocimientos y competencias con la profundidad dependiente del nivel de seniority requerido:
 
-1. Conocer fundamentos de programación (algoritmos y estructura de datos).  
-2. Conocer fundamentos de desarrollo Web. 
-3. Conocimientos en arquitecturas cliente-servido, microservicios y/o aplicaciones distribuidas. 
-4. Conocimiento competente de un lenguaje de programación back-end. Dependiendo del caso específico, un desarrollador debe tener conocimiento de uno o más lenguajes JavaScript, Java, PHP, Python, Ruby, .NET, etc.
-5. Manejo y configuración de IDEs de programación según lenguajes de programación requerido. 
-6. Saber usar software de control de versiones (como github, gitlab, bitbucket, git, SVN, CVS, etc.). 
-7. Conocer buenas prácticas, principios de Clean code y/o SOLID. 
-8. Conocimientos básicos de Testing. Implementación de plataformas de pruebas automatizadas y pruebas unitarias.
-9. Conocimientos DevOps (CI/CD) para desarrollo. 
-10. Conocimientos en manejo de Base de Datos, database schemas y consultas SQL y/o NoSQL. 
-11. Migración de datos, transformación y secuencias de comandos scripting.
-12. Integración de múltiples fuentes de datos y bases de datos en un solo sistema.
-13. Comprender la accesibilidad y el cumplimiento de la seguridad. Comprensión competente de los principios de seguridad de OWASP.
-14. Securización, autenticación y autorización de usuarios entre múltiples sistemas, servidores y entornos.
-15. Comprensión de la "gestión de sesiones" en un entorno de servidor distribuido.
+1. **Fundamentos de Programación**: Conocer fundamentos de programación (algoritmos y estructura de datos) y fundamentos de desarrollo Web. 
+3. **Arquitectura**: Conocimientos fundamentales en arquitecturas cliente-servido, microservicios, aplicaciones distribuidas y arquitectura orientada a eventos (EDA). 
+4. **Lenguaje de Programación Back-end**: Conocimiento competente de un lenguaje de programación back-end. Dependiendo del caso específico, un desarrollador debe tener conocimiento de uno o más lenguajes JavaScript, Java, PHP, Python, Ruby, .NET, etc. Manejo y configuración de IDEs de programación según lenguajes de programación requerido. 
+6. **Control de Versiones**: Saber usar software de control de versiones (como github, gitlab, bitbucket, git, SVN, CVS, etc.). 
+7. **Buenas prácticas**: Conocer buenas prácticas, principios de Clean code y/o SOLID. 
+8. **Testing**: Conocimientos básicos de Testing. Implementación de plataformas de pruebas automatizadas y pruebas unitarias.
+9. **DevOps**: Conocimientos CI/CD para desarrollo. 
+10. **Base de Datos**: Conocimientos en manejo de Base de Datos, database schemas y consultas SQL y/o NoSQL. Migración de datos, transformación y secuencias de comandos scripting. Integración de múltiples fuentes de datos y bases de datos en un solo sistema.
+13. **Securización**: Comprender la accesibilidad y el cumplimiento de la seguridad. Comprensión competente de los principios de seguridad de OWASP. Securización, autenticación y autorización de usuarios entre múltiples sistemas, servidores y entornos. Comprensión de la "gestión de sesiones" en un entorno de servidor distribuido.
 16. Gestión del entorno de alojamiento, incluida la administración de la base de datos y el escalado de una aplicación para admitir cambios de carga.
-17. Logging, tracing y moniteoreo.
+17. **Observabilidad**: Logging, tracing, moniteoreo y conceptos de observabilidad.
 18. Configuración y administración de copias de seguridad.
 19. Capacidad de aprendizaje, investigación, análisis y diseño de sistemas informáticos, autonomía en sus tareas, proactivo, analítico, responsable, puntual con los compromisos y coordinación para trabajo en equipo. 
-20.	Sentido de responsabilidad, compromiso y capacidad de trabajo en equipo. 
+20.	Sentido de responsabilidad y compromiso.
+21.	**Trabajo orientado a equipo**: aunque trabajará la mayor parte del tiempo en su campo de experticia, debe desenvolverse en otros temas, tareas y actividades en función de colaborar con el equipo, apoyar en diferentes tipos de actividades para sumar capacidad, cumplir con las entregas del equipo, evitar los cuellos de botella y colaborar en solucionar problemas del equipo.
 
 ## Responsabilidades y funciones
 
