@@ -28,7 +28,7 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 4. **Programador avanzado**: Saber programar en diferentes lenguajes de programación/scripting/markup, por ejemplo: Java, Javascript, Perl, etc. 
 5. **Bases de Datos**: Debe manejar bases de datos, que incluye el diseño y estructura de bases de datos relacionales (SQL) y no relacionales (NoSQL). 
 6. **Patrones de diseño**: Saber sobre patrones de diseño de software (Singleton, Facade, Adapter, Strategy, Observer, etc.). 
-7. **Arquitectura**: Saber sobre arquitecturas del tipo de sistema o soluciones del equipo que lidera (Cliente-Servidor, Microservicios, etc.). 
+7. **Arquitectura**: Saber sobre arquitecturas del tipo de sistema o soluciones del equipo que lidera (Cliente-Servidor, Microservicios, arquitectura basada en eventos EDA, etc.). 
 8. Capacidad de analizar y traducir necesidades del negocio a soluciones de TI y de concretar, con su equipo, requerimientos de negocios. Ser nexo entre el negocio y las cuestiones técnicas, entre los tomadores de decisiones y los desarrolladores.
 9. **Configuración de ambientes**: Capacidad de instalar y configurar ambientes completos de desarrollo y herramientas IDE.  
 10. **Liderazgo**: Capacidad de liderazgo, coaching técnico y habilidades de resolución de conflictos (con y entre colegas). 
