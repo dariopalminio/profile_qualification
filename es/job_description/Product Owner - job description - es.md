@@ -29,17 +29,18 @@ No suele contar con personas a cargo (gestiona productos no personas) aunque sí
 
 ## Conocimientos y competencias
 
-1.	Conocimientos administrativos básicos.
-2.	Experiencia en el rol o conocimientos en las responsabilidades del rol Product Owner (según 'La Guía de Scrum' de Scrum.org).
-3.	Conocimientos del manifiesto ágil (agilemanifesto.org) y sus implicancias en el día a día de trabajo.
-4.	Si se trata de un Product Owner en un equipo de desarrollo de software: conocimientos básicos de informática y la industria TI. 
-5.	Capacidad de Liderazgo en temas de negocio y de gestión de interesados de producto (stakeholders).
-6.	Conocimientos de análisis de negocio (Lean Business Canvas, modelado de procesos de negocio, etc.).
-7.	Conocimiento en desarrollo de productos lean-agile (Lean Startup, Product Vision Board, etc.).
-8.	Conocimientos  en métricas de negocio (KPI, ROI, etc.), métricas de producto (KPIs del embudo de compra, etc.).
-9.	Conocimiento en técnicas de priorización (Valor/Esfuerzo, MoSCoW, WSJF, etc).
-10.	Capacidad de modelado de procesos, negocios y de dominio de problemas.
-11.	Conocimientos básicos de metodologías de desarrollo de sistemas (ágiles, no ágiles) como: Scrum o Kanban (como Service Request Manager). 
+1.	Experiencia en el rol o conocimientos en las responsabilidades del rol Product Owner (según 'La Guía de Scrum' de Scrum.org).
+2.	**Conocimientos de Agile**: Conocimientos básicos del manifiesto ágil (agilemanifesto.org) y sus implicancias en el día a día de trabajo.
+3.	**Pensamiento analítico y resolución de problemas**: Capacidad de análisis y resolución de problemas, icluyendo creatividad, toma de decisión, aprendizaje y pensamiento sistémico.
+4.	**Comunicación Efectiva**: Habilidades de comunicación oral que permita expresar ideas de manera efectiva de manera apropiada para el público objetivo; habilidad para comunicar eficazmente los problemas y requisitos y para garantizar que la información comunicada se comprenda y se retenga; y habilidades de comunicación escrita para documenten los resultados de la elicitación, los requisitos y otra información para la cual se requieren registros a mediano y largo plazo.
+5.	**Habilidades de interacción y negociación**: Habilidades para facilitar las interacciones entre las partes interesadas para ayudarlos a resolver desacuerdos con respecto a la prioridad y la naturaleza de los requisitos. Capacidad de Liderazgo en temas de negocio y de gestión de interesados de producto (stakeholders).
+6.	**Aplicaciones de software**: Capacidad de utilizan aplicaciones de propósito general y gestión de proyectos para documentar y realizar un seguimiento de los requisitos y su desarrollo; y capacidad de utilizan herramientas de modelado para respaldar el desarrollo de modelos formales y, en algunos casos, también su validación e implementación. Si se trata de un Product Owner en un equipo de desarrollo de software: conocimientos básicos de informática y la industria TI. 
+8.	**Conocimiento empresarial**: Conocimiento de la industria en la que trabaja su organización y comprender los principios comerciales fundamentales, dominios de problema de la industria y las mejores prácticas para garantizar que se incorporen y respalden las soluciones. Conocimientos en técnicas de análisis de negocio (Lean Business Canvas, modelado de procesos de negocio, etc.).
+9.	**Desarrollo Lean de Productos**: Conocimiento en desarrollo de productos lean-agile (Lean Startup, Product Vision Board, etc.).
+10.	**Medida de Éxito**: Conocimientos en métricas de negocio (KPI, ROI, etc.), métricas de producto (KPIs del embudo de compra, etc.) y/o medidas de éxito (MoS, OKR, etc,) para evaluar desempeño de las soluciones.
+11.	**Toma de decisión y priorización**: Capacidad de toma de decisión y conocimiento en técnicas de priorización (Valor/Esfuerzo, MoSCoW, WSJF, etc).
+12.	Capacidad de modelado de procesos, negocios y de dominio de problemas.
+13.	**Ética e Integridad**: Capacidad de ganarse la confianza de stakeholders y obtener requisitos en torno a cuestiones delicadas y garantizar que las recomendaciones se evalúen adecuadamente y capacidad de poder comportarse éticamente para ganarse la confianza y el respeto de las partes interesadas; capacidad de liderazgo, influencia y trabajo en equipo que permita sinergia entre las partes interesadas y el equipo de desarrollo o de proyecto.
 
 ## Responsabilidades y funciones
 
