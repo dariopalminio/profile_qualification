@@ -6,6 +6,11 @@ Business Analyst
 ## Descripción
 El Analista de Negocios se enfoca en comprender las necesidades de negocio de una organización y en encontrar soluciones tecnológicas que las satisfagan. Examinan los procesos comerciales, el rendimiento, los bienes y los servicios para determinar la causa central de los problemas y cómo resolverlos utilizando soluciones de "Tecnología de la Información" (TI). Los analistas de negocios utilizan análisis de necesidades comerciales y análisis de datos para cerrar la brecha entre los negocios y la TI evaluando procesos, trabajando como enlace con stakeholders y TI, definiendo requisitos para el desarrollo de sistemas o aplicaciones y presentando sugerencias de soluciones a las partes interesadas.
 
+## Contexto
+
+El rol Business Analyst se ha utilizado tradicionalmente en diversos marcos de trabajo y metodologías de gestión de proyectos, especialmente en entornos de desarrollo de software y sistemas de información tradicionales. Algunos de los marcos de trabajo más comunes donde se ha empleado el rol de Business Analyst incluyen: Waterfall (Cascada), Modelo en Espiral, Metodologías Tradicionales de Gestión de Proyectos (Stage-Gate, PRINCE2, y PMBOK) y enfoques de Desarrollo de Software Personalizados.
+Es importante destacar que, si bien el rol de Business Analyst tiene una historia sólida en enfoques tradicionales de gestión de proyectos, también se ha adaptado a enfoques más ágiles, como Scrum y Kanban, donde se enfoca en la colaboración, la adaptación continua y la entrega de valor; y donde el rol participa como un desarrollador de un equipo ágil colaborando con un Product Owner.
+
 ## Formación principal y académica
 Un Analista de Negocios puede tener títulos universitarios en campos relacionados con negocios, tecnología de la información, ingeniería, ciencias de la computación, matemáticas, economía o áreas afines.
 
