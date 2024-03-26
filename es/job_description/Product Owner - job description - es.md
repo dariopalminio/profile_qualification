@@ -7,6 +7,9 @@ Product Owner, Dueño de Producto o Service Request Manager (en Kanban)
 
 Product Owner o responsable 'Dueño de Producto' a nivel equipo, persona encargada de transmitir las necesidades del cliente y la visión de negocio al equipo de desarrollo, de maximizar el valor de los resultados del trabajo a realizar y de gestionar la pila de trabajo (Product Backlog) del equipo ágil. En resumen es la persona responsable de maximizar el valor del producto resultante del trabajo del 'equipo de desarrollo' ágil. Está enfocado en producir experiencias e impactos sorprendentes en los usuarios y clientes a la vez que soporta el cambio de la organización hacia la agilidad con un enfoque de producto y brindando el soporte necesario para que el equipo de desarrollo pueda optimizar el trabajo que realiza.
 
+## Contexto
+El rol Product Owner proviene del enfoque ágil de desarrollo de productos y se origina en el marco de trabajo Scrum, como el responsable de maximizar el valor del producto a desarrollar. El Product Owner es un rol semejante al de Product Manager, al practicar la disciplina de gestión de producto o Product Management, con capacidad de tomar decisiones de producto y colaborar estrechamente con un equipo de desarrollo ágil de productos. Generalmente un Product Owner es parte de un equipo Scrum, aunque también puede ser parte de un equipo que usa la metodología Kanban o algún marco de trabajo ágil.
+
 ## Formación principal y académica
 
 Puede provenir de profesiones a fines a producto, comercio o empresa como: Administración de Empresa, Ingeniería Comercial, Ingeniería Industrial, etc.
