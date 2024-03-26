@@ -43,7 +43,7 @@ No suele contar con personas a cargo (gestiona productos no personas) aunque sí
 Un Product Owner se desenvuelve en las siguientes dimensiones o asume las siguientes posturas:
 
 ### Responsabilidades como Visionario
-Visionario con la visión del producto, estrategia, metas comerciales, objetivos y negocio.
+Debe ser visionario con la visión del producto, estrategia, metas comerciales, objetivos y negocio.
 1. Investigar el Mercado (Benchmarking).
 2. Realizar Descubrimiento Continuo.
 3. Rentabilizar Producto.
@@ -54,8 +54,8 @@ Visionario con la visión del producto, estrategia, metas comerciales, objetivos
 8. Visibilizar Backlog.
 9. Pronosticar Lanzamientos.
 
-### Responsabilidades como Voz del Cliente
-Es representante del cliente y busca entender lo que necesitan los clientes, cuáles son sus desafíos, qué dolores y ganancias tienen. 
+### Responsabilidades como Voz del Cliente (Representante del Cliente)
+Es responsable de representar al cliente y buscar entender lo que necesitan los clientes, cuáles son sus desafíos, qué dolores y ganancias tienen. 
 1. Describir al Usuario.
 2. Crear y Optimizar Propuesta de Valor.
 3. Mejorar Experiencia del Cliente.
@@ -74,7 +74,7 @@ Como tomador de decisiones debe mantener corto el tiempo de salida al mercado, a
 7. Dedicar capacidad a Deuda Técnica.
 
 ### Responsabilidades como Colaborador
-Apoyar a las personas en el descubrimiento, definir objetivos, aclarar Backlog o analizar las necesidades del cliente.
+Como colaborador apoyar a las personas en el descubrimiento, definir objetivos, aclarar Backlog o analizar las necesidades del cliente.
 1. Dedicar tiempo al equipo (100%).
 2. Colaborar con Marco de Trabajo (Scrum, Kanban, etc.).
 3. Gestionar Tipos de Trabajo.
@@ -85,7 +85,7 @@ Apoyar a las personas en el descubrimiento, definir objetivos, aclarar Backlog o
 8. Colaborar en Gestión de Portafolio.
 
 ### Responsabilidades como Experimentador
-Entiende al trabajo como experimentos basado en hipótesis, la necesidad de probar cosas nuevas, explorar e innovar.
+Como experimentador entiende al trabajo como experimentos basado en hipótesis, la necesidad de validar, probar cosas nuevas, explorar e innovar.
 1. Diseñar Productos Mínimos Viables (MVP).
 2. Asegurar Calidad desde el Inicio.
 3. Definir, Medir y Evaluar Resultados con MoS.
@@ -93,7 +93,7 @@ Entiende al trabajo como experimentos basado en hipótesis, la necesidad de prob
 5. Analizar y Mejorar Procesos para Excelencia Operacional.
 
 ### Responsabilidades como Influenciador
-El Influyente utiliza habilidades efectivas de comunicación, negociación e influencia para lograr que las personas se unan a la causa.
+Como influyente utiliza habilidades efectivas de comunicación, negociación e influencia para lograr que las personas se unan a la causa.
 1. Liderar Servicialmente Ágil.
 2. Gestionar Stakeholders.
 3. Alinear Estratégicamente.
