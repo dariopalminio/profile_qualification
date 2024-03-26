@@ -29,20 +29,21 @@ No suele contar con personas a cargo (gestiona productos no personas) aunque sí
 1.	Experiencia en el rol o conocimientos en las responsabilidades del rol Product Owner (según 'La Guía de Scrum' de Scrum.org).
 2.	**Conocimientos de Agile**: Conocimientos básicos del manifiesto ágil (agilemanifesto.org) y sus implicancias en el día a día de trabajo.
 3.	**Pensamiento analítico y resolución de problemas**: Capacidad de análisis y resolución de problemas, icluyendo creatividad, toma de decisión, aprendizaje y pensamiento sistémico.
-4.	**Comunicación Efectiva**: Habilidades de comunicación oral que permita expresar ideas de manera efectiva de manera apropiada para el público objetivo; habilidad para comunicar eficazmente los problemas y requisitos y para garantizar que la información comunicada se comprenda y se retenga; y habilidades de comunicación escrita para documenten los resultados de la elicitación, los requisitos y otra información para la cual se requieren registros a mediano y largo plazo.
+4.	**Comunicación efectiva**: Habilidades de comunicación oral que permita expresar ideas de manera efectiva de manera apropiada para el público objetivo; habilidad para comunicar eficazmente los problemas y requisitos y para garantizar que la información comunicada se comprenda y se retenga; y habilidades de comunicación escrita para documenten los resultados de la elicitación, los requisitos y otra información para la cual se requieren registros a mediano y largo plazo.
 5.	**Habilidades de interacción y negociación**: Habilidades para facilitar las interacciones entre las partes interesadas para ayudarlos a resolver desacuerdos con respecto a la prioridad y la naturaleza de los requisitos. Capacidad de Liderazgo en temas de negocio y de gestión de interesados de producto (stakeholders).
-6.	**Aplicaciones de software**: Capacidad de utilizan aplicaciones de propósito general y gestión de proyectos para documentar y realizar un seguimiento de los requisitos y su desarrollo; y capacidad de utilizan herramientas de modelado para respaldar el desarrollo de modelos formales y, en algunos casos, también su validación e implementación. Si se trata de un Product Owner en un equipo de desarrollo de software: conocimientos básicos de informática y la industria TI. 
-8.	**Conocimiento empresarial**: Conocimiento de la industria en la que trabaja su organización y comprender los principios comerciales fundamentales, dominios de problema de la industria y las mejores prácticas para garantizar que se incorporen y respalden las soluciones. Conocimientos en técnicas de análisis de negocio (Lean Business Canvas, modelado de procesos de negocio, etc.).
-9.	**Desarrollo Lean de Productos**: Conocimiento en desarrollo de productos lean-agile (Lean Startup, Product Vision Board, etc.).
-10.	**Medida de Éxito**: Conocimientos en métricas de negocio (KPI, ROI, etc.), métricas de producto (KPIs del embudo de compra, etc.) y/o medidas de éxito (MoS, OKR, etc,) para evaluar desempeño de las soluciones.
-11.	**Toma de decisión y priorización**: Capacidad de toma de decisión y conocimiento en técnicas de priorización (Valor/Esfuerzo, MoSCoW, WSJF, etc).
-12.	Capacidad de modelado de procesos, negocios y de dominio de problemas.
-13.	**Ética e Integridad**: Capacidad de ganarse la confianza de stakeholders y obtener requisitos en torno a cuestiones delicadas y garantizar que las recomendaciones se evalúen adecuadamente y capacidad de poder comportarse éticamente para ganarse la confianza y el respeto de las partes interesadas; capacidad de liderazgo, influencia y trabajo en equipo que permita sinergia entre las partes interesadas y el equipo de desarrollo o de proyecto.
+6.	**Conocimiento empresarial**: Conocimiento de la industria en la que trabaja su organización y comprender los principios comerciales fundamentales, dominios de problema de la industria y las mejores prácticas para garantizar que se incorporen y respalden las soluciones. Conocimientos en técnicas de análisis de negocio (Lean Business Canvas, modelado de procesos de negocio, etc.).
+7.	**Desarrollo de producto iterativo e incremental**: Conocimiento en desarrollo de productos lean (Lean Startup, Product Vision Board, etc.) y desarrollo iterativo e incremental.
+8.	**Medida de éxito**: Conocimientos en métricas de negocio (KPI, ROI, etc.), métricas de producto (KPIs del embudo de compra, etc.) y/o medidas de éxito (MoS, OKR, etc,) para evaluar desempeño de las soluciones.
+9.	**Toma de decisión y priorización**: Capacidad de toma de decisión y conocimiento en técnicas de priorización (Valor/Esfuerzo, MoSCoW, WSJF, etc).
+10.	Capacidad de modelado de procesos, negocios y de dominio de problemas.
+11.	**Ética e Integridad**: Capacidad de ganarse la confianza de stakeholders y obtener requisitos en torno a cuestiones delicadas y garantizar que las recomendaciones se evalúen adecuadamente y capacidad de poder comportarse éticamente para ganarse la confianza y el respeto de las partes interesadas; capacidad de liderazgo, influencia y trabajo en equipo que permita sinergia entre las partes interesadas y el equipo de desarrollo o de proyecto.
+12. **Aplicaciones de software**: Capacidad de utilizan aplicaciones de propósito general y gestión de proyectos para documentar y realizar un seguimiento de los requisitos y su desarrollo; y capacidad de utilizan herramientas de modelado para respaldar el desarrollo de modelos formales y, en algunos casos, también su validación e implementación. Si se trata de un Product Owner en un equipo de desarrollo de software: conocimientos básicos de informática y la industria TI.
 
 ## Responsabilidades y funciones
 Un Product Owner se desenvuelve en las siguientes dimensiones o asume las siguientes posturas:
 
-### Como Visionario: Visionario con la visión del producto, estrategia, metas comerciales, objetivos y negocio.
+### Como Visionario
+Visionario con la visión del producto, estrategia, metas comerciales, objetivos y negocio.
 1. Investigar el Mercado (Benchmarking).
 2. Realizar Descubrimiento Continuo.
 3. Rentabilizar Producto.
@@ -53,7 +54,8 @@ Un Product Owner se desenvuelve en las siguientes dimensiones o asume las siguie
 8. Visibilizar Backlog.
 9. Pronosticar Lanzamientos.
 
-### Como Voz del Cliente: Es representante del cliente y busca entender lo que necesitan los clientes, cuáles son sus desafíos, qué dolores y ganancias tienen. 
+### Como Voz del Cliente
+Es representante del cliente y busca entender lo que necesitan los clientes, cuáles son sus desafíos, qué dolores y ganancias tienen. 
 1. Describir al Usuario.
 2. Crear y Optimizar Propuesta de Valor.
 3. Mejorar Experiencia del Cliente.
@@ -61,7 +63,8 @@ Un Product Owner se desenvuelve en las siguientes dimensiones o asume las siguie
 5. Obtención de Retroalimentación del Cliente.
 6. Asegurar Continuidad Operacional.
 
-### Como Decisor: Como tomador de decisiones debe mantener corto el tiempo de salida al mercado, al mantener corto el tiempo de toma de decisiones.
+### Como Decisor
+Como tomador de decisiones debe mantener corto el tiempo de salida al mercado, al mantener corto el tiempo de toma de decisiones.
 1. Decidir Estrategia de Producto.
 2. Dividir Historias de Usuario.
 3. Priorizar Elementos del Backlog.
@@ -70,7 +73,8 @@ Un Product Owner se desenvuelve en las siguientes dimensiones o asume las siguie
 6. Gestionar Demanda.
 7. Dedicar capacidad a Deuda Técnica.
 
-### Como Colaborador: Apoyar a las personas en el descubrimiento, definir objetivos, aclarar Backlog o analizar las necesidades del cliente.
+### Como Colaborador
+Apoyar a las personas en el descubrimiento, definir objetivos, aclarar Backlog o analizar las necesidades del cliente.
 1. Dedicar tiempo al equipo (100%).
 2. Colaborar con Marco de Trabajo.
 3. Gestionar Tipos de Trabajo.
@@ -80,14 +84,16 @@ Un Product Owner se desenvuelve en las siguientes dimensiones o asume las siguie
 7. Negociar Cambios de Alcance.
 8. Colaborar en Gestión de Portafolio.
 
-### Como Experimentador: Entiende al trabajo como experimentos basado en hipótesis, la necesidad de probar cosas nuevas, explorar e innovar.
+### Como Experimentador
+Entiende al trabajo como experimentos basado en hipótesis, la necesidad de probar cosas nuevas, explorar e innovar.
 1. Diseñar Productos Mínimos Viables (MVP).
 2. Asegurar Calidad desde el Inicio.
 3. Definir, Medir y Evaluar Resultados con MoS.
 4. Inspeccionar y Adaptar Progreso.
 5. Analizar y Mejorar Procesos para Excelencia Operacional.
 
-### Como Influenciador: El Influyente utiliza habilidades efectivas de comunicación, negociación e influencia para lograr que las personas se unan a la causa.
+### Como Influenciador
+El Influyente utiliza habilidades efectivas de comunicación, negociación e influencia para lograr que las personas se unan a la causa.
 1. Liderar Servicialmente Ágil.
 2. Gestionar Stakeholders.
 3. Alinear Estratégicamente.
@@ -96,6 +102,5 @@ Un Product Owner se desenvuelve en las siguientes dimensiones o asume las siguie
 6. Negociar con Stakeholders y Clientes.
 
 ## Tecnologías
-
 - Herramientas de gestión de proyectos ágiles como: Jira y Confluence (Atlassian).
 - Herramientas de gestión de tareas como: Planner (suite Microsoft 365).
