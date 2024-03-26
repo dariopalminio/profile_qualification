@@ -68,18 +68,18 @@ Como tomador de decisiones debe mantener corto el tiempo de salida al mercado, a
 1. Decidir Estrategia de Producto.
 2. Dividir Historias de Usuario.
 3. Priorizar Elementos del Backlog.
-4. Planificar el Incremento.
-5. Aceptar Incremento.
+4. Planificar el Incremento de Producto.
+5. Aceptar Incremento de Producto.
 6. Gestionar Demanda.
 7. Dedicar capacidad a Deuda Técnica.
 
 ### Como Colaborador
 Apoyar a las personas en el descubrimiento, definir objetivos, aclarar Backlog o analizar las necesidades del cliente.
 1. Dedicar tiempo al equipo (100%).
-2. Colaborar con Marco de Trabajo.
+2. Colaborar con Marco de Trabajo (Scrum, Kanban, etc.).
 3. Gestionar Tipos de Trabajo.
 4. Gestionar Riesgos y Dependencias.
-5. Respetar DoR y DoD.
+5. Respetar una definición de listo (DoR) y una definición de terminado (DoD).
 6. Modelar y Explicar Alcance y Dominio.
 7. Negociar Cambios de Alcance.
 8. Colaborar en Gestión de Portafolio.
@@ -100,6 +100,31 @@ El Influyente utiliza habilidades efectivas de comunicación, negociación e inf
 4. Comunicar Progreso.
 5. Influir a Stakeholders.
 6. Negociar con Stakeholders y Clientes.
+
+## Técnicas empleadas
+
+### Como Visionario
+-Investigar el Mercado: Benchmarking, Benchmarking funcional, Análisis comparativo, Curva de valor, Oceabo Azul, Product Market Fit Canvas, Análisis de precios y costos
+- Descubrimiento Continuo: Design Thinking, Product Discovery, Dual Tracking, Need Finding, Feature Discovery, Design Sprint, Agile Inception (Lean Inception/Inception Desk), Opportunity Mapping (Opportunity Solution Tree)
+- Rentabilizar Producto: Lean Business Canvas, Business Model Canvas, Fit for Purpose, Opportunity Assessment, Business Case, Cost-Benefit Analysis
+- Definir Estrategia en un Árbol de Valor: LVT (Goal, Bet, MoS), One Metric that Matters (OMTM), North Start Metric, OKR, Balanced Scorecard, Matriz BCG, 3 Horizons Model, FODA, Porter, Blue Ocean, Matriz de Ansoff, Triángulo DELTA, Hypothesis Statement, Opportunity Solution Tree
+- Definir Visión de Producto: Vision Statement, Qué es/Qué no es, Product Vision Board, Product Vision Box, Vision Statement, Elevator Test (Elevator Pitch), One-Liner Deck, Golden Circle (Simon Sinek)
+- Especificar Características: Feature by Example (BDD), Feature Mapping, Uses Cases (CASE Tool), User Flow (UI Storyboards), Screen sketches, BDD, Impact Mapping, Concrete UI prototype
+- Crear y Refinar Backlog: Refinement Activity (Scrum), Story Mapping, Product Backlog Building Canvas, Wireframe Flow, Website Mapping, Inception Desk
+- Visibilizar Backlog: Kanban Board, Upstream & Downstream Kanban, Software tools (Jira, Miro, Confluence)
+### Como Voz del Cliente
+
+
+### Como Decisor
+
+
+### Como Colaborador
+
+
+### Como Experimentador
+
+
+### Como Influenciador
 
 ## Tecnologías
 - Herramientas de gestión de proyectos ágiles como: Jira y Confluence (Atlassian).
