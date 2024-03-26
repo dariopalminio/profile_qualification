@@ -28,26 +28,26 @@ No cuenta con personal a su cargo. Facilita y lidera metodológicamente a líder
 
 ## Conocimientos y competencias según dimensiones del rol
 
-**Agile-Lean Practitioner**
+### Agile-Lean Practitioner
 - **Agile**: Conocer, practicar y saber explicar el Manifiesto Ágil, prácticas ágiles, mentalidad ágil. Conocer en profundidad algún marcos o metodologías livianas de desarrollo como: Scrum, Kanban, Scrumban y/o XP.
 - **Lean**: Conocimientos en Lean, Lean Thinking y/o Lean Manufacturing.
 
-**Professional Coaching**
+### Professional Coaching
 - **Coaching**: Capacidades de coaching y de ayudar mediante la indagación a líderes, miembros de equipos y a equipos completos. Capacidad para ayudar en sus problemas y a buscar sus propias soluciones con un enfoque en la cultura, mentalidad y el comportamiento Agile y Lean.
 
-**Facilitating**
+### Facilitating
 - **Facilitación** Habilidades de facilitación y moderación de reuniones efectivas y sesiones de trabajo con dinámicas de grupo conducentes a resultados efectivos y eficientes (estructuras liberadoras, etc.).
 
-**Teaching**
+### Teaching
 - **Formador**: Capacidad de enseñanza (teaching) y mentoreo (mentoring); capacidades de docencia (trainer/teacher) para un grupo de personas.
 
-**Mentoring**
+### Mentoring
 - **Mentoreo**: Realiza mentoring a profesionales y líderes guiando, inspirando y ayudando en el desarrollo de su carrera profesional.
 
-**Technical Mastery**
+### Technical Mastery
 - **Ingeniería de Software**: En el ámbito de desarrollo de software necesita conocimientos técnicos y de ingeniería de software (DevOps), informática y la industria TI.
 
-**Transformation Mastery**
+### Transformation Mastery
 - **Liderazgo**: Capacidad de liderazgo y de construcción de equipo (Team Building).
 - **Framework de Escalado**: Es deseable conocimiento en framework de escalado ágil y modelos operativos: Nexus, SAFe, LeSS, Disciplined Agile, EDGE, etc.
 - **Administración y Gestión**: Conocimientos administrativos básicos y de gestión ágil como: Management 3.0.
@@ -56,7 +56,7 @@ No cuenta con personal a su cargo. Facilita y lidera metodológicamente a líder
 - **Modelos de Madurez**:  Conocimientos en algún playbook y/o modelo de madurez ágil (atlassian team playbook, etc.).
 - **Gestión de Portafolio Ágil**: Conocimiento en framework de gestión de portafolio y alineamiento estratégico como Balanced Scorecard, OKR (Andy Grove), EDGE con Lean Value Tree (Jim Highsmith), Opportunity Solution Tree (Teresa Toorres).
 
-**Business Mastery**
+### Business Mastery
 - **Conocimientos de negocio**: modelado de negocios (Business Model Canvas) y métricas de negocio (KPIs). 
 - **Product Management**: Conocimientos en desarrollo de productos, marcos de desarrollo de producto ágil (Design Thinking) y métricas de producto o de embudo de compra (AAARRR/RARRA Pirate Metrics, etc.).
 
