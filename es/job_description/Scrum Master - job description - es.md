@@ -2,11 +2,14 @@
 
 ## Otros Nombres
 
-Scrum Master, Facilitador de Scrum
+Scrum Master, Facilitador de Scrum, Maestro de Scrum
 
 ## Descripción
 
 Líder servicial de un equipo ágil que trabaja bajo el marco Scrum, encargado de facilitar y asegurar el ‘delivery’ de calidad del equipo, responsable de establecer el marco de trabajo Scrum y de asegurar la mejora continua. El Scrum Master es responsable de la efectividad del Equipo Scrum, ya que ayuda al Equipo Scrum a mejorar la forma en que el equipo trabaja en conjunto para crear valor de manera continua. También apoya al equipo para solucionar o escalar impedimentos y ayuda a resolver problemas operativos y de gestión en el equipo. Su propósito es lograr que el equipo saque el máximo provecho del marco de trabajo en lograr sus objetivos y desarrollando un producto de calidad. 
+
+## Contexto
+El rol Scrum Master fue originado en el marco de trabajo Scrum para señalar al líder de un equipo que desarrolla software o un producto, de manera ágil, siguiendo la guía de Scrum definida por Scrum.org. El rol es descrito tanto por Scrum.org como ScrumAlliance como un facilitador y entrenador que ayuda al equipo de Scrum y a la organización en general a comprender y aplicar la teoría y la práctica del Scrum. Ayuda al equipo de Scrum a trabajar de manera más eficaz eliminando con habilidad obstáculos y distracciones que pueden impedir que el equipo cumpla con las metas. A diferencia de roles más tradicionales como el de Project Manager, un Scrum Master practica un enfoque ágil (siguiendo el manifiesto ágil para el desarrollo de software), un enfoque más orientado a productos que a proyectos y practica un liderazgo servicial buscando formar un equipo autoorganizado.
 
 ## Formación principal y académica
 
