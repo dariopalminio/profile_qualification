@@ -40,35 +40,60 @@ No suele contar con personas a cargo (gestiona productos no personas) aunque sí
 13.	**Ética e Integridad**: Capacidad de ganarse la confianza de stakeholders y obtener requisitos en torno a cuestiones delicadas y garantizar que las recomendaciones se evalúen adecuadamente y capacidad de poder comportarse éticamente para ganarse la confianza y el respeto de las partes interesadas; capacidad de liderazgo, influencia y trabajo en equipo que permita sinergia entre las partes interesadas y el equipo de desarrollo o de proyecto.
 
 ## Responsabilidades y funciones
-Las responsabilidades y funciones principales del rol son las siguientes:
-
-1.	**Maximizar el Valor de Producto**: Debe 'maximizar el Valor' entregado y para ello debe conocer el negocio, saber qué quiere construir, ser capaz de crear nuevos elementos que creen valor y saber definir "qué es valor" para el producto que desarrolla.
-2.	**Rentabilizar el Producto**: Para 'maximizar el Valor' y lograr resultados ('outcome sobre output'), debe conocer y manejar el retorno de la inversión ROI y KPIs necesarios e impactados.
-3.	**Investigar el Mercado y hacer Descubrimiento Continuo**: Realizar benchmarking, descubre, identifica y valida, de manera temprana y de forma continua, las necesidades, desafíos y oportunidades de los usuarios, para descubrir cuál es el producto correcto a construir
-4.	Saber explicar y trasmitir a los stakeholders cuál es el valor del producto en el que se está invirtiendo y la idea de negocio. Busca resaltar aquellos beneficios que realmente aportan un valor añadido al producto y el modelo de negocio detrás de él. Debe ser un buen comunicador.
-5.	**Definir Visión de Producto**: Define y comunica asertivamente el objetivo y la visión del Producto.
-6.	**Crear y Ordenar el Product Backlog**: Debe asegurar la existencia de un Product Backlog ordenado y de mantener su orden, para lo cual debe saber 'priorizar' y 'refinar' ítems de backlog usando prácticas ágiles.
-7.	**Definir Requerimientos e Historias de Usuario**: Debe ser responsable de analizar requerimientos, definirlos, desglosarlos y escribir o definir las historias de usuario. El Product Owner no tiene que escribirlas físicamente, puede delegar que lo hagan otros miembros. Sin embargo, la persona que responderá siempre a terceros, será él, por tanto, siempre debe participar en la definición y cuidar que se priorice el máximo Valor al mínimo coste. 
-8.	**Visibilizar Backlog**: Busca construir un Product Backlog que sea visible, transparente y claro para todos, y muestre en qué trabajará el Equipo.
-9.	**Alinear Estratégicamente**: Atiende el alineamiento del producto y equipo con la visión y estrategia organizacional. Es responsable de ordenar los elementos en el Product Backlog para el mejor logro de los objetivos y de la misiones del equipo y de la iniciativa o producto que desarrolla.
-10.	**Análisis Empresarial**: Realizar análisis empresarial para comprender el estado actual de una organización (AS IS) y para servir como base para la identificación posterior de las necesidades empresariales y oportunidades (TO BE). Define y analiza problemas de negocio, el desarrollo de casos de negocios, estudios de factibilidad y la definición del alcance de la solución.
-11.	**Análisis de Requerimientos**: Realiza modelado y análisis empresarial para definir requerimientos y validar soluciones que satisfagan las necesidades empresariales. Prioriza y elabora progresivamente los requisitos de las partes interesadas y de la solución para permitir que el equipo de desarrollo o del proyecto implemente una solución que satisfaga las necesidades del patrocinador.
-12.	**Pruebas de Aceptación**: colaborar con su equipo para detallar historias con criterios de aceptación y ejemplos en forma de pruebas de aceptación orientados a dominios de problema de negocio y en las pruebas de aceptación. Acepta o rechaza Incremento de Producto. Es decir que es quien tiene la última palabra en la aceptación de una historia de usuario para ser parte de algún Release.
-13.	**Pronosticar Lanzamientos**: Proyectar plazos y definir marcos o ventanas de Entregas, para lo cual construye y propone, junto al equipo, hojas de ruta (roadmap) y agendas de entregas (release plan, etc.).
-14.	**Colaborar con Marco deTrabajo**: Comprende y aplica el marco de trabajo usado de forma efectiva y participa activamente en los diferentes eventos o ceremonias con el equipo como: la planeación, daily (si es necesario), refinamiento, revisión y retrospectiva. En la Review, el Product Owner debe poder demostrar y explicar los elementos del Product Blacklog, comentar su estado y hacer un feedback relacionando el estado del mercado en ese momento.
-15.	**Planificar el Incremento**: En la planeación debe definir el objetivo del período de trabajo (Sprint Goal). Además, colaborar con el equipo de desarrollo a comprender las partes del Product Blacklog y estar libre de acordar el alcance del Sprint o iteración de trabajo.
-16.	**Coordinarse con otros Product Owner**: Durante cada Planificación de Incremento, en reuniones como la de sincronización de POs, el PO visibiliza y coordina las dependencias inter-producto con otros POs.
-17.	**Colaborar con el equipo de desarrollo**: Debe participar como un miembro más del equipo para hacer sinergia, resolver impedimentos de negocio, asegurar entendimiento de los problemas de negocio y asegurar el éxito en construir el mejor producto posible. Debe tener capacidad de decidir, y estar dispuesto siempre para el equipo.
-18.	**Gestionar Stakeholders**: Relacionarse y gestionar diferentes tipos de partes interesadas, tanto dentro como fuera de su organización, para lo cual debe hablar con todos los stakeholders (usuarios, clientes, Business Owner, Gerentes, etc.).
-
-## Posturas o dimensiones del rol
 Un Product Owner se desenvuelve en las siguientes dimensiones o asume las siguientes posturas:
-- **Visionario**: Visionario con la visión del producto, estrategia, metas comerciales, objetivos y negocio.
-- **Colaborador**: Apoyar a las personas en el descubrimiento, definir objetivos, aclarar Backlog o analizar las necesidades del cliente. 
-- **Decisor**: Como tomador de decisiones debe mantener corto el tiempo de salida al mercado, al mantener corto el tiempo de toma de decisiones.
-- **Voz del Cliente**: Es representante del cliente y busca entender lo que necesitan los clientes, cuáles son sus desafíos, qué dolores y ganancias tienen. 
-- **Influenciador**: El Influyente utiliza habilidades efectivas de comunicación, negociación e influencia para lograr que las personas se unan a la causa.
-- **Experimentador**: Entiende al trabajo como experimentos basado en hipótesis, la necesidad de probar cosas nuevas, explorar e innovar.
+
+### Como Visionario: Visionario con la visión del producto, estrategia, metas comerciales, objetivos y negocio.
+1. Investigar el Mercado (Benchmarking).
+2. Realizar Descubrimiento Continuo.
+3. Rentabilizar Producto.
+4. Definir Visión de Producto.
+5. Definir Estrategia en un Árbol de Valor.
+6. Analizar y Definir Requerimientos.
+7. Crear y Refinar Backlog.
+8. Visibilizar Backlog.
+9. Pronosticar Lanzamientos.
+
+### Como Voz del Cliente: Es representante del cliente y busca entender lo que necesitan los clientes, cuáles son sus desafíos, qué dolores y ganancias tienen. 
+1. Describir al Usuario.
+2. Crear y Optimizar Propuesta de Valor.
+3. Mejorar Experiencia del Cliente.
+4. Escribir Historias de Usuario.
+5. Obtención de Retroalimentación del Cliente.
+6. Asegurar Continuidad Operacional.
+
+### Como Decisor: Como tomador de decisiones debe mantener corto el tiempo de salida al mercado, al mantener corto el tiempo de toma de decisiones.
+1. Decidir Estrategia de Producto.
+2. Dividir Historias de Usuario.
+3. Priorizar Elementos del Backlog.
+4. Planificar el Incremento.
+5. Aceptar Incremento.
+6. Gestionar Demanda.
+7. Dedicar capacidad a Deuda Técnica.
+
+### Como Colaborador: Apoyar a las personas en el descubrimiento, definir objetivos, aclarar Backlog o analizar las necesidades del cliente.
+1. Dedicar tiempo al equipo (100%).
+2. Colaborar con Marco de Trabajo.
+3. Gestionar Tipos de Trabajo.
+4. Gestionar Riesgos y Dependencias.
+5. Respetar DoR y DoD.
+6. Modelar y Explicar Alcance y Dominio.
+7. Negociar Cambios de Alcance.
+8. Colaborar en Gestión de Portafolio.
+
+### Como Experimentador: Entiende al trabajo como experimentos basado en hipótesis, la necesidad de probar cosas nuevas, explorar e innovar.
+1. Diseñar Productos Mínimos Viables (MVP).
+2. Asegurar Calidad desde el Inicio.
+3. Definir, Medir y Evaluar Resultados con MoS.
+4. Inspeccionar y Adaptar Progreso.
+5. Analizar y Mejorar Procesos para Excelencia Operacional.
+
+### Como Influenciador: El Influyente utiliza habilidades efectivas de comunicación, negociación e influencia para lograr que las personas se unan a la causa.
+1. Liderar Servicialmente Ágil.
+2. Gestionar Stakeholders.
+3. Alinear Estratégicamente.
+4. Comunicar Progreso.
+5. Influir a Stakeholders.
+6. Negociar con Stakeholders y Clientes.
 
 ## Tecnologías
 
