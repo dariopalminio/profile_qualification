@@ -53,7 +53,7 @@ Cuenta con personas a cargo en un equipo de desarrollo o lidera un equipo de ent
 3.	Ayudar a quienes están fuera del equipo de desarrollo a comprender cuáles de sus interacciones útiles y cuáles no con el equipo. Ayuda a todos a cambiar estas interacciones para maximizar el valor creado por el equipo.
 4.	Ayudar a todos a cambiar y mejorar las interacciones de las personas para maximizar el valor que entrega el equipo.
 
-### Con el equipo:
+### Responsabilidades con el equipo:
 
 5.	Fomenta un buen clima de trabajo, confianza y seguridad psicológica en el equipo para potenciar la sinergia y el trabajo en equipo.
 6.	Promover y guiar a que se desarrolle software de calidad y que se apliquen buenas prácticas de ingeniería de software.
@@ -66,7 +66,7 @@ Cuenta con personas a cargo en un equipo de desarrollo o lidera un equipo de ent
 13.	Buscar lograr un equipo balanceado, sostenible y de alto rendimiento. Gestión de la carga de trabajo del equipo de desarrollo.
 14.	Realizar seguimiento y control del progreso mediante métricas adecuadas (como velocidad, capacidad del equipo, calidad técnica, Four Key Metrics o DORA Metrics, etc.), asegurando la transparencia en el estatus y desempeño en todo momento; para asegurar el cumplimiento de los objetivos, eficiencia del equipo y el desarrollo, y encontrar y mostrar puntos de mejora.
 
-### Con el Product Owner:
+### Responsabilidades con el Product Owner:
 
 15.	Ayudar a encontrar técnicas para una definición eficaz de los objetivos del producto y la gestión de los retrasos en el producto;
 16.	Ayudar a comprender la necesidad de elementos de trabajo pendiente claros y concisos y a escribir requerimientos funcionales (características o historias de usuario) claros, para facilitar la conversación con el equipo y lograr un buen entendimiento de los problemas a resolver;
@@ -75,7 +75,7 @@ Cuenta con personas a cargo en un equipo de desarrollo o lidera un equipo de ent
 19.	Ayudar a su crecimiento profesional y al mejoramiento de sus habilidades.
 20.	Colaborar estrechamente con el Product Owner para garantizar la alineación entre los objetivos del negocio, las necesidades técnicas y el desarrollo del producto.
 
-### Con el Líder Técnico:
+### Responsabilidades con el Líder Técnico:
 
 21. Colaborar estrechamente con el Líder Técnico para garantizar la alineación entre los objetivos del negocio, las necesidades técnicas y el desarrollo del producto.
 22. Ayuda al Líder Técnico a evaluar nivel de seniority, competencias (Matriz de competencias, etc.) y nivel de prácticas técnicas (test unitario, CI/CD, versionamiento, etc.) del equipo; para nivelar conocimientos técnicos, entender desafíos técnicos actuales y tener una línea base de mejora técnica.
@@ -83,7 +83,7 @@ Cuenta con personas a cargo en un equipo de desarrollo o lidera un equipo de ent
 24. Facilita medir, controlar y mejorar nivel técnico mediante métricas (métricas de calidad, Four key Metrics, etc.) para ayuda a optimizar nivel técnico con foco en mejora.
 25. Facilita y ayuda al Líder Técnico a escribir requerimientos técnicos (requerimientos no funcionales), cómo impactan en atributos de calidad y qué beneficios genera; para disminuir deuda técnica y mantener un producto técnicamente actualizado (moderno o de vanguardia).
 
-### Con la organización:
+### Responsabilidades con la organización:
 
 26. Asegurar delivery, es decir software funcionando. Representar el delivery del producto de la capacidad de negocio, encargándose de liderar el desarrollo, evolución, despliegue y explotación del producto (o servicio), para asegurar su creación, evolución, entrega y operación exitosa.
 27. Dar visibilidad del trabajo y de los resultados del equipo. Asegurar que las Workspace Technology de gestión (como Jira) se encuentren actualizadas y con integridad adecuada.
