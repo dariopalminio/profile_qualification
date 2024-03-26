@@ -8,7 +8,7 @@ El Analista de Negocios se enfoca en comprender las necesidades de negocio de un
 
 ## Contexto
 
-El rol Business Analyst se ha utilizado tradicionalmente en diversos marcos de trabajo y metodologías de gestión de proyectos, especialmente en entornos de desarrollo de software y sistemas de información tradicionales. Algunos de los marcos de trabajo más comunes donde se ha empleado el rol de Business Analyst incluyen: Waterfall (Cascada), Modelo en Espiral, Metodologías Tradicionales de Gestión de Proyectos (Stage-Gate, PRINCE2, y PMBOK) y enfoques de Desarrollo de Software Personalizados.
+El rol Business Analyst se ha utilizado tradicionalmente en diversos marcos de trabajo y metodologías de gestión de proyectos, especialmente en entornos de desarrollo de software y sistemas de información tradicionales. Algunos de los marcos de trabajo más comunes donde se ha empleado el rol de Business Analyst incluyen: Waterfall (Cascada), Modelo en Espiral, RUP, Metodologías Tradicionales de Gestión de Proyectos (Stage-Gate, PRINCE2, y PMBOK) y enfoques de Desarrollo de Software Personalizados.
 Es importante destacar que, si bien el rol de Business Analyst tiene una historia sólida en enfoques tradicionales de gestión de proyectos, también se ha adaptado a enfoques más ágiles, como Scrum y Kanban, donde se enfoca en la colaboración, la adaptación continua y la entrega de valor; y donde el rol participa como un desarrollador más en un equipo ágil colaborando con un Product Owner, ya que comparten siertas responsabilidades tácticas, o como un colaborador en un equipo de producto.
 
 ## Formación principal y académica
