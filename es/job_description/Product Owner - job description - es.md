@@ -104,7 +104,7 @@ El Influyente utiliza habilidades efectivas de comunicación, negociación e inf
 ## Técnicas empleadas
 
 ### Como Visionario
--Investigar el Mercado: Benchmarking, Benchmarking funcional, Análisis comparativo, Curva de valor, Oceabo Azul, Product Market Fit Canvas, Análisis de precios y costos
+- Investigar el Mercado: Benchmarking, Benchmarking funcional, Análisis comparativo, Curva de valor, Oceabo Azul, Product Market Fit Canvas, Análisis de precios y costos
 - Descubrimiento Continuo: Design Thinking, Product Discovery, Dual Tracking, Need Finding, Feature Discovery, Design Sprint, Agile Inception (Lean Inception/Inception Desk), Opportunity Mapping (Opportunity Solution Tree)
 - Rentabilizar Producto: Lean Business Canvas, Business Model Canvas, Fit for Purpose, Opportunity Assessment, Business Case, Cost-Benefit Analysis
 - Definir Estrategia en un Árbol de Valor: LVT (Goal, Bet, MoS), One Metric that Matters (OMTM), North Start Metric, OKR, Balanced Scorecard, Matriz BCG, 3 Horizons Model, FODA, Porter, Blue Ocean, Matriz de Ansoff, Triángulo DELTA, Hypothesis Statement, Opportunity Solution Tree
@@ -112,19 +112,42 @@ El Influyente utiliza habilidades efectivas de comunicación, negociación e inf
 - Especificar Características: Feature by Example (BDD), Feature Mapping, Uses Cases (CASE Tool), User Flow (UI Storyboards), Screen sketches, BDD, Impact Mapping, Concrete UI prototype
 - Crear y Refinar Backlog: Refinement Activity (Scrum), Story Mapping, Product Backlog Building Canvas, Wireframe Flow, Website Mapping, Inception Desk
 - Visibilizar Backlog: Kanban Board, Upstream & Downstream Kanban, Software tools (Jira, Miro, Confluence)
+- Pronosticar Lanzamientos: Activity-driven Roadmap, Value-driven Roadmap, Release Planning, Lean Forecasting, Análisis de Escenarios
 ### Como Voz del Cliente
-
-
+- Crear y Optimizar Propuesta de Valor: Value Proposition Canvas
+- Describir al Usuario: Segmentación de Clientes, Empathy Map, Arquetipos de Persona
+- Mejorar Experiencia del Cliente: Customer Journey,  Jobs to be Done (JTBD), Problem Statement, Hypothesis Statement
+- Escribir Historias de Usuario: User Story, Acceptance Criteria, Modelo 3Cs, BDD Acceptance Criteria, INVEST
+- Asegurar Continuidad Operacional: DevOps, Protocolos de Respuesta, Hotfix/Coldfix, Clasificación de defectos por gravedad y su importancia (Cem Kaner), Análisis post-mortem de incidentes
+- Obtención de Retroalimentación del Cliente: A/B testing, Entrevista, Cuestionario, Sprint Review, Sprint Review Survey, Stakeholder Satisfaction, NPS, CSAT, Start Rating
 ### Como Decisor
-
-
+- Dividir Historias de Usuario: División Vertical (Vertical Slicing), Slicing Patterns (Patrones de división y técnicas de división)
+- Priorizar Elementos del Backlog: Priorización Valor/Esfuerzo, Matriz Valor/Esfuerzo, MOSCOW, RVS (EDGE), CoD, WSJF, Eisenhower's Urgent/Important, Trade-off slide, RICE (Reach, Impact, Confidence, Effort), Purpose Alignment Model
+- Planificar el Incremento: Sprint Planning, Sprint Goal
+- Aceptar Incremento: Exploratory Testing, Criterios de Aceptación, DoD (Definition of Done)
+- Dedicar capacidad a Deuda Técnica: Technical Debt, Continuous Improvement
+- Gestionar Demanda: Product Owner role (Scrum framework), Tradeoff Priorization, Velocity, Capacity, WIP Limit, FCD, Burndown Chart
 ### Como Colaborador
-
-
+- Dedicar tiempo al equipo (100%): Scrum Guide
+- Colaborar con Marco deTrabajo: Planning, Daily (si es requerido), Refinamiento, Review, Retrospective
+- Gestionar Tipos de Trabajo: EDGE, CAPEX/OPEX, Clases de Servicio (Kanban)
+- Gestionar Riesgos y Dependencias: Mapa de dependencias, ROAM matrix, Risk Heat Map
+- Acordar y Respetar Definiciones de Listo y Terminado: Definition Of Ready (DOR), INVEST, Definition Of Done (DOD)
+- Modelar y Explicar Alcance y Dominio: User Story, Acceptance Criteria, Modelo 3Cs, BPMN, DDD, FDD, Requirements Envisioning, UML Use-Case Diagram for Usage Model, UML Class Diagram for Domain Model, Screen sketches for UI Model, UI flow diagram
+- Negociar Cambios de Alcance: User Story, Acceptance Criteria, Modelo 3Cs
+- Colaborar en Gestión de Portafolio: EDGE, Lean Portfolio Management, OKR
 ### Como Experimentador
-
-
+- Diseñar Productos Mínimos Viables (MVP): Lean Startup, Hypothesis (Hypotesis statement), MVP, Prototype, A/BTesting
+- Asegurar Calidad desde el Inicio: Gherkin y BDD, Testing Plan, Matriz de Trazabilidad, Delivery Point, Acceptance Testing, Criterios de Aceptación, User Acceptance Testing (UAT), BDD & Gherkin
+- Definir, Medir y Evaluar Resultados con MoS: MoS, Value Metrics EBMgt, KPI, Value Tree, Buyers Journey, Sales Funnel, AARRR Pirate Metrics Framework, KPI Mapp, One Metric that Matters (OMTM), North Start Metric
+- Inspeccionar y Adaptar Progreso: Roadmapping, Scrum, Kanban
+- Analizar y Mejorar Procesos para Excelencia Operacional: Service Design, Lean Thinking, Lean Manufacturing, Theory of Constraints (TOC), Value Stream Mapping (VSM), BPMN
 ### Como Influenciador
+- Liderar Servicialmente Ágil: Scrum Guide, Management 3.0, Servant Leader, Manage Up
+- Gestionar Stakeholders: Stakeholders Mapping, Impact Mapping, Layers of Resistance
+- Alinear Estratégicamente: Strategic Alignment Index, KPI, Lean Value Tree (LVT), Balanced Scorecard, OKR, One Metric that Matters (OMTM), North Start Metric
+- Comunicar Progreso: Sprint Review, Periodic Value Review, Story Telling
+- Influir y negociar con Stakeholders: Sprint Review, Show Case, Story Telling, Goldratt Change Matrix, Layers of Resistance
 
 ## Tecnologías
 - Herramientas de gestión de proyectos ágiles como: Jira y Confluence (Atlassian).
