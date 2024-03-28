@@ -30,7 +30,6 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 - **Bases de Datos**: Debe manejar bases de datos, que incluye el diseño y estructura de bases de datos relacionales (SQL) y no relacionales (NoSQL). 
 - **Patrones de diseño**: Saber sobre patrones de diseño de software (Singleton, Facade, Adapter, Strategy, Observer, etc.). 
 - **Arquitectura**: Saber sobre arquitecturas del tipo de sistema o soluciones del equipo que lidera (Cliente-Servidor, Microservicios, arquitectura basada en eventos EDA, etc.). 
-- Capacidad de analizar y traducir necesidades del negocio a soluciones de TI y de concretar, con su equipo, requerimientos de negocios. Ser nexo entre el negocio y las cuestiones técnicas, entre los tomadores de decisiones y los desarrolladores.
 - **Configuración de ambientes**: Capacidad de instalar y configurar ambientes completos de desarrollo y herramientas IDE.
 - **Estimaciones**: Capaz de realizar estimaciones y de liderar sesiones de estimaciones de un equipo sobre entregables, componentes y features de productos de software.
 
@@ -38,6 +37,7 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 - **Visión técnica global**: Tener una 'Visión Holística' y sistémica de los problemas a resolver y de las soluciones planteades, como también del equipo y producto en el ecosistema organizacional ('zoom out' y visión general).
 - **Alineación estratégica**: Capacidad de colaborar con stakeholders clave para asegurar la alineación de la estrategia tecnológica con los objetivos del negocio.
 - **Decisor técnico**: Capacidad de tomar decisiones estratégicas que optimizan el uso de los recursos tecnológicos.
+- **Traductor de requerimientos**: Capacidad de analizar y traducir necesidades del negocio a soluciones de TI y de concretar, con su equipo, requerimientos de negocios. Ser nexo entre el negocio y las cuestiones técnicas, entre los tomadores de decisiones y los desarrolladores.
 
 ### Orientado a la calidad
 - **Prioriza la calidad**: habilidad para introducir en cada etapa del desarrollo del producto prácticas de aseguramiento de calidad.
