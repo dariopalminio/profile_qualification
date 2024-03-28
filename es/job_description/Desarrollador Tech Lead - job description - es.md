@@ -43,6 +43,7 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 - **Prioriza la calidad**: habilidad para introducir en cada etapa del desarrollo del producto prácticas de aseguramiento de calidad.
 - **Control de calidad de código**: capacidad para hacer revisiones de códicgo (revisión visual, medición, revisión de a pares, etc.) y evaluar calidad de código.
 - **Dueño de la calidad del producto**: Asume la responsabilidad por la calidad del producto final y exige lo mismo a su equipo.
+- **Observabilidad**: Conocimientos en métricas de calidad, monitoreo y observabilidad.
 
 ### Líder Inspirador
 - **Liderazgo servicial**: Capacidad de liderazgo, coaching técnico y habilidades de resolución de conflictos (con y entre colegas).
