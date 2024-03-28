@@ -22,24 +22,42 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 
 ## Conocimientos y competencias
 
-1. **Ingeniería de software**: Un líder técnico debe tener una gran experiencia profesional en el desarrollo de software y un profundo conocimiento de la tecnología y en ingeniería de software.
-2. **Seniority avanzado**: Ser desarrollador senior, senior advanced, principal o profesional con más de 5 años de experiencia como ingeniero de software, desarrollador de software o puesto similar.
-3. **Conocimiento en el Stack**: Poseer conocimientos avanzados en el stack tecnológico que usa su equipo o necesarios para el sistema a desarrollar. 
-4. **Programador avanzado**: Saber programar en diferentes lenguajes de programación/scripting/markup, por ejemplo: Java, Javascript, Perl, etc. 
-5. **Bases de Datos**: Debe manejar bases de datos, que incluye el diseño y estructura de bases de datos relacionales (SQL) y no relacionales (NoSQL). 
-6. **Patrones de diseño**: Saber sobre patrones de diseño de software (Singleton, Facade, Adapter, Strategy, Observer, etc.). 
-7. **Arquitectura**: Saber sobre arquitecturas del tipo de sistema o soluciones del equipo que lidera (Cliente-Servidor, Microservicios, arquitectura basada en eventos EDA, etc.). 
-8. Capacidad de analizar y traducir necesidades del negocio a soluciones de TI y de concretar, con su equipo, requerimientos de negocios. Ser nexo entre el negocio y las cuestiones técnicas, entre los tomadores de decisiones y los desarrolladores.
-9. **Configuración de ambientes**: Capacidad de instalar y configurar ambientes completos de desarrollo y herramientas IDE.  
-10. **Liderazgo**: Capacidad de liderazgo, coaching técnico y habilidades de resolución de conflictos (con y entre colegas). 
-11. **Mentor técnico**: Capacidades didácticas, de mentoreo, de explicación y formación en aspectos técnico para miembros del equipo y stakeholders. 
-12. **Comunicación efectiva**: Habilidades de comunicación para comunicarse con stakeholders de la organización de forma asertiva. 
-13. Capaz de organizar el trabajo técnico del equipo.
-14. **Estimaciones**: Capaz de realizar estimaciones y de liderar sesiones de estimaciones de un equipo sobre entregables, componentes y features de productos de software.
-15. **Visión técnica global**: Tener una 'Visión Holística' y sistémica de los problemas a resolver y de las soluciones planteades, como también del equipo y producto en el ecosistema organizacional ('zoom out' y visión general).
-16. **Aprendizaje continuo**:  la capacidad de aprender de los errores.
-17. **Trabajo en equipo**: Capacidad para hacer contribuciones significativas y de movilizar e impulsar el éxito de su equipo.
-18. **Metodologías Ágiles**: Conocimiento o experiencia en equipos ágiles y en la aplicación de prácticas ágiles como Scrum, Kanban, Lean y DevOps para mejorar la colaboración, la entrega continua y la calidad del software.
+### Técnico Experto
+- **Ingeniería de software**: Un líder técnico debe tener una gran experiencia profesional en el desarrollo de software y un profundo conocimiento de la tecnología, en ingeniería de software y en aseguramiento de calidad del software.
+- **Seniority avanzado**: Ser desarrollador senior, senior advanced, principal o profesional con más de 5 años de experiencia como ingeniero de software, desarrollador de software o puesto similar.
+- **Conocimiento en el Stack**: Poseer conocimientos avanzados en el stack tecnológico que usa su equipo o necesarios para el sistema a desarrollar. 
+- **Programador avanzado**: Saber programar en diferentes lenguajes de programación/scripting/markup, por ejemplo: Java, Javascript, Perl, etc. 
+- **Bases de Datos**: Debe manejar bases de datos, que incluye el diseño y estructura de bases de datos relacionales (SQL) y no relacionales (NoSQL). 
+- **Patrones de diseño**: Saber sobre patrones de diseño de software (Singleton, Facade, Adapter, Strategy, Observer, etc.). 
+- **Arquitectura**: Saber sobre arquitecturas del tipo de sistema o soluciones del equipo que lidera (Cliente-Servidor, Microservicios, arquitectura basada en eventos EDA, etc.). 
+- Capacidad de analizar y traducir necesidades del negocio a soluciones de TI y de concretar, con su equipo, requerimientos de negocios. Ser nexo entre el negocio y las cuestiones técnicas, entre los tomadores de decisiones y los desarrolladores.
+- **Configuración de ambientes**: Capacidad de instalar y configurar ambientes completos de desarrollo y herramientas IDE.
+- **Estimaciones**: Capaz de realizar estimaciones y de liderar sesiones de estimaciones de un equipo sobre entregables, componentes y features de productos de software.
+
+### Visionario y Estratega 
+- **Visión técnica global**: Tener una 'Visión Holística' y sistémica de los problemas a resolver y de las soluciones planteades, como también del equipo y producto en el ecosistema organizacional ('zoom out' y visión general).
+- **Alineación estratégica**: Capacidad de colaborar con stakeholders clave para asegurar la alineación de la estrategia tecnológica con los objetivos del negocio.
+- **Decisor técnico**: Capacidad de tomar decisiones estratégicas que optimizan el uso de los recursos tecnológicos.
+
+### Líder Inspirador
+- **Liderazgo servicial**: Capacidad de liderazgo, coaching técnico y habilidades de resolución de conflictos (con y entre colegas).
+- - **Motivador**: Capacidad de motivar e inspirar al equipo a alcanzar altos estándares de calidad en arquitectura e ingeniería.
+
+### Comunicador Efectivo
+- **Comunicación efectiva**: Habilidades de comunicación para comunicarse con stakeholders de la organización de forma asertiva y traducir términos y conceptos técnicos a profesionales de otras disciplinas. 
+- Capaz de organizar el trabajo técnico del equipo.
+- **Trabajo en equipo**: Capacidad para fomentar buena comunicación y coordinación técnica en su equipo para hacer contribuciones significativas, trabajo en equipo y movilizar e impulsar el éxito de su equipo.
+
+### Cultivador de Talento
+- **Referente técnico**: Capacidad de ser referente técnico y ser la persona a quien consultar ante dudas y problemas técnicos.
+- **Mentor técnico**: Guía y apoya a los miembros del equipo para alcanzar su máximo potencial.
+- **Forador técnico**: Capacidades didácticas, de mentoreo, de explicación y formación en aspectos técnico para miembros del equipo y stakeholders.
+- **Feedback**: Capaz de brindar retroalimentación específica y oportuna que ayuda a los miembros del equipo a mejorar sus habilidades y conocimientos.
+
+### Adaptable y resiliente
+- **Aprendizaje continuo**:  la capacidad de aprender de los errores y mantenerse constántemente actualizado tecnológicamente.
+- **Flexible**: Es flexible y adaptable al cambio, capaz de ajustar la estrategia tecnológica en función de las nuevas necesidades.
+- **Pensador ágil**: Conocimiento o experiencia en agilidad, equipos ágiles y en la aplicación de prácticas ágiles como Scrum, Kanban, Lean y DevOps para mejorar la colaboración, la entrega continua y la calidad del software.
 
 ## Responsabilidades y funciones
 
