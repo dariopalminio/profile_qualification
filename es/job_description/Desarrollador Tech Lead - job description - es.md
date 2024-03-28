@@ -23,7 +23,7 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 ## Conocimientos y competencias
 
 ### Técnico Experto
-- **Ingeniería de software**: Un líder técnico debe tener una gran experiencia profesional en el desarrollo de software y un profundo conocimiento de la tecnología, en ingeniería de software y en aseguramiento de calidad del software.
+- **Ingeniería de software**: Un líder técnico debe tener una gran experiencia profesional en el desarrollo de software y un profundo conocimiento de la tecnología y en ingeniería de software.
 - **Seniority avanzado**: Ser desarrollador senior, senior advanced, principal o profesional con más de 5 años de experiencia como ingeniero de software, desarrollador de software o puesto similar.
 - **Conocimiento en el Stack**: Poseer conocimientos avanzados en el stack tecnológico que usa su equipo o necesarios para el sistema a desarrollar. 
 - **Programador avanzado**: Saber programar en diferentes lenguajes de programación/scripting/markup, por ejemplo: Java, Javascript, Perl, etc. 
@@ -39,12 +39,15 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 - **Alineación estratégica**: Capacidad de colaborar con stakeholders clave para asegurar la alineación de la estrategia tecnológica con los objetivos del negocio.
 - **Decisor técnico**: Capacidad de tomar decisiones estratégicas que optimizan el uso de los recursos tecnológicos.
 
+### Orientado a la calidad
+- **Prioriza la calidad**: habilidad para introducir en cada etapa del desarrollo del producto prácticas de aseguramiento de calidad.
+- **Control de calidad de código**: capacidad para hacer revisiones de códicgo (revisión visual, medición, revisión de a pares, etc.) y evaluar calidad de código.
+- **Dueño de la calidad del producto**: Asume la responsabilidad por la calidad del producto final y exige lo mismo a su equipo.
+
 ### Líder Inspirador
 - **Liderazgo servicial**: Capacidad de liderazgo, coaching técnico y habilidades de resolución de conflictos (con y entre colegas).
 - **Motivador**: Capacidad de motivar e inspirar al equipo a alcanzar altos estándares de calidad en arquitectura e ingeniería.
 - **Organizador técnico**: Capaz de organizar el trabajo técnico del equipo.
-
-### Comunicador Efectivo
 - **Comunicación efectiva**: Habilidades de comunicación para comunicarse con stakeholders de la organización de forma asertiva y traducir términos y conceptos técnicos a profesionales de otras disciplinas. 
 - **Trabajo en equipo**: Capacidad para fomentar buena comunicación y coordinación técnica en su equipo para hacer contribuciones significativas, trabajo en equipo y movilizar e impulsar el éxito de su equipo.
 
