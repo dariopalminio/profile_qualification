@@ -41,11 +41,11 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 
 ### Líder Inspirador
 - **Liderazgo servicial**: Capacidad de liderazgo, coaching técnico y habilidades de resolución de conflictos (con y entre colegas).
-- - **Motivador**: Capacidad de motivar e inspirar al equipo a alcanzar altos estándares de calidad en arquitectura e ingeniería.
+- **Motivador**: Capacidad de motivar e inspirar al equipo a alcanzar altos estándares de calidad en arquitectura e ingeniería.
+- **Organizador técnico**: Capaz de organizar el trabajo técnico del equipo.
 
 ### Comunicador Efectivo
 - **Comunicación efectiva**: Habilidades de comunicación para comunicarse con stakeholders de la organización de forma asertiva y traducir términos y conceptos técnicos a profesionales de otras disciplinas. 
-- Capaz de organizar el trabajo técnico del equipo.
 - **Trabajo en equipo**: Capacidad para fomentar buena comunicación y coordinación técnica en su equipo para hacer contribuciones significativas, trabajo en equipo y movilizar e impulsar el éxito de su equipo.
 
 ### Cultivador de Talento
