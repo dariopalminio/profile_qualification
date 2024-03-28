@@ -77,6 +77,7 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 - **Decisiones Técnicas**: Toma decisiones estratégicas que optimizan el uso de los recursos tecnológicos.
   
 ### Orientado a la calidad
+- **Prioriza la calidad**: introduce en cada etapa del desarrollo de software prácticas de aseguramiento de calidad y testing. Busca mejorar el nivel de calidad del desarrollo y encontrar un equilibrio óptimo entre calidad y costo.
 - **Realizar Revisión de Código**: Audita y hace revisión de código y feedback en actividades de 'code quality checks', pairing, peer-review (pull-request) y mood-programing. Supervisar/inspeccionar el software y al equipo de desarrollo y garantizar que el software cumple con todos los requerimientos no funcionales.
 - **Monitorear métricas del desarrollo**: Monitorear, en función de mejorar el delivery, un conjunto de métricas técnicas del equipo y de calidad de software, como por ejemplo: Pull Request Lead Time, Throughput, Time from First Commit to Merge, Deploy Frequency, Number of Technical Debts, Bug in Production, testing coverage, etc.
 
