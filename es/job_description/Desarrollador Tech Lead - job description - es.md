@@ -54,7 +54,7 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 ### Cultivador de Talento
 - **Referente técnico**: Capacidad de ser referente técnico y ser la persona a quien consultar ante dudas y problemas técnicos.
 - **Mentor técnico**: Guía y apoya a los miembros del equipo para alcanzar su máximo potencial.
-- **Forador técnico**: Capacidades didácticas, de mentoreo, de explicación y formación en aspectos técnico para miembros del equipo y stakeholders.
+- **Formador técnico**: Capacidades didácticas, de mentoreo, de explicación y formación en aspectos técnico para miembros del equipo y stakeholders.
 - **Feedback**: Capaz de brindar retroalimentación específica y oportuna que ayuda a los miembros del equipo a mejorar sus habilidades y conocimientos.
 
 ### Adaptable y resiliente
