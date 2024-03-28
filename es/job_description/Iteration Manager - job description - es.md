@@ -2,7 +2,7 @@
 
 ## Otros Nombres
 
-Líder de Equipo Ágil, Team Lead
+Líder de Equipo Ágil, Team Lead, Agile Team Lead
 
 
 ## Descripción
