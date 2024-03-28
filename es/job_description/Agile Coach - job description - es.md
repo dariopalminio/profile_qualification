@@ -65,19 +65,24 @@ No cuenta con personal a su cargo. Facilita y lidera metodológicamente a líder
 
 1. Realizar capacitaciones y workshop dirigido a equipos, líderes ágiles y/o Product Owners.
 2. Comunicar la metodología Agile e inculcar las mejores prácticas.
-3. Ayudar a los equipos a comprender la teoría, las prácticas, las reglas y los valores del marco de trabajo en adopción bajo el paradigma ágil: Scrum. Kanban y/o XP. 
-4. Oficiar de líder servidor de equipos en pos de un trabajo ágil. 
-5. Ayudar a interesados o quienes están fuera del equipo de desarrollo a comprender cuáles de sus interacciones son útiles y cuáles no con el equipo. 
-6. Ayudar a interesados o quienes están fuera del equipo a entender el marco de trabajo ágil. 
-7. Auditar, evalúar y guía a equipos en su desarrollo bajo algún modelo de madurez o playbook. 
-8. Ayudar a todos los miembros de los equipos y líderes ágiles (Scrum Masters) a su tutela a cambiar y mejorar las interacciones de las personas para maximizar el valor que entrega el equipo.
-9. Promover y defender una cultura de mejora continua, estableciendo objetivos e hitos y siendo responsable de ellos.
-10. Ayudar a los líderes ágiles y equipos a mejorar técnicamente y a que se transformen en equipos de alto desempeño.
-11. Impulse el cambio cultural defendiendo una mentalidad ágil y asegúrese de que la organización esté a la vanguardia de las mejores prácticas de la industria.
-12. Defender el uso de métricas y otras medidas objetivas en todos los equipos para medir logros y 'outcomes'.
-13. Apoyar la resolución de problemas. Mantener una perspectiva objetiva sobre los problemas y resuelva problemas aplicando principios ágiles.
-14. Facilitar el aprendizaje y el desarrollo a través del coaching individual (a líderes ágiles y Product Owners) y de equipo. Entrenar, coachear y/o mentorea a diferentes roles dentro de un equipo ágil (Scrum Master, Product Owner, etc.).
-15. Apoyar la elección y configuración de herramientas que faciliten la colaboración y trabajo de equipo bajo el marco de trabajo ágil.
+3. Generar un ambiente de confianza, en donde la resolución de problemas y conflictos, tenga como objetivo la mejora del sistema y no la búsqueda de culpables.
+4. Ayudar a los equipos a comprender la teoría, las prácticas, las reglas y los valores del marco de trabajo en adopción bajo el paradigma ágil: Scrum. Kanban y/o XP. 
+5. Oficiar de líder servidor de equipos en pos de un trabajo ágil. 
+6. Ayudar a interesados o quienes están fuera del equipo de desarrollo a comprender cuáles de sus interacciones son útiles y cuáles no con el equipo. 
+7. Ayudar a interesados o quienes están fuera del equipo a entender el marco de trabajo ágil. 
+8. Auditar, evalúar y guía a equipos en su desarrollo bajo algún modelo de madurez o playbook. 
+9. Ayudar a todos los miembros de los equipos y líderes ágiles (Scrum Masters) a su tutela a cambiar y mejorar las interacciones de las personas para maximizar el valor que entrega el equipo.
+10. Promover y defender una cultura de mejora continua, estableciendo objetivos e hitos y siendo responsable de ellos.
+11. Ayudar a los líderes ágiles ser facilitadores de sistemas que habiliten a equipos de alto desempeño.
+12. Promover desarrollo de equipos autónomos de alto desempeño y desafiar al equipo a perseguir altos niveles de performance y calidad.
+13. Promover una mentalidad ágil y de experimentación que genere información y aprendizaje, garantizando que las decisiones se basen en información (data-driven).
+14. Impulsar el cambio cultural defendiendo una mentalidad ágil y asegúrese de que la organización esté a la vanguardia de las mejores prácticas de la industria.
+15. Defender el uso de métricas y otras medidas objetivas en todos los equipos para medir logros y 'outcomes'.
+16. Apoyar la resolución de problemas. Mantener una perspectiva objetiva sobre los problemas y resuelva problemas aplicando principios ágiles.
+17. Facilitar el aprendizaje y el desarrollo a través del coaching individual (a líderes ágiles y Product Owners) y de equipo. Entrenar, coachear y/o mentorea a diferentes roles dentro de un equipo ágil (Scrum Master, Product Owner, etc.).
+18. Apoyar la elección y configuración de herramientas que faciliten la colaboración y trabajo de equipo bajo el marco de trabajo ágil.
+19. Velar por un mayor impacto en los clientes.
+20. Asegurar un flujo continuo de entrega de valor, fomentando la inspección, adaptación y el reframing para gestionar la complejidad e incertidumbre.
 
 ## Tecnologías
 
