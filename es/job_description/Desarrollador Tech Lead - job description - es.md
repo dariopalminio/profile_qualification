@@ -66,6 +66,8 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 ## Responsabilidades y funciones
 
 ### Técnico Experto
+- **Stack tecnológico**: Define o lidera y ayuda a definir y mantener el stack tecnológico o conjunto de soluciones para el sistema a desarrollar.
+- **Ambiente de desarrollo**: Define y configura estructura de proyecto de desarrollo (Project Skeleton) y ambiente de desarrollo (IDE, librerías, frameworks, etc.), para su equipo y lo facilita y explica a los miembros del equipo su uso y configuración.
 - **Buenas prácticas**: Vela por el cumplimiento de las buenas prácticas de desarrollo de software y la ingeniería. Al diseñar las soluciones aplicar las mejores prácticas y patrones de diseño establecidas en la organización (Principios de Arquitectura e Ingeniería).
 - **Arquitectura**: Es responsable de la arquitectura y diseño de soluciones técnicas y es capaz de analizar críticamente la arquitectura e ingeniería de los sistemas existentes, identificando áreas de mejora.
 - **Evaluación Tecnológica**: Evalúa las nuevas tecnologías y soluciones para determinar su viabilidad y aplicabilidad a las necesidades de la organización.
@@ -77,7 +79,9 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 - **Decisiones Técnicas**: Toma decisiones estratégicas que optimizan el uso de los recursos tecnológicos.
   
 ### Orientado a la calidad
-- **Prioriza la calidad**: introduce en cada etapa del desarrollo de software prácticas de aseguramiento de calidad y testing. Busca mejorar el nivel de calidad del desarrollo y encontrar un equilibrio óptimo entre calidad y costo.
+- **Estándares de código**: Implementar o liderar la definición de estándares de codificación (reglas y estilos) para facilitar la colaboración, la propiedad colectiva de códgo, y lograr una base de código coherente, asegurando una fácil lectura y mantenimiento.
+- **Estándares de calidad**: Lidera o ayuda a definir la definicián de estàndares de calidad en artefactos como la definicián de terminadao (Definition of Done).
+- **Prioriza la calidad**: Introduce en cada etapa del desarrollo de software prácticas de aseguramiento de calidad y testing. Busca mejorar el nivel de calidad del desarrollo y encontrar un equilibrio óptimo entre calidad y costo.
 - **Realizar Revisión de Código**: Audita y hace revisión de código y feedback en actividades de 'code quality checks', pairing, peer-review (pull-request) y mood-programing. Supervisar/inspeccionar el software y al equipo de desarrollo y garantizar que el software cumple con todos los requerimientos no funcionales.
 - **Monitorear métricas del desarrollo**: Monitorear, en función de mejorar el delivery, un conjunto de métricas técnicas del equipo y de calidad de software, como por ejemplo: Pull Request Lead Time, Throughput, Time from First Commit to Merge, Deploy Frequency, Number of Technical Debts, Bug in Production, testing coverage, etc.
 
