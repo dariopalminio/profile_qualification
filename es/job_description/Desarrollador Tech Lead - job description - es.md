@@ -81,7 +81,7 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
   
 ### Orientado a la calidad
 - **Estándares de código**: Implementar o liderar la definición de estándares de codificación (reglas y estilos) para facilitar la colaboración, la propiedad colectiva de códgo, y lograr una base de código coherente, asegurando una fácil lectura y mantenimiento.
-- **Estándares de calidad**: Lidera o ayuda a definir la definicián de estàndares de calidad en artefactos como la definicián de terminadao (Definition of Done).
+- **Estándares de calidad**: Lidera o ayuda a definir la definicián de estándares de calidad en artefactos como la definicián de terminadao (Definition of Done).
 - **Prioriza la calidad**: Introduce en cada etapa del desarrollo de software prácticas de aseguramiento de calidad y testing. Busca mejorar el nivel de calidad del desarrollo y encontrar un equilibrio óptimo entre calidad y costo.
 - **Realizar Revisión de Código**: Audita y hace revisión de código y feedback en actividades de 'code quality checks', pairing, peer-review (pull-request) y mood-programing. Supervisar/inspeccionar el software y al equipo de desarrollo y garantizar que el software cumple con todos los requerimientos no funcionales.
 - **Monitorear métricas del desarrollo**: Monitorear, en función de mejorar el delivery, un conjunto de métricas técnicas del equipo y de calidad de software, como por ejemplo: Pull Request Lead Time, Throughput, Time from First Commit to Merge, Deploy Frequency, Number of Technical Debts, Bug in Production, testing coverage, etc.
