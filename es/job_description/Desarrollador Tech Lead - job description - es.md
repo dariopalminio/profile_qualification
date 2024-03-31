@@ -56,7 +56,7 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 - **Referente técnico**: Capacidad de ser referente técnico y ser la persona a quien consultar ante dudas y problemas técnicos.
 - **Mentor técnico**: Guía y apoya a los miembros del equipo para alcanzar su máximo potencial.
 - **Formador técnico**: Capacidades didácticas, de mentoreo, de explicación y formación en aspectos técnico para miembros del equipo y stakeholders.
-- **Feedback**: Capaz de brindar retroalimentación específica y oportuna que ayuda a los miembros del equipo a mejorar sus habilidades y conocimientos.
+- **Feedback**: Capaz de brindar retroalimentación específica y oportuna que ayuda a los miembros del equipo a mejorar sus habilidades y conocimientos. 
 
 ### Adaptable y resiliente
 - **Aprendizaje continuo**:  la capacidad de aprender de los errores y mantenerse constántemente actualizado tecnológicamente.
@@ -99,7 +99,7 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 - **Impulsar propiedad colectiva del código**: Debe crear 'Conocimiento Colectivo' y fomentar la 'propiedad colectiva del código' procurando que el conocimiento se comparta, fluya en todo el equipo y se logre buen trabajo colectivo.
 - **Referente**: Soporta y ayuda a los desarrolladores a sacar dudas, resolver problemas técnicos y sacar el trabajo adelante. 
 - **Mentor y compañero**: Realiza mentoreo a los desarrolladores para su crecimiento profesional y para nivelar conocimientos y capacidades.
-- **Feedback**: Brinda retroalimentación específica y oportuna que ayuda a los miembros del equipo a mejorar sus habilidades y conocimientos.
+- **Feedback**: Brinda retroalimentación específica y oportuna que ayuda a los miembros del equipo a mejorar sus habilidades y conocimientos e impulse el crecimiento, incluso cuando sea difícil.
   
 ### Adaptable y resiliente
 - **Gestionar la Deuda Técnica**: Velar por la disminución de la deuda técnica y lograr desarrollar software de calidad del equipo. Trabajar de la mano con los Ingenieros de Software para identificar los puntos de mejora y deudas técnicas, incluyéndose en el backlog.
