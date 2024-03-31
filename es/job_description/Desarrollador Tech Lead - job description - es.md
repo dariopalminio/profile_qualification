@@ -1,4 +1,4 @@
-# Líder Técnico
+# Tech Lead
 
 ## Otros Nombres
 
