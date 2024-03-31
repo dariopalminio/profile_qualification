@@ -68,6 +68,7 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 ### Técnico Experto
 - **Stack tecnológico**: Define o lidera y ayuda a definir y mantener el stack tecnológico o conjunto de soluciones para el sistema a desarrollar.
 - **Ambiente de desarrollo**: Define y configura estructura de proyecto de desarrollo (Project Skeleton) y ambiente de desarrollo (IDE, librerías, frameworks, etc.), para su equipo y lo facilita y explica a los miembros del equipo su uso y configuración.
+- **Desarrollador y revisor**: Contribuye al código y asegura su calidad mediante revisiones constantes.
 - **Buenas prácticas**: Vela por el cumplimiento de las buenas prácticas de desarrollo de software y la ingeniería. Al diseñar las soluciones aplicar las mejores prácticas y patrones de diseño establecidas en la organización (Principios de Arquitectura e Ingeniería).
 - **Arquitectura**: Es responsable de la arquitectura y diseño de soluciones técnicas y es capaz de analizar críticamente la arquitectura e ingeniería de los sistemas existentes, identificando áreas de mejora.
 - **Evaluación Tecnológica**: Evalúa las nuevas tecnologías y soluciones para determinar su viabilidad y aplicabilidad a las necesidades de la organización.
@@ -92,11 +93,12 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 - **Mantener un desarrollo sostenible**: Buscar un equilibrio de esfuerzo técnico y nivel técnico entre miembros del equipo para lograr una productividad saludable del equipo.
 - **Empoderamiento**: Delega responsabilidades y empodera a los miembros del equipo para que tomen decisiones y lideren.
 - **Comunicación colaborativa**: Fomenta una comunicación abierta y transparente dentro del equipo.
+- **Solucionador de problemas**: Identifica y elimina obstáculos técnicos que impiden el avance del equipo.
   
 ### Cultivador de Talento
 - **Impulsar propiedad colectiva del código**: Debe crear 'Conocimiento Colectivo' y fomentar la 'propiedad colectiva del código' procurando que el conocimiento se comparta, fluya en todo el equipo y se logre buen trabajo colectivo.
 - **Referente**: Soporta y ayuda a los desarrolladores a sacar dudas, resolver problemas técnicos y sacar el trabajo adelante. 
-- **Mentor**: Realiza mentoreo a los desarrolladores para su crecimiento profesional y para nivelar conocimientos y capacidades.
+- **Mentor y compañero**: Realiza mentoreo a los desarrolladores para su crecimiento profesional y para nivelar conocimientos y capacidades.
 - **Feedback**: Brinda retroalimentación específica y oportuna que ayuda a los miembros del equipo a mejorar sus habilidades y conocimientos.
   
 ### Adaptable y resiliente
