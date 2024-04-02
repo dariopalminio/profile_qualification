@@ -23,6 +23,8 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 ## Conocimientos y competencias
 
 ### Técnico Experto
+Debe ser un experto técnico para comprender profundamente los desafíos técnicos, desarrollar software junto al equipo, tomar decisiones informadas, resolver problemas complejos y conflictos técnicos y ganar la confianza del equipo.
+
 - **Ingeniería de software**: Un líder técnico debe tener una gran experiencia profesional en el desarrollo de software y un profundo conocimiento de la tecnología y en ingeniería de software.
 - **Seniority avanzado**: Ser desarrollador senior, senior advanced, principal o profesional con más de 5 años de experiencia como ingeniero de software, desarrollador de software o puesto similar.
 - **Conocimiento en el Stack**: Poseer conocimientos avanzados en el stack tecnológico que usa su equipo o necesarios para el sistema a desarrollar. 
