@@ -34,6 +34,8 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 - **Estimaciones**: Capaz de realizar estimaciones y de liderar sesiones de estimaciones de un equipo sobre entregables, componentes y features de productos de software.
 
 ### Estratega Tecnológico  
+Combina la perspectiva futurista y la capacidad para diseñar estrategias efectivas en el campo tecnológico con la habilidad para no solo evaluar, asesorar y proponer, sino para realmente marcar el camino hacia adelante en la innovación tecnológica, anticipándose a tendencias y solucionando problemas complejos de manera efectiva y alineados a la estrategia de la organización.
+
 - **Visión técnica global**: Tener una 'Visión Holística' y sistémica de los problemas a resolver y de las soluciones planteades, como también del equipo y producto en el ecosistema organizacional ('zoom out' y visión general).
 - **Alineación estratégica**: Capacidad de colaborar con stakeholders clave para asegurar la alineación de la estrategia tecnológica con los objetivos del negocio.
 - **Decisor técnico**: Capacidad de tomar decisiones estratégicas que optimizan el uso de los recursos tecnológicos.
@@ -46,6 +48,8 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 - **Observabilidad**: Conocimientos en métricas de calidad, monitoreo y observabilidad.
 
 ### Líder Inspirador
+Debe tener competencias de liderazgo para realmente liderar, motivar, inspirar y facilitar el camino hacia adelante para su equipo.
+
 - **Liderazgo servicial**: Capacidad de liderazgo, coaching técnico y habilidades de resolución de conflictos (con y entre colegas).
 - **Motivador**: Capacidad de motivar e inspirar al equipo a alcanzar altos estándares de calidad en arquitectura e ingeniería.
 - **Organizador técnico**: Capaz de organizar el trabajo técnico del equipo.
