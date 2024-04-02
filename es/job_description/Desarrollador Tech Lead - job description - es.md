@@ -33,7 +33,7 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 - **Configuración de ambientes**: Capacidad de instalar y configurar ambientes completos de desarrollo y herramientas IDE.
 - **Estimaciones**: Capaz de realizar estimaciones y de liderar sesiones de estimaciones de un equipo sobre entregables, componentes y features de productos de software.
 
-### Tecnólogo Visionario 
+### Estratega Tecnológico  
 - **Visión técnica global**: Tener una 'Visión Holística' y sistémica de los problemas a resolver y de las soluciones planteades, como también del equipo y producto en el ecosistema organizacional ('zoom out' y visión general).
 - **Alineación estratégica**: Capacidad de colaborar con stakeholders clave para asegurar la alineación de la estrategia tecnológica con los objetivos del negocio.
 - **Decisor técnico**: Capacidad de tomar decisiones estratégicas que optimizan el uso de los recursos tecnológicos.
@@ -74,7 +74,7 @@ No suele contar con personal a su cargo. Lidera técnicamente un equipo de desar
 - **Evaluación Tecnológica**: Evalúa las nuevas tecnologías y soluciones para determinar su viabilidad y aplicabilidad a las necesidades de la organización.
 - **Asegurar Documentación Técnica necesaria**: Revisa y valida la documentación técnica generada por los desarrolladores.
 
-### Tecnólogo Visionario 
+### Estratega Tecnológico 
 - **Apoyar la estrategia**: Asegura que las estrategias definidas en la ejecución de proyectos/productos o por la organización se apliquen de forma correcta. Colaborar con stakeholders clave para asegurar la alineación de la estrategia tecnológica con los objetivos del negocio.
 - **Solución Tecnológica**: Identifica, propone e implementa las soluciones y tecnologías clave que mejorarán la competitividad de la organización.
 - **Decisiones Técnicas**: Toma decisiones estratégicas que optimizan el uso de los recursos tecnológicos.
