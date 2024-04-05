@@ -47,13 +47,14 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 3. Programar lógica de ‘loggeo’, manejo de errores y tracing. 
 4. Integración de elementos orientados al usuario desarrollados por desarrolladores front-end con lógica del lado del servidor.
 5. Creación de código y bibliotecas reutilizables para uso futuro.
-6. Optimización de la aplicación para máxima velocidad y escalabilidad y cumplimiento de requerimientos no funcionales especificados.
-7. Implementación de seguridad y protección de datos.
-8. Diseño e implementación de soluciones de almacenamiento de datos.
-9. Diseño, desarrollo y mantención de diferentes componentes de un sitios web o aplicación software. 
-10. Identificar problemas y riesgos de desarrollo de software y gestionarlos y escalarlos cuando corresponda. 
-11. Estimar esfuerzo de desarrollo de componentes y tareas además de colaborar con la planificación de trabajo. 
-12. En el trabajo orientado a equipo, aunque trabajará la mayor parte del tiempo en su campo de experticia, debe desenvolverse en otros temas, tareas y actividades en función de colaborar con el equipo, apoyar en diferentes tipos de actividades para sumar capacidad, cumplir con las entregas del equipo, evitar los cuellos de botella y colaborar en solucionar problemas del equipo. 
+6. Integrar prácticas de testing y QA en todo el ciclo de desarrollo.
+7. Optimización de la aplicación para máxima velocidad y escalabilidad y cumplimiento de requerimientos no funcionales especificados.
+8. Implementación de seguridad y protección de datos.
+9. Diseño e implementación de soluciones de almacenamiento de datos.
+10. Diseño, desarrollo y mantención de diferentes componentes de un sitios web o aplicación software. 
+11. Identificar problemas y riesgos de desarrollo de software y gestionarlos y escalarlos cuando corresponda. 
+12. Estimar esfuerzo de desarrollo de componentes y tareas además de colaborar con la planificación de trabajo. 
+13. En el trabajo orientado a equipo, aunque trabajará la mayor parte del tiempo en su campo de experticia, debe desenvolverse en otros temas, tareas y actividades en función de colaborar con el equipo, apoyar en diferentes tipos de actividades para sumar capacidad, cumplir con las entregas del equipo, evitar los cuellos de botella y colaborar en solucionar problemas del equipo. 
 
 ## Tecnologías
 
