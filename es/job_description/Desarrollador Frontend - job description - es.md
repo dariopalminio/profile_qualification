@@ -50,14 +50,15 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 3. Programar lógica de presentación del lado del cliente y lógica de consumo de APIs o de interacción con fuentes de datos desde el front-end. 
 4. Diseño, desarrollo y mantención de diferentes componentes de un sitios web o aplicación software.
 5. Cree código y bibliotecas reutilizables para uso futuro.
-6. Garantizar la viabilidad técnica de los diseños de UI/UX.
-7. Optimizar la aplicación para obtener la máxima velocidad, escalabilidad y requerimientos no funcionales definidos.
-8. Asegúrese de que todas las entradas del usuario se validen antes de enviarlas al back-end.
-9. Programar y ejecutar pruebas de software.
-10. Colaborar con otros miembros del equipo y partes interesadas.
-11. Identificar problemas y riesgos de desarrollo de software y gestionarlos y escalarlos cuando corresponda. 
-12. Estimar esfuerzo de desarrollo de componentes y tareas además de colaborar con la planificación de trabajo. 
-13. En el trabajo orientado a equipo, aunque trabajará la mayor parte del tiempo en su campo de experticia, debe desenvolverse en otros temas, tareas y actividades en función de colaborar con el equipo, apoyar en diferentes tipos de actividades para sumar capacidad, cumplir con las entregas del equipo, evitar los cuellos de botella y colaborar en solucionar problemas del equipo. 
+6. Integrar prácticas de testing y QA en todo el ciclo de desarrollo.
+7. Garantizar la viabilidad técnica de los diseños de UI/UX.
+8. Optimizar la aplicación para obtener la máxima velocidad, escalabilidad y requerimientos no funcionales definidos.
+9. Asegúrese de que todas las entradas del usuario se validen antes de enviarlas al back-end.
+10. Programar y ejecutar pruebas de software.
+11. Colaborar con otros miembros del equipo y partes interesadas.
+12. Identificar problemas y riesgos de desarrollo de software y gestionarlos y escalarlos cuando corresponda. 
+13. Estimar esfuerzo de desarrollo de componentes y tareas además de colaborar con la planificación de trabajo. 
+14. En el trabajo orientado a equipo, aunque trabajará la mayor parte del tiempo en su campo de experticia, debe desenvolverse en otros temas, tareas y actividades en función de colaborar con el equipo, apoyar en diferentes tipos de actividades para sumar capacidad, cumplir con las entregas del equipo, evitar los cuellos de botella y colaborar en solucionar problemas del equipo. 
 
 ## Tecnologías
 
