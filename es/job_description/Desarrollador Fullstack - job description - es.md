@@ -61,7 +61,8 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 9. Diseñar, desarrollar y manrener diferentes componentes de un sitios web o aplicación software. 
 10. Desplegar código en diferentes ambientes (dev, qa, staging, production).
 Identificar problemas y riesgos de desarrollo de software y gestionarlos y escalarlos cuando corresponda. 
-11. Estimar esfuerzo de desarrollo de componentes y tareas además de colaborar con la planificación de trabajo. 
+11. Estimar esfuerzo de desarrollo de componentes y tareas además de colaborar con la planificación de trabajo.
+12. Trabajo orientado a equipo: aunque trabajará la mayor parte del tiempo en su campo de experticia, debe desenvolverse en otros temas, tareas y actividades en función de colaborar con el equipo, apoyar en diferentes tipos de actividades para sumar capacidad, cumplir con las entregas del equipo, evitar los cuellos de botella y colaborar en solucionar problemas del equipo.
 
 ## Tecnologías
 
