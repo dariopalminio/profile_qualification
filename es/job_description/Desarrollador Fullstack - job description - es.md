@@ -57,7 +57,7 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 5. Programar persistencia de datos (CRUD).
 6. Programar la comunicación o integración con sistemas externos.
 7. Programar securización.
-8. Programar y ejecutar pruebas de software.
+8. Programar y ejecutar pruebas de software. Integrar prácticas de testing y QA en todo el ciclo de desarrollo.
 9. Diseñar, desarrollar y manrener diferentes componentes de un sitios web o aplicación software. 
 10. Desplegar código en diferentes ambientes (dev, qa, staging, production).
 Identificar problemas y riesgos de desarrollo de software y gestionarlos y escalarlos cuando corresponda. 
