@@ -103,6 +103,7 @@ Cuenta con personas a cargo en un equipo de desarrollo o lidera un equipo de ent
 - Es deseable que maneje o conozca el stack en que trabaja su equipo y las tecnologías del ecosistema.
 - Herramientas de gestión de proyectos ágiles como: suite Atlassian (JIRA y Confluence).
 - Herramientas de ofimática como: Google Workspace, Microsoft 365, etc.
-- Herramientas de gestión de tareas como: Planner de suite Microsoft 365.
-- Manejo de herramientas colaborativas como: Miro, Mural, Scrumblr, IdeaBoardz, Sketchboard, Witeboard, Stormboard, Google Jamboard, etc. 
+- Herramientas de gestión de tareas como: Planner de suite Microsoft 365, Trello, Linear, Asana, Kanbanzone.
+- Manejo de herramientas colaborativas como: Miro, Mural, Scrumblr, IdeaBoardz, Sketchboard, Witeboard, Stormboard, Google Jamboard, etc.
+
 
