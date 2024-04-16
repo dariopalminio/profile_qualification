@@ -56,6 +56,10 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 - Fundamentos de Machine Learning: Uso de librerías como scikit-learn, TensorFlow, PyTorch.
 - Optimización y Escalamiento de Modelos: Ajuste de hiperparámetros, despliegue de modelos en producción.
 
+### Orquestación de Flujos de Trabajo
+- Orquestación de flujos de datos con herramientas como: Airflow, Apache NiFi, Luigi, Prefect, Argo Workflows.
+- Orquestadores Cloud: Google Cloud Composer, Azure Data Factory o AWS Step Functions.
+  
 ### Visualización
 - Herramientas de Visualización de Datos: Tableau, Power BI, Dash de Plotly.
 
