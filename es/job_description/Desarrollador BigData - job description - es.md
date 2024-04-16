@@ -68,6 +68,7 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 
 
 ## Responsabilidades y funciones
+Debe aplicar los conocimientos y competencias descritos anteriormente. A continuación algunas responsabilidades y funciones:
 
 1. Construir y mejorar Stack tecnológico para Big Data y apoyo en la planificación de soluciones de Big Data. 
 2. Programar aplicaciones distribuidas que manejen un gran volumen de datos con tecnologías/framework como Hadoop o Apache Spark. 
