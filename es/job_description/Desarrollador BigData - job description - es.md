@@ -28,7 +28,7 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 1. **Informática**: Tener conocimientos informáticos. Deseable también matemáticos y estadísticos.  
 2. **Programación**: Saber programar en lenguajes de scripting como Perl; o lenguajes como Python , R, Spark o Scala. 
 3. **Automatización**; Conocimientos en automatización, scripting y en sistemas Unix/Linux. 
-4. **Gobierno de Datos**: Conocer sobre Gobierno de datos (Data Mesh, etc.) y seguridad de datos. 
+4. **Gobierno de Datos**: Conocer sobre Gobierno de datos (Data Mesh, etc.), linaje de datos y seguridad de datos. 
 5. **Arquitectura de Datos**: Debe tener conocimientos esenciales de diseño y desarrollo de sistemas de arquitectura de datos. Buen conocimiento de la Arquitectura Lambda, junto con sus ventajas y desventajas.
 6. **Base de Datos**: Debe dominar el procesamiento de datos (Data Base, DM, Data warehouse), que incluye implementación y manipulación de bases de datos relacionales (SQL, PL/SQL) y no relacionales (NoSQL). 
 8. Comprensión competente de los principios de computación distribuida. 
