@@ -15,7 +15,7 @@ Titulación en Ingeniería Informática, Ingeniería de Sistemas, o Licenciados 
 ## Formación secundaria
 
 Máster o titulación de posgrado en temas relacionados con Data Science, Big Data y/o DevOps, Data & Cloud
-Engineer, Inteligencia Artificial y Machine Learning; o en su defecto experiencia demostrable en estos temas. 
+Engineer, Inteligencia Artificial y Machine Learning; o en su defecto experiencia demostrable en estos temas. Ejemplos de certificaciones: Google Cloud Professional Data Engineer Certification, AWS Certified Data Engineer.
 
 ## Supervisión o liderazgo
 
