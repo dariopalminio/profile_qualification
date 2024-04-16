@@ -57,8 +57,7 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 - Optimización y Escalamiento de Modelos: Ajuste de hiperparámetros, despliegue de modelos en producción.
 
 ### Orquestación de Flujos de Trabajo
-- Orquestación de flujos de datos con herramientas como: Airflow, Apache NiFi, Luigi, Prefect, Argo Workflows.
-- Orquestadores Cloud: Google Cloud Composer, Azure Data Factory o AWS Step Functions.
+- Conocimientos y practica en orquestación de flujos de datos.
   
 ### Visualización
 - Herramientas de Visualización de Datos: Tableau, Power BI, Dash de Plotly.
@@ -96,3 +95,5 @@ La tecnología dependerá de los requisitos del puesto. La tecnología general r
 - ETL tools: Apache Flume, Apache Sqoop, Apache HBase, Apache Hive, Apache Oozie, Apache Phoenix, Apache Pig, Apache ZooKeeper.
 - Event & Message Brokers: Kafka, RabbitMQ, etc.
 - Big Data Machine Learning toolkits: Mahout, SparkML, H2O, etc.
+- Orquestación de flujos de datos con herramientas como: Airflow, Apache NiFi, Luigi, Prefect, Argo Workflows.
+- Orquestadores Cloud: Google Cloud Composer, Azure Data Factory o AWS Step Functions.
