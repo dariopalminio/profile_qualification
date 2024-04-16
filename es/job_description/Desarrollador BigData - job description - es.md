@@ -40,6 +40,38 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 13. **Cloud**: Conocimientos en infraestructuras Cloud (Azure, AWS y/o Google Cloud Platform/GCP).
 14.	**Trabajo en Equipo**: Sentido de responsabilidad, compromiso y capacidad de trabajo en equipo. 
 
+## ## Programación y Desarrollo de Software
+
+Lenguajes de Programación: Python, Java, Scala.
+Control de Versiones: Git.
+Desarrollo de APIs: REST, SOAP.
+Principios de Ingeniería de Software: Diseño modular, pruebas unitarias y de integración.
+Manejo de Datos
+
+Bases de Datos SQL: PostgreSQL, MySQL, SQL Server.
+Bases de Datos NoSQL: MongoDB, Cassandra, HBase.
+Modelado de Datos: Diseño de esquemas, normalización y denormalización.
+ETL (Extract, Transform, Load): Herramientas como Apache NiFi, Talend, Informatica.
+Big Data y Computación Distribuida
+
+Plataformas de Big Data: Hadoop, Spark.
+Almacenamiento y Procesamiento Distribuido: HDFS, Amazon S3.
+Procesamiento en Streaming: Kafka, Apache Storm, Apache Flink.
+Infraestructura y Nube
+
+Servicios de Nube: AWS (EC2, RDS, S3), Azure, Google Cloud.
+Orquestación de Contenedores: Docker, Kubernetes.
+Automatización de Infraestructura: Terraform, Ansible.
+Seguridad y Gobernanza de Datos
+
+Seguridad de Datos: Encriptación, autenticación, autorización.
+Gobernanza de Datos: Catalogación de datos, gestión de metadatos, calidad de datos.
+Analítica y Aprendizaje Automático
+
+Herramientas de Visualización de Datos: Tableau, Power BI, Dash de Plotly.
+Fundamentos de Machine Learning: Uso de librerías como scikit-learn, TensorFlow, PyTorch.
+Optimización y Escalamiento de Modelos: Ajuste de hiperparámetros, despliegue de modelos en producción.
+
 ## Responsabilidades y funciones
 
 1. Construir y mejorar Stack tecnológico para Big Data y apoyo en la planificación de soluciones de Big Data. 
