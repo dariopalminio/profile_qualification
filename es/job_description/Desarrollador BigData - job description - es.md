@@ -25,52 +25,43 @@ No cuenta con personal a su cargo.
 
 Debe tener los siguientes conocimientos y competencias con la profundidad dependiente del nivel de seniority requerido:
 
-1. **Informática**: Tener conocimientos informáticos. Deseable también matemáticos y estadísticos.  
-2. **Programación**: Saber programar en lenguajes de scripting como Perl; o lenguajes como Python , R, Spark o Scala. 
-3. **Automatización**; Conocimientos en automatización, scripting y en sistemas Unix/Linux. 
-4. **Gobierno de Datos**: Conocer sobre Gobierno de datos (Data Mesh, etc.), linaje de datos y seguridad de datos. 
-5. **Arquitectura de Datos**: Debe tener conocimientos esenciales de diseño y desarrollo de sistemas de arquitectura de datos. Buen conocimiento de la Arquitectura Lambda, junto con sus ventajas y desventajas.
-6. **Ingesta de datos**: Experiencia y conocimiento con la extracción e integración de datos (recopilar, combinar y unificar datos) de múltiples fuentes de datos.
-7. **Arquitectura de Eventos**: Conocimientos en sistemas de mensajería, colas, programación orientada a eventos (arquitectura basada en eventos EDA, Pub/Sub).
-8. **Base de Datos**: Debe dominar el procesamiento de datos (Data Base, DM, Data warehouse), que incluye implementación y manipulación de bases de datos relacionales (SQL, PL/SQL) y no relacionales (NoSQL). 
-9. Comprensión competente de los principios de computación distribuida. 
-10. **Transformación y procesamiento de Datos**: Conocimiento y uso de herramientas de Big Data y explotación de datos en transformación y procesamiento de datos.
-11. **Análisis de Datos y Ciencia de Datos**: Conocimientos en Big Data, Machine Learning, Deep Learning, Data wrangling, Data mining, Data Lake, Data Workflow, Procesos ETL, data munging o data tyding.
-12. **Visualización y Reportería**: La capacidad para implementar tecnologías de gestión de datos, reportería y elaboración de informes como el uso de herramientas de BI y visualización de datos.
-13. **Cloud**: Conocimientos en infraestructuras Cloud (Azure, AWS y/o Google Cloud Platform/GCP).
-14.	**Trabajo en Equipo**: Sentido de responsabilidad, compromiso y capacidad de trabajo en equipo. 
+### Programación y Desarrollo de Software
+- Lenguajes de Programación: Perl; Python , R, Spark o Scala.
+- Control de Versiones: Git.
+- Desarrollo de APIs: REST, SOAP.
+- Arquitectura de Eventos: Conocimientos en sistemas de mensajería, colas, programación orientada a eventos (arquitectura basada en eventos EDA, Pub/Sub).
+- Principios de Ingeniería de Software: Diseño modular, pruebas unitarias y de integración.
 
-## ## Programación y Desarrollo de Software
+### Manejo de Datos
+- Bases de Datos SQL: PostgreSQL, MySQL, SQL Server.
+- Bases de Datos NoSQL: MongoDB, Cassandra, HBase.
+- Modelado de Datos: Diseño de esquemas, normalización y denormalización.
+- ETL (Extract, Transform, Load): Herramientas como Apache NiFi, Talend, Informatica.
+- Big Data y Computación Distribuida
 
-Lenguajes de Programación: Python, Java, Scala.
-Control de Versiones: Git.
-Desarrollo de APIs: REST, SOAP.
-Principios de Ingeniería de Software: Diseño modular, pruebas unitarias y de integración.
-Manejo de Datos
+### Plataformas de Big Data: Hadoop, Spark.
+- Almacenamiento y Procesamiento Distribuido: HDFS, Amazon S3.
+- Procesamiento en Streaming: Kafka, Apache Storm, Apache Flink.
 
-Bases de Datos SQL: PostgreSQL, MySQL, SQL Server.
-Bases de Datos NoSQL: MongoDB, Cassandra, HBase.
-Modelado de Datos: Diseño de esquemas, normalización y denormalización.
-ETL (Extract, Transform, Load): Herramientas como Apache NiFi, Talend, Informatica.
-Big Data y Computación Distribuida
+### Infraestructura y Nube
+- Servicios de Nube: AWS (EC2, RDS, S3), Azure, Google Cloud (GCP).
+- Orquestación de Contenedores: Docker, Kubernetes.
+- Automatización de Infraestructura: Terraform, Ansible.
 
-Plataformas de Big Data: Hadoop, Spark.
-Almacenamiento y Procesamiento Distribuido: HDFS, Amazon S3.
-Procesamiento en Streaming: Kafka, Apache Storm, Apache Flink.
-Infraestructura y Nube
+### Seguridad y Gobernanza de Datos
+- Seguridad de Datos: Encriptación, autenticación, autorización.
+- Gobernanza de Datos: Catalogación de datos, gestión de metadatos, calidad de datos.
 
-Servicios de Nube: AWS (EC2, RDS, S3), Azure, Google Cloud.
-Orquestación de Contenedores: Docker, Kubernetes.
-Automatización de Infraestructura: Terraform, Ansible.
-Seguridad y Gobernanza de Datos
+### Analítica y Aprendizaje Automático
+- Fundamentos de Machine Learning: Uso de librerías como scikit-learn, TensorFlow, PyTorch.
+- Optimización y Escalamiento de Modelos: Ajuste de hiperparámetros, despliegue de modelos en producción.
 
-Seguridad de Datos: Encriptación, autenticación, autorización.
-Gobernanza de Datos: Catalogación de datos, gestión de metadatos, calidad de datos.
-Analítica y Aprendizaje Automático
+### Visualización
+- Herramientas de Visualización de Datos: Tableau, Power BI, Dash de Plotly.
 
-Herramientas de Visualización de Datos: Tableau, Power BI, Dash de Plotly.
-Fundamentos de Machine Learning: Uso de librerías como scikit-learn, TensorFlow, PyTorch.
-Optimización y Escalamiento de Modelos: Ajuste de hiperparámetros, despliegue de modelos en producción.
+### Trabajo en Equipo
+- Sentido de responsabilidad, compromiso y capacidad de trabajo en equipo. 
+
 
 ## Responsabilidades y funciones
 
