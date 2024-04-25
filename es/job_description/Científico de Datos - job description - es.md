@@ -29,7 +29,8 @@ Certificaciones y/o diplomas en ciencia de datos.
 6. Buenas habilidades de estadística aplicada, como distribuciones, pruebas estadísticas, regresión, etc.
 7. Buenas habilidades de scripting y programación.
 8. Personalidad orientada a datos.
-9. Grandes habilidades de comunicación.
+9. Conocimientos en Exploratory Data Analysis (EDA).
+10. Grandes habilidades de comunicación.
 
 ## Responsabilidades y funciones
 
