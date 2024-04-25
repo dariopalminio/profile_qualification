@@ -33,7 +33,8 @@ No cuenta con personal a su cargo.
 8.	Conocimiento de OLAP y Tableros de comando.
 9.	Conocimiento de gestión de proyectos.
 10.	Experiencia en proyectos de I+D (investigación y desarrollo).
-11.	Iniciativa y capacidad de análisis para la resolución de problemas.
+11.	**Análisis de datos exploratorio**: Conocimientos en Exploratory Data Analysis (EDA).
+12.	Iniciativa y capacidad de análisis para la resolución de problemas.
 
 
 ## Responsabilidades y funciones
