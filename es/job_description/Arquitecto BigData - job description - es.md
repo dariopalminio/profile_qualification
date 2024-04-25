@@ -34,7 +34,8 @@ Debe tener los siguientes conocimientos y competencias con la profundidad depend
 8. **Reportería**: La capacidad para implementar tecnologías de presentación de datos, reportería y elaboración de informes. 
 9. Saber sobre Machine Learning, Deep Learning, Data wrangling, Data mining, Data Lake, Data Workflow, Procesos ETL, data mesh, data munging o data tyding. 
 10. **Big Data y explotación**: Conocimiento y uso de herramientas de Big Data y explotación de datos.
-11. **Cloud Computing**: Conocimientos en Cloud Computing, 'Cloud-based Big Data Processing' y arquitectura Cloud en general (Cloud Computing Design Patterns & Mechanisms).
+11. **Análisis de datos exploratorio**: Conocimientos en Exploratory Data Analysis (EDA).
+12. **Cloud Computing**: Conocimientos en Cloud Computing, 'Cloud-based Big Data Processing' y arquitectura Cloud en general (Cloud Computing Design Patterns & Mechanisms).
 
 ## Responsabilidades y funciones
 
