@@ -19,7 +19,7 @@ En equipos de desarrollo de software el profesional también puede provenir del 
 
 Certificaciones como Product Owner: Profesional Scrum Product Owner (PSPO I, PSPO II, PSPO III) de Scrum.org, Certified Scrum Product Owner (CSPO, A-CSPO, CS-PO) de Scrum Alliance, SAFe Product Owner/Product Manager, Agile Product Ownership (ICP-APO), Course Certified Scrum Product Owner® (CSPO) de PMI, Scrum Product Owner Certified (SPOC™), Scrum Product Owner Professional Certificate - SPOPC de CertiProf, etc.
 
-Postgrado o diplomas relacionados a la Gestión de Producto: Product Management, Master of Science in Product Management, Master of Science in Product Management, MBA, The Power MBA, Master of Business Administration With Specialization in Tech Product Management, Master of Business Administration With a Concentration in Product Management, Master of Business Administration in Technology Strategy and Product Management.
+Postgrado o diplomas relacionados a la Gestión de Producto: Product Management, Master of Science in Product Management, MBA, The Power MBA, Master of Business Administration With Specialization in Tech Product Management, Master of Business Administration With a Concentration in Product Management, Master of Business Administration in Technology Strategy and Product Management.
 
 Postgrado o diplomados relacionados a Análisis de Negocio: Diplomado en Inteligencia de negocios, Diplomado de Análisis de Negocio bajo los estándares del BABOK, Diplomatura en Análisis de Negocios (Business Analysis), Maestría en Analítica de Negocios (MBD), etcétera.
 
