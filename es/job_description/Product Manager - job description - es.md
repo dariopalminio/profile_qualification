@@ -1,37 +1,31 @@
 ## Product Manager
-Un Product Manager es la persona que identifica las necesidades del cliente y los objetivos comerciales más amplios que cumplirá un producto o característica, articula visión y estrategia para el éxito de un producto y reúne a un equipo para convertir esa visión en realidad.
-
-## Objetivos de este rol
-
-- Impulsar los procesos de planificación de productos y negocios para equipos multifuncionales.
-- Analizar las necesidades de los clientes, las tendencias actuales del mercado y las asociaciones potenciales desde una perspectiva de retorno de la inversión (ROI) y de construcción versus compra.
-- Evaluar las ofertas actuales de la competencia y buscar oportunidades de diferenciación.
-- Analizar los requisitos del producto y desarrollar programas adecuados para garantizar que se cumplan.
-- Desarrollar, implementar y mantener cronogramas de producción en múltiples departamentos.
-- Evaluar nuevas ideas de productos y diseñar estrategias adecuadas para los planes de comercialización.
+Un Product Manager es la persona que identifica las necesidades del cliente y los objetivos comerciales más amplios que cumplirá un producto o característica, articula visión y estrategia para el éxito de un producto y reúne, lidera o colabora con un equipo o equipos para convertir esa visión en realidad.
 
 ## Responsabilidades
 
-- Impulsar la ejecución de todos los procesos en el ciclo de vida del producto, incluida la investigación de productos y mercados, el análisis de la competencia, la planificación, el posicionamiento, el desarrollo de requisitos y hojas de ruta, y el lanzamiento del producto.
+- Impulsar los procesos de planificación de productos y negocios para equipos multifuncionales.
+- Liderar el descubrimiento de producto y analizar las necesidades de los clientes.
+- Analizar las tendencias actuales del mercado, competencia y las asociaciones potenciales.
+- Evaluar las ofertas actuales de la competencia y buscar oportunidades de diferenciación.
+- Analizar los requisitos del producto y desarrollar programas adecuados para garantizar que se cumplan.
+- Definir o liderar la definición de la visión de producto y estrategia.
 - Traducir la estrategia del producto en requisitos detallados para la creación de prototipos y el desarrollo final por parte de los equipos de ingeniería.
-- Crear documentos de estrategia de producto que describan casos comerciales, casos de uso de alto nivel, requisitos técnicos, ingresos y retorno de la inversión.
-- Analizar datos de mercado para desarrollar estrategias de ventas y definir objetivos de producto para comunicaciones de marketing efectivas.
-- Colaborar estrechamente con los equipos de ingeniería, producción, marketing y ventas en el desarrollo, control de calidad y lanzamiento de productos, y equilibrar los recursos para garantizar el éxito de toda la organización.
-- Desarrollar mensajes y posicionamiento de productos que diferencien a la empresa en los principales segmentos del mercado.
+- Liderara, desarrollar, implementar y/o mantener cronogramas (hojas de ruta) de producción en múltiples departamentos.
+- Colaborar de cerca con equipos multifuncionales (diseño, ingeniería, QA y partes interesadas del negocio) para recopilar requisitos y traducirlos en planes de producto accionables.
+- Monitorear el desempeño del producto y aprovechar los conocimientos basados en datos para informar decisiones e impulsar la mejora continua.
+- Evaluar nuevas ideas de productos y diseñar estrategias adecuadas para los planes de comercialización.
+- Facilitar talleres con clientes, demostraciones de producto y actualizaciones periódicas del estado del desarrollo del producto.
 
 ## Habilidades y calificaciones requeridas
 
-- Gran experiencia en una función dinámica de gestión de productos.
-- Éxito comprobado en la supervisión de todos los elementos del ciclo de vida del desarrollo del producto.
+- Experiencia comprobada como Gerente de Producto, Product Owner o en un rol similar.
+- Sólido entendimiento de los ciclos de vida de desarrollo de producto, metodologías ágiles y diseño centrado en el usuario.
+- Excelentes habilidades de comunicación y gestión de stakeholders, con la capacidad de influir y generar consensos.
 - Alta eficacia en la gestión de equipos multifuncionales.
 - Experiencia en la entrega de estrategias de marketing de productos finamente ajustadas.
 - Habilidades excepcionales de redacción y edición, combinadas con sólidas habilidades de presentación y oratoria.
-
-## Habilidades y calificaciones preferidas
-- Licenciatura (o equivalente) en diseño o ingeniería de productos.
-- Experiencia previa en software y desarrollo web.
-- Éxito comprobado como desarrollador de productos en un rol no gerencial.
-- Conocimientos demostrables de SEM (marketing en buscadores) y publicidad online.
+- Mentalidad analítica con capacidad para interpretar datos y métricas que guíen la toma de decisiones.
+- Alfabetización técnica para interactuar con equipos de ingeniería y comprender los compromisos tecnológicos.
 
 ## Dimensiones y capacidades del rol
 
