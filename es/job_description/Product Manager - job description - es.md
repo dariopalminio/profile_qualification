@@ -27,6 +27,25 @@ Un Product Manager es la persona que identifica las necesidades del cliente y lo
 - Mentalidad analítica con capacidad para interpretar datos y métricas que guíen la toma de decisiones.
 - Alfabetización técnica para interactuar con equipos de ingeniería y comprender los compromisos tecnológicos.
 
+## Formación principal y académica
+
+Puede provenir de profesiones a fines a producto, comercio o empresa como: Administración de Empresa, Ingeniería Comercial, Ingeniería Industrial, etc.
+En equipos de desarrollo de software el profesional también puede provenir del área de Tecnología de la Información, con título en carreras como: Ingeniero de Sistemas, Ingeniería Informática, Licenciatura en Sistemas o Computación.
+
+## Formación secundaria
+
+Certificaciones como Product Manager: ICP-PDM Product Management certification, Certified Product Manager AIPMM, SAFe Product Owner/Product Manager (POPM) certification y Product Management Certificado del MIT Professional Programs.
+
+Certificaciones como Product Owner: Profesional Scrum Product Owner (PSPO I, PSPO II, PSPO III) de Scrum.org, Certified Scrum Product Owner (CSPO, A-CSPO, CS-PO) de Scrum Alliance, SAFe Product Owner/Product Manager, Agile Product Ownership (ICP-APO), Course Certified Scrum Product Owner® (CSPO) de PMI, Scrum Product Owner Certified (SPOC™), Scrum Product Owner Professional Certificate - SPOPC de CertiProf, etc.
+
+Postgrado o diplomas relacionados a la Gestión de Producto: Product Management, Master of Science in Product Management, MBA, The Power MBA, Master of Business Administration With Specialization in Tech Product Management, Master of Business Administration With a Concentration in Product Management, Master of Business Administration in Technology Strategy and Product Management.
+
+Postgrado o diplomados relacionados a Análisis de Negocio: Diplomado en Inteligencia de negocios, Diplomado de Análisis de Negocio bajo los estándares del BABOK, Diplomatura en Análisis de Negocios (Business Analysis), Maestría en Analítica de Negocios (MBD), etcétera.
+
+## Supervisión o liderazgo
+
+No suele contar con personas a cargo (gestiona productos no personas) aunque, con seniority avanzado, sí puede liderar en gestión de productos a un portafolio, programa, equipo de producto o un conjunto de Product Owners.
+
 ## Dimensiones y capacidades del rol
 
 **Ejecución de Producto**
