@@ -14,7 +14,7 @@ Profesional del área TI, con título en carreras como: Ingeniero de Sistemas, I
 
 ## Formación secundaria
 
-Certificaciones como: Site Reliability Engineering (SRE) Foundation Certified (DevOps Institute), Site Reliability Engineering (SRE) Practitioner Certified (Devops Institute), Site Reliability Engineering Certified Professional (SRECP), Site Reliability Engineering on AWS, etc.
+Certificaciones como: Site Reliability Engineering (SRE) Foundation Certified (DevOps Institute), Site Reliability Engineering (SRE) Practitioner Certified (Devops Institute), Site Reliability Engineering Certified Professional (SRECP), Site Reliability Engineering on AWS, Certified SRE Practitioner (GSDC), etc.
 
 ## Supervisión o liderazgo
 
