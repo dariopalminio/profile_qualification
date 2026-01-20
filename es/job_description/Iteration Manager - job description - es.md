@@ -2,7 +2,7 @@
 
 ## Otros Nombres
 
-Líder de Equipo Ágil, Team Lead, Agile Team Lead
+Líder de Equipo Ágil, Team Lead, Agile Team Lead, Service Delivery Manager, IT Service Manager.
 
 
 ## Descripción
@@ -18,9 +18,13 @@ Profesional del área TI, con título en carreras como: Ingeniero de Sistemas, I
 
 ## Formación secundaria
 
-Certificaciones de Scrum Master: Profesional Scrum Master (PSM I, PSM II, PSM III) de Scrum.org, Certified Scrum Master (SCM, A-CSM o CSP-SM) de Scrum Alliance, Profesional Scrum Fundations (PSF), DASM Disciplined Agile Scrum Master (PMI), DASSM Disciplined Agile Senior Scrum Master (PMI), SAFe® Scrum Master, SAFe® Advanced Scrum Master, Scrum Master Certified ScrumStudy o Scrum Master Professional CertiProf.
+Puede tener alguna certificación relacionada a marcos y metodologías ágiles de desarrollo de software o gestión de servicios.
 
-Certificaciones Kanban: Professional Kanban I, Team Kanban Practitioner (TKP), Certificación Kanban System Design (KMP-1), Certificación Kanban Management Professional (KMPI+KMPII), Professional Kanban de Scrum Manager, Certified Kanban Professional de Global Trust Association, Kanban Essential Professional Certificate de CertiProf, etc.
+**Certificaciones de Scrum Master**: Profesional Scrum Master (PSM I, PSM II, PSM III) de Scrum.org, Certified Scrum Master (SCM, A-CSM o CSP-SM) de Scrum Alliance, Profesional Scrum Fundations (PSF), DASM Disciplined Agile Scrum Master (PMI), DASSM Disciplined Agile Senior Scrum Master (PMI), SAFe® Scrum Master, SAFe® Advanced Scrum Master, Scrum Master Certified ScrumStudy o Scrum Master Professional CertiProf.
+
+**Certificaciones Kanban**: Professional Kanban I, Team Kanban Practitioner (TKP), Certificación Kanban System Design (KMP-1), Certificación Kanban Management Professional (KMPI+KMPII), Professional Kanban de Scrum Manager, Certified Kanban Professional de Global Trust Association, Kanban Essential Professional Certificate de CertiProf, etc.
+
+**Certificación en gestión de servicios**: ITIL V4 Certification.
 
 ## Supervisión o liderazgo
 
@@ -39,12 +43,12 @@ Cuenta con personas a cargo en un equipo de desarrollo o lidera un equipo de ent
 ## Dimensiones o posturas del rol
 -	**Manager**: Monitorear el progreso, impacto en clientes y el éxito, con el resto de los roles; gestiona riesgos y alineación estratégica; y asegura transparencia.
 -	**Líder Servicial**: Ser verdaderos líderes serviciales que sirven al equipo y a la organización en general para “hacer que las cosas pasen”. 
--	**Teacher**: Enseñar a su equipo y a la organización sobre agilidad, prácticas Scrum, Kanban, Lean y buenas prácticas (XP, etc.).
 - **Facilitador**: Prepara, modera y facilita las reuniones de trabajo: planning, daily, refinement, review, retrospective, etc; para que sean efectivas.
 - **Removedor de impedimentos**: Remueve, facilita y/o giía la remoción de obstáculos e impedimentos que limitan eficiencia y eficacia del equipo.
 - **Agente de cambio**: Busca mejorar todo (equipo, procesos y metodología) siendo un agente de cambio para que la organización sea más ágil, eficiente y efectiva.
-- **Coach**: Ayuda a identificar sus problemas y a buscar sus propias soluciones con un enfoque en la cultura, mentalidad y el comportamiento Agile, Lean y Scrum.
-- **Mentor**: Realiza mentoring a profesionales de menor experiencia guiando, inspirando y ayudando en el desarrollo de su carrera profesional.
+-	**Teacher**: Enseñar a su equipo y a la organización sobre agilidad, prácticas Scrum, Kanban, Lean y buenas prácticas (XP, etc.).
+- **Entrenador, Coach**: Ayuda a identificar sus problemas y a buscar sus propias soluciones con un enfoque en la cultura, mentalidad y el comportamiento Agile, Lean y Scrum.
+- **Entrenador, Mentor**: Realiza mentoring a profesionales de menor experiencia guiando, inspirando y ayudando en el desarrollo de su carrera profesional.
 
 ## Responsabilidades y funciones
 
@@ -101,9 +105,9 @@ Cuenta con personas a cargo en un equipo de desarrollo o lidera un equipo de ent
 ## Tecnologías
 
 - Es deseable que maneje o conozca el stack en que trabaja su equipo y las tecnologías del ecosistema.
-- Herramientas de gestión de proyectos ágiles como: suite Atlassian (JIRA y Confluence), Rational Team Concert (de IBM).
-- Herramientas de ofimática como: Google Workspace, Microsoft 365, etc.
+- Herramientas de gestión de proyectos ágiles como: suite Atlassian (JIRA y Confluence), Microsoft Azure DevOps, GitHub Projects, Targetprocess, Leankit/Planview, Rational Team Concert (de IBM).
 - Herramientas de gestión de tareas como: Planner de suite Microsoft 365, Trello, Linear, Asana, Kanbanzone, Monday.com, ClickUp, etc.
+- Herramientas de ofimática como: Google Workspace, Microsoft 365, etc.
 - Manejo de herramientas colaborativas como: Miro, Mural, Scrumblr, IdeaBoardz, Sketchboard, Witeboard, Stormboard, Google Jamboard, etc.
 
 
