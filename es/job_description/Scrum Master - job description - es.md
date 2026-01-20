@@ -88,7 +88,8 @@ Se desenvuelve en las siguientes dimensiones o posturas:
 ## Tecnologías
 
 - Es deseable que maneje o conozca el stack en que trabaja su equipo y las tecnologías del ecosistema.
-- Herramientas de gestión de proyectos ágiles como: suite Atlassian (JIRA y Confluence).
+- Herramientas de gestión de proyectos ágiles como: suite Atlassian (JIRA y Confluence), Microsoft Azure DevOps, GitHub Projects, Targetprocess, Leankit/Planview, Rational Team Concert (de IBM).
+- Herramientas de gestión de tareas como: Planner de suite Microsoft 365, Trello, Linear, Asana, Kanbanzone, Monday.com, ClickUp, etc.
 - Herramientas de ofimática como: Google Workspace, Microsoft 365, etc.
 - Herramientas de gestión de tareas como: Planner de suite Microsoft 365.
 - Manejo de herramientas colaborativas como: Miro, Mural, Scrumblr, IdeaBoardz, Sketchboard, Witeboard, Stormboard, Google Jamboard, etc. 
