@@ -1,4 +1,4 @@
-# Analista Lean-PMO
+# Analista Lean-PMO/LPM
 
 ## Otros Nombres
 
