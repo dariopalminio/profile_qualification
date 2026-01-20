@@ -88,7 +88,8 @@ No cuenta con personal a su cargo. Facilita y lidera metodológicamente a líder
 
 ## Tecnologías
 
-- Manejo avanzado de herramientas de gestión ágil como: Jira de Atlassian, RTC, etc. 
-- Manejo de herramientas de ofimática como Google Workspace o Microsoft 365. 
+- Herramientas de gestión de proyectos ágiles como: suite Atlassian (JIRA y Confluence), Microsoft Azure DevOps, GitHub Projects, Targetprocess, Leankit/Planview, Rational Team Concert (de IBM).
+- Herramientas de gestión de tareas como: Planner de suite Microsoft 365, Trello, Linear, Asana, Kanbanzone, Monday.com, ClickUp, etc.
+- Herramientas de ofimática como: Google Workspace, Microsoft 365, etc.
 - Organizaciónd del trabajo: Microsoft 365 (manejo tableros kanban en Planner), Kanbanize, Doodle, Asana, Teams, Kabanize, et.
 - Manejo de herramientas colaborativas como: Miro, Mural, Scrumblr, IdeaBoardz, Sketchboard, Witeboard, Stormboard, Google Jamboard, etc. 
