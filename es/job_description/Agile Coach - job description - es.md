@@ -14,11 +14,13 @@ Profesional del área Tecnología de la Información (para el ámbito de desarro
 
 ## Formación secundaria
 
-Certificaciones de Agile Coaching: Certificación de Agile Coaching (ICP-ACC, ICAgile), Agile Team Facilitation (ICP-ATF, ICAgile), Agile fundamentals (ICP ICAgile), 
+Certificaciones de **Agile Coaching**: Certificación de Agile Coaching (ICP-ACC, ICAgile), Agile Team Facilitation (ICP-ATF, ICAgile), Agile fundamentals (ICP ICAgile), 
 
-Certificaciones de Scrum: Profesional Scrum Fundations (PSF), Profesional Scrum Master (PSM I, PSM II, PSM III) de Scrum.org, Certified Scrum Master (SCM, A-CSM o CSP-SM) de Scrum Alliance, Profesional Scrum Fundations (PSF), DASM Disciplined Agile Scrum Master (PMI), DASSM Disciplined Agile Senior Scrum Master (PMI), SAFe® Scrum Master, SAFe® Advanced Scrum Master, Scrum Master Certified ScrumStudy o Scrum Master Professional CertiProf; Profesional Scrum Product Owner (PSPO I, PSPO II), Certified Scrum Product Owner (CSPO), SAFe Product Owner/Product Manager.
+Certificaciones de **Scrum**: Profesional Scrum Fundations (PSF), Profesional Scrum Master (PSM I, PSM II, PSM III) de Scrum.org, Certified Scrum Master (SCM, A-CSM o CSP-SM) de Scrum Alliance, Profesional Scrum Fundations (PSF), DASM Disciplined Agile Scrum Master (PMI), DASSM Disciplined Agile Senior Scrum Master (PMI), SAFe® Scrum Master, SAFe® Advanced Scrum Master, Scrum Master Certified ScrumStudy o Scrum Master Professional CertiProf; Profesional Scrum Product Owner (PSPO I, PSPO II), Certified Scrum Product Owner (CSPO), SAFe Product Owner/Product Manager.
 
-Certificaciones Kanban: Team Kanban Practitioner (TKP), Certificación Kanban System Design (KMP-1), Certificación Kanban Management Professional (KMPI+KMPII), Professional Kanban de Scrum Manager, Certified Kanban Professional de Global Trust Association, Kanban Essential Professional Certificate de CertiProf, etc.
+Certificaciones **Kanban**: Team Kanban Practitioner (TKP), Certificación Kanban System Design (KMP-1), Certificación Kanban Management Professional (KMPI+KMPII), Professional Kanban de Scrum Manager, Certified Kanban Professional de Global Trust Association, Kanban Essential Professional Certificate de CertiProf, etc.
+
+Otras certificaciones de **Gestión de Producto (Product Management)**, **Frameworks de Escalado (SAFe, LeSS, etc.)**, **Gestión de servicios (ITIL 4, etc.)**, etc.
 
 Diplomados o maestrías en Diseño Organizacional.
 
