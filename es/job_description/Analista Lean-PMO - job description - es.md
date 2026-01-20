@@ -55,10 +55,10 @@ No cuenta con personal a su cargo.
 1.	Mantener organizada la oficina de gestión de portafolio, productos y/o proyectos.
 2.	Colaborar con otros Gerentes de departamento, informar al personal ejecutivo y colaborar con todos los miembros del equipo.
 3.	Establecer qué herramientas utilizar y bajo qué metodologías (ágiles y tradicionales) trabajar a la hora de gestionar los productos/proyectos.
-4.	Facilitar la planificación del proyecto y productos.
+4.	Facilitar o apoyar a la planificación estratégica y trimestral del portafolio.
 5.	Facilitar y liderar la priorización de iniciativas del portafolio.
 6.	Facilitar el desarrollo iterativo, incrementa y evolutivo de productos e iniciativas de portafolio.
-7.	Asegurarse del rendimiento de las cadenas de valor (maximizar entrega de valor).
+7.	Asegurarse del rendimiento de las cadenas de valor (maximizar entrega de valor) y apoyar con las revisiones de valor del portafolio.
 8.	Asegurar ciertos estándares en la administración y estructura de coordinación y gobernanza en la ejecución del portafolio.
 9.	Administrar la eficiencia Lean del los procesos y la adaptación ágil de la cartera de portafolio según la estrategia de la organización. 
 10.	Analizar el aspecto financiero de las cadenas de valor, equipos y proyectos (Ingresos, márgenes, EBITDA, KPI de los productos, ROI de los proyectos, etc.) en conjunto con profesionales de Finanzas y otras áreas.
