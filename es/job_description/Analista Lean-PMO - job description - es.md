@@ -2,7 +2,7 @@
 
 ## Otros Nombres
 
-Analista Lean-PMO, Analista Lean-Agile PMO, Analista PMO Ágil, Analista Lean Portfolio Management.
+Analista Lean-PMO, Analista Lean-Agile PMO, Analista PMO Ágil, Analista Lean Portfolio Management (LPM).
 
 ## Descripción
 
