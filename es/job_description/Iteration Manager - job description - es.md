@@ -2,7 +2,7 @@
 
 ## Otros Nombres
 
-Líder de Equipo Ágil, Team Lead, Agile Team Lead, Service Delivery Manager, IT Service Manager.
+Líder de Equipo Ágil, Team Lead, Agile Team Lead, Service Delivery Manager, IT Service Manager, Scrum Master Extended.
 
 
 ## Descripción
