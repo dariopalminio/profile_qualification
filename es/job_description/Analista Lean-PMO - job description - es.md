@@ -52,18 +52,15 @@ No cuenta con personal a su cargo.
 
 ## Responsabilidades y funciones
 
-1.	Mantener organizada la oficina de gestión de portafolio, productos y/o proyectos.
-2.	Colaborar con otros Gerentes de departamento, informar al personal ejecutivo y colaborar con todos los miembros del equipo.
-3.	Establecer qué herramientas utilizar y bajo qué metodologías (ágiles y tradicionales) trabajar a la hora de gestionar los productos/proyectos.
-4.	Facilitar o apoyar a la planificación estratégica y trimestral del portafolio.
-5.	Facilitar y liderar la priorización de iniciativas del portafolio.
-6.	Facilitar el desarrollo iterativo, incrementa y evolutivo de productos e iniciativas de portafolio.
-7.	Asegurarse del rendimiento de las cadenas de valor (maximizar entrega de valor) y apoyar con las revisiones de valor del portafolio.
-8.	Asegurar ciertos estándares en la administración y estructura de coordinación y gobernanza en la ejecución del portafolio.
-9.	Administrar la eficiencia Lean del los procesos y la adaptación ágil de la cartera de portafolio según la estrategia de la organización. 
-10.	Analizar el aspecto financiero de las cadenas de valor, equipos y proyectos (Ingresos, márgenes, EBITDA, KPI de los productos, ROI de los proyectos, etc.) en conjunto con profesionales de Finanzas y otras áreas.
-11. Administrar y mantener la organización y consistencia del portafolio en las herramientas usadas.
-
+1. Facilitar el cambio hacia una orientación al cliente centrada en un contexto más amplio.
+2. Apoyar la comunicación de una estrategia adaptativa con transparencia.
+3. Facilitar el alinearse en torno a objetivos comunes y cómo podrían cambiar. Apoyar en actividades de planeaciones estratégicas y trimestrales.
+4. Apoyar las actividades para definir, priorizar y entregar valor comercial con frecuencia.
+5. Colaborar en estructurar los flujos de valor del portafolio.
+6. Apoyar en definir y medir valor e influenciar en asumir la responsabilidad de los resultados de valor en función de "maximizar el valor entregado".
+7. Apoyar en actividades de mejora que optimice el flujo y reduzca el desperdicio en todo el sistema.
+8. Acortar los ciclos de planificación y financiación del portafolio.
+9. Facilitar y apoyar en balancear la capacidad y la demanda.
 
 ## Tecnologías
 Debe manejar herramientas de gestión de proyectos, de documentos y de tareas como: Planillas de cálculo Excel, Microsoft Project, Open Project, Microsoft Planner (Office 365), Jira y Confluence de Atlassian.
