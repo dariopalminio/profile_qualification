@@ -20,7 +20,7 @@ Certificaciones de **Scrum**: Profesional Scrum Fundations (PSF), Profesional Sc
 
 Certificaciones **Kanban**: Team Kanban Practitioner (TKP), Certificación Kanban System Design (KMP-1), Certificación Kanban Management Professional (KMPI+KMPII), Professional Kanban de Scrum Manager, Certified Kanban Professional de Global Trust Association, Kanban Essential Professional Certificate de CertiProf, etc.
 
-Otras certificaciones de **Gestión de Producto (Product Management)**, **Frameworks de Escalado (SAFe, LeSS, etc.)**, **Gestión de servicios (ITIL 4, etc.)**, etc.
+Otras certificaciones de **Gestión de Producto (Product Management)**, **Frameworks de Escalado (SAFe, LeSS, etc.)**, **Gestión de servicios (ITIL 4, etc.)**, **Management 3.0**, etc.
 
 Diplomados o maestrías en Diseño Organizacional.
 
