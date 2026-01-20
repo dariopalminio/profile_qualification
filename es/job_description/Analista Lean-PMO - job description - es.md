@@ -16,9 +16,9 @@ Profesional titulado de carreras como: Ingeniero de Sistemas, Ingeniería Inform
 
 Certificaciones en **Gestión de Portafolio** Lean, Agile o PMI (tradicional/old school): Lean Portfolio Management (LPM), ICAgile en Lean Portfolio Management (ICP-LPM) certification, SAFe Lean Portfolio Manager (LPM) certification.
 
-Persona diplomada o certificada en **Gestión de Proyectos Ágiles** con títulos como: SAFe Product Owner/Product Manager, Leading SAFe, Certified Scrum Product Owner (CSPO), Certificación Project Management Professional (PMP), certificación PMI, ITIL, PMI-ACP, Diplomas o certificaciones a fin. 
+Certificaciones de **Gestión de Producto**: ICP-PDM Product Management certification, Certified Product Manager AIPMM, SAFe Product Owner/Product Manager (POPM) certification y Product Management Certificado del MIT Professional Programs, Certified Scrum Product Owner (CSPO), Certificación Project Management Professional (PMP).
 
-Certificaciones de **Gestión de Producto**: ICP-PDM Product Management certification, Certified Product Manager AIPMM, SAFe Product Owner/Product Manager (POPM) certification y Product Management Certificado del MIT Professional Programs.
+Persona diplomada o certificada en **Gestión de Proyectos Ágiles** como Scrum, método Kanban, etc. 
 
 ## Supervisión o liderazgo
 
