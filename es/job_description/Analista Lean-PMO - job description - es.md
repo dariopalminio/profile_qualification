@@ -28,11 +28,11 @@ No cuenta con personal a su cargo.
 
 1.	Debe poder identificar o facilitar la identificación de las necesidades comerciales de los clientes y buscar satisfacerlas a través de una gestión y análisis de productos y proyectos efectivos. 
 2.	Debe mostrar destreza analítica y la capacidad de comunicarse de manera efectiva con los miembros del personal, la gerencia y los clientes. 
-3.	Profundos conocimientos en gestión de portafolio Lean y Agile. Conocimiento en gestión de portafolio en framework de escalado ágil: Nexus, SAFe, LeSS, Flight Levels, etc.
-4.	Conocimientos en gestión de proyectos y PMI (Guía PMBOK).
+3.	Profundos conocimientos en gestión de portafolio Lean y Agile (LPM). Conocimiento en gestión de portafolio en framework de escalado ágil como: Nexus, SAFe, LeSS, Flight Levels, EDGE, etc.
+4.	Conocimientos en gestión de proyectos y PMI (Guía PMBOK v7).
 5.	Conocimientos en Lean Thinking y Lean Manufacturing.
 6.	Conocimiento en el manifiesto ágil y gestión ágil (Management 3.0). 
-7.	Debe tener un mindset orientado a la agilidad y al pensaiento Lean.
+7.	Debe tener un mindset orientado a la agilidad y/o al pensaiento Lean.
 8.	Capacidad de planificación (Roadmap, WBS) y medición de desempeño.
 9.	Conocimiento en técnicas de priorización (MoSCoW, WSJF, etc)-
 10.	Conocimiento en gestión orientada a objetivos y lineamiento estratégico (OKR, LVT, Hoshin Kanri Planning, etc.), gestión de tareas (kanban, etc.), gestión del tiempo (GTD, pomodoro,etc.).
